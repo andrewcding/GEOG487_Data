@@ -4363,6 +4363,295 @@
         "Between 12 p.m. and 4:59 a.m.": 15.7
       }
     },
+ {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -123.26354923399998,
+                49.25898691800006
+              ],
+              [
+                -123.26227661299998,
+                49.259680358000026
+              ],
+              [
+                -123.25885638799997,
+                49.25996481200008
+              ],
+              [
+                -123.25687265399995,
+                49.256943120000074
+              ],
+              [
+                -123.25370083999996,
+                49.25403321700003
+              ],
+              [
+                -123.25370181899996,
+                49.25270432600007
+              ],
+              [
+                -123.25242739799995,
+                49.250925161000055
+              ],
+              [
+                -123.25021733699998,
+                49.25021120400004
+              ],
+              [
+                -123.24754998299994,
+                49.24863630800007
+              ],
+              [
+                -123.24007205899994,
+                49.245954737000034
+              ],
+              [
+                -123.23316064799997,
+                49.242174489000035
+              ],
+              [
+                -123.22772798299997,
+                49.24034646100006
+              ],
+              [
+                -123.22157570499996,
+                49.236993806000044
+              ],
+              [
+                -123.22007184999995,
+                49.23911649300004
+              ],
+              [
+                -123.20856367799996,
+                49.235052265000036
+              ],
+              [
+                -123.20532003199997,
+                49.23733669400008
+              ],
+              [
+                -123.19707716999994,
+                49.23504505900007
+              ],
+              [
+                -123.19684517999997,
+                49.236474842000064
+              ],
+              [
+                -123.19838295199997,
+                49.23648596900006
+              ],
+              [
+                -123.19832834099998,
+                49.238588863000075
+              ],
+              [
+                -123.19681826799996,
+                49.238649688000066
+              ],
+              [
+                -123.19674649999996,
+                49.246213038000064
+              ],
+              [
+                -123.19891573399997,
+                49.246308843000065
+              ],
+              [
+                -123.20460113699994,
+                49.24913233500007
+              ],
+              [
+                -123.20054506299999,
+                49.25004694100005
+              ],
+              [
+                -123.19676411699999,
+                49.25023135500004
+              ],
+              [
+                -123.19654972599994,
+                49.25651719000007
+              ],
+              [
+                -123.20293077599996,
+                49.25668611700007
+              ],
+              [
+                -123.20323501599995,
+                49.25827497100005
+              ],
+              [
+                -123.21537765399995,
+                49.25850258500003
+              ],
+              [
+                -123.21503504999998,
+                49.26736843400005
+              ],
+              [
+                -123.21958311899999,
+                49.26724111500005
+              ],
+              [
+                -123.21959905599999,
+                49.26897243600007
+              ],
+              [
+                -123.22192654899999,
+                49.268726454000046
+              ],
+              [
+                -123.22197663099996,
+                49.27011885600007
+              ],
+              [
+                -123.22473800599994,
+                49.27268344700008
+              ],
+              [
+                -123.22490281299997,
+                49.27470995300007
+              ],
+              [
+                -123.22376121099995,
+                49.27807443100005
+              ],
+              [
+                -123.23329359199994,
+                49.279525973000034
+              ],
+              [
+                -123.23596667699996,
+                49.27901524200007
+              ],
+              [
+                -123.23940596499995,
+                49.27993135500003
+              ],
+              [
+                -123.24442494099998,
+                49.27984210100004
+              ],
+              [
+                -123.25020541599997,
+                49.27836043900004
+              ],
+              [
+                -123.25499713499994,
+                49.275182147000066
+              ],
+              [
+                -123.25643978599999,
+                49.27469486800004
+              ],
+              [
+                -123.26009756999997,
+                49.27177207700004
+              ],
+              [
+                -123.26240301499996,
+                49.27077650100006
+              ],
+              [
+                -123.26461467799999,
+                49.26693150800003
+              ],
+              [
+                -123.264762744,
+                49.265060031000075
+              ],
+              [
+                -123.26613768199996,
+                49.26498470700005
+              ],
+              [
+                -123.265575378,
+                49.26426282400007
+              ],
+              [
+                -123.26438674499997,
+                49.26437475400007
+              ],
+              [
+                -123.26192107599996,
+                49.26266732000005
+              ],
+              [
+                -123.26245324399997,
+                49.260313161000056
+              ],
+              [
+                -123.26396268399998,
+                49.25914793900006
+              ],
+              [
+                -123.26354923399998,
+                49.25898691800006
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "CensusCommuteB_JSONToFeature.OBJECTID": 7,
+        "CensusCommuteB_JSONToFeature.a": 815.2061,
+        "CensusCommuteB_JSONToFeature.q": 0,
+        "CensusCommuteB_JSONToFeature.t": "CSD",
+        "CensusCommuteB_JSONToFeature.dw": 9201,
+        "CensusCommuteB_JSONToFeature.hh": 7682,
+        "CensusCommuteB_JSONToFeature.id": 5915020,
+        "CensusCommuteB_JSONToFeature.pop": 18612,
+        "CensusCommuteB_JSONToFeature.dw16": 8542,
+        "CensusCommuteB_JSONToFeature.hh16": 6103,
+        "CensusCommuteB_JSONToFeature.name": "Metro Vancouver A (RDA)",
+        "CensusCommuteB_JSONToFeature.rgid": 59,
+        "CensusCommuteB_JSONToFeature.rpid": 5915,
+        "CensusCommuteB_JSONToFeature.ruid": 59933,
+        "CensusCommuteB_JSONToFeature.pop16": 16133,
+        "CensusCommuteB_JSONToFeature.Shape_Length": 3.1730979411206484,
+        "CensusCommuteB_JSONToFeature.Shape_Area": 0.10251187236896216,
+        "CommutingCensusData.csv.GEOUID": 5915020,
+        "CommutingCensusData.csv.PlaceName": "Metro Vancouver A, Regional district electoral area (RDA) [Census subdivision], British Columbia",
+        "CommutingCensusData.csv.Total - Place of work status for the employed labour force aged 15 years and over - 25% sample data": 100,
+        "CommutingCensusData.csv.Worked at home": 49.7,
+        "CommutingCensusData.csv.Worked outside Canada": 2.2,
+        "CommutingCensusData.csv.No fixed workplace address": 5.1,
+        "CommutingCensusData.csv.Usual place of work": 43.2,
+        "CommutingCensusData.csv.Total - Commuting destination for the employed labour force aged 15 years and over with a usual place of work - 25% sample data": 100,
+        "CommutingCensusData.csv.Commute within census subdivision (CSD) of residence": 41.5,
+        "CommutingCensusData.csv.Commute to a different census subdivision (CSD) within census division (CD) of residence": 56.3,
+        "CommutingCensusData.csv.Commute to a different census subdivision (CSD) and census division (CD) within province or territory of residence": 1.1,
+        "CommutingCensusData.csv.Commute to a different province or territory": 0.9,
+        "CommutingCensusData.csv.Total - Main mode of commuting for the employed labour force aged 15 years and over with a usual place of work or no fixed workplace address - 25% sample data": 100,
+        "CommutingCensusData.csv.Vehicle": 47,
+        "CommutingCensusData.csv.Vehicle - as a driver": 42.4,
+        "CommutingCensusData.csv.Vehicle - as a passenger": 4.8,
+        "CommutingCensusData.csv.Public transit": 17.1,
+        "CommutingCensusData.csv.Walked": 24.4,
+        "CommutingCensusData.csv.Bicycle": 8.3,
+        "CommutingCensusData.csv.Other method": 3.2,
+        "CommutingCensusData.csv.Total - Commuting duration for the employed labour force aged 15 years and over with a usual place of work or no fixed workplace address - 25% sample data": 100,
+        "CommutingCensusData.csv.Less than 15 minutes": 24.4,
+        "CommutingCensusData.csv.15 to 29 minutes": 36.7,
+        "CommutingCensusData.csv.30 to 44 minutes": 23.3,
+        "CommutingCensusData.csv.45 to 59 minutes": 8,
+        "CommutingCensusData.csv.60 minutes and over": 7.6,
+        "CommutingCensusData.csv.Total - Time leaving for work for the employed labour force aged 15 years and over with a usual place of work or no fixed workplace address - 25% sample data": 100,
+        "Between 5 a.m. and 5:59 a.m.": 1.8,
+        "Between 6 a.m. and 6:59 a.m.": 7.2,
+        "Between 7 a.m. and 7:59 a.m.": 15,
+        "Between 8 a.m. and 8:59 a.m.": 35.3,
+        "Between 9 a.m. and 11:59 a.m.": 28.6,
+        "Between 12 p.m. and 4:59 a.m.": 12.1
+      }
+    },
     {
       "type": "Feature",
       "id": 8,
