@@ -1,4 +1,425 @@
 {
-  "type" : "FeatureCollection",
-  "features" : [{"type":"Feature","id":1,"geometry":{"type":"Point","coordinates":[8.5491700000000606,47.464699000000053]},"properties":{"OBJECTID":1,"Airport_Code":"ZRH","Latitude":47.464699000000003,"Longitude":8.5491700000000002,"Altitude":1416,"Name":"Zürich Airport","Number_of_Routes":20}},{"type":"Feature","id":2,"geometry":{"type":"Point","coordinates":[4.7638900000000604,52.308601000000067]},"properties":{"OBJECTID":2,"Airport_Code":"AMS","Latitude":52.308601000000003,"Longitude":4.76389,"Altitude":-11,"Name":"Amsterdam Airport Schiphol","Number_of_Routes":255}},{"type":"Feature","id":3,"geometry":{"type":"Point","coordinates":[-84.42810099999997,33.636700000000076]},"properties":{"OBJECTID":3,"Airport_Code":"ATL","Latitude":33.636699999999998,"Longitude":-84.428100999999998,"Altitude":1026,"Name":"Hartsfield Jackson Atlanta International Airport","Number_of_Routes":238}},{"type":"Feature","id":4,"geometry":{"type":"Point","coordinates":[100.74700164800004,13.681099892000077]},"properties":{"OBJECTID":4,"Airport_Code":"BKK","Latitude":13.681099891662598,"Longitude":100.74700164794922,"Altitude":5,"Name":"Suvarnabhumi Airport","Number_of_Routes":141}},{"type":"Feature","id":5,"geometry":{"type":"Point","coordinates":[2.5500000000000682,49.012798000000032]},"properties":{"OBJECTID":5,"Airport_Code":"CDG","Latitude":49.012797999999997,"Longitude":2.5499999999999998,"Altitude":392,"Name":"Charles de Gaulle International Airport","Number_of_Routes":268}},{"type":"Feature","id":6,"geometry":{"type":"Point","coordinates":[51.608056000000033,25.273056000000054]},"properties":{"OBJECTID":6,"Airport_Code":"DOH","Latitude":25.273056,"Longitude":51.608055999999998,"Altitude":13,"Name":"Hamad International Airport","Number_of_Routes":177}},{"type":"Feature","id":7,"geometry":{"type":"Point","coordinates":[55.364398956000059,25.252799988000049]},"properties":{"OBJECTID":7,"Airport_Code":"DXB","Latitude":25.2527999878,"Longitude":55.364398956300001,"Altitude":62,"Name":"Dubai International Airport","Number_of_Routes":258}},{"type":"Feature","id":8,"geometry":{"type":"Point","coordinates":[8.5705560000000673,50.033333000000027]},"properties":{"OBJECTID":8,"Airport_Code":"FRA","Latitude":50.033332999999999,"Longitude":8.5705559999999998,"Altitude":364,"Name":"Frankfurt am Main Airport","Number_of_Routes":283}},{"type":"Feature","id":9,"geometry":{"type":"Point","coordinates":[-46.473056792999955,-23.435556411999983]},"properties":{"OBJECTID":9,"Airport_Code":"GRU","Latitude":-23.435556411743164,"Longitude":-46.473056793212891,"Altitude":2459,"Name":"Guarulhos - Governador André Franco Montoro International Airport","Number_of_Routes":105}},{"type":"Feature","id":10,"geometry":{"type":"Point","coordinates":[113.91500100000007,22.308901000000048]},"properties":{"OBJECTID":10,"Airport_Code":"HKG","Latitude":22.308900999999999,"Longitude":113.915001,"Altitude":28,"Name":"Hong Kong International Airport","Number_of_Routes":129}},{"type":"Feature","id":11,"geometry":{"type":"Point","coordinates":[126.45099639900002,37.469100952000076]},"properties":{"OBJECTID":11,"Airport_Code":"ICN","Latitude":37.469100952148438,"Longitude":126.45099639892578,"Altitude":23,"Name":"Incheon International Airport","Number_of_Routes":156}},{"type":"Feature","id":12,"geometry":{"type":"Point","coordinates":[-73.77890014999997,40.639801030000058]},"properties":{"OBJECTID":12,"Airport_Code":"JFK","Latitude":40.639801030000001,"Longitude":-73.778900149999998,"Altitude":13,"Name":"John F Kennedy International Airport","Number_of_Routes":193}},{"type":"Feature","id":13,"geometry":{"type":"Point","coordinates":[28.246000000000038,-26.13919999999996]},"properties":{"OBJECTID":13,"Airport_Code":"JNB","Latitude":-26.139199999999999,"Longitude":28.245999999999999,"Altitude":5558,"Name":"OR Tambo International Airport","Number_of_Routes":79}},{"type":"Feature","id":14,"geometry":{"type":"Point","coordinates":[-118.40799709999999,33.942501070000048]},"properties":{"OBJECTID":14,"Airport_Code":"LAX","Latitude":33.942501069999999,"Longitude":-118.4079971,"Altitude":125,"Name":"Los Angeles International Airport","Number_of_Routes":179}},{"type":"Feature","id":15,"geometry":{"type":"Point","coordinates":[-0.46194099999996752,51.470600000000047]},"properties":{"OBJECTID":15,"Airport_Code":"LHR","Latitude":51.470599999999997,"Longitude":-0.46194099999999999,"Altitude":83,"Name":"London Heathrow Airport","Number_of_Routes":218}},{"type":"Feature","id":16,"geometry":{"type":"Point","coordinates":[-99.072097999999983,19.436300000000074]},"properties":{"OBJECTID":16,"Airport_Code":"MEX","Latitude":19.436299999999999,"Longitude":-99.072097999999997,"Altitude":7316,"Name":"Licenciado Benito Juarez International Airport","Number_of_Routes":97}},{"type":"Feature","id":17,"geometry":{"type":"Point","coordinates":[140.38600158700001,35.764701843000068]},"properties":{"OBJECTID":17,"Airport_Code":"NRT","Latitude":35.764701843300003,"Longitude":140.38600158700001,"Altitude":141,"Name":"Narita International Airport","Number_of_Routes":118}},{"type":"Feature","id":18,"geometry":{"type":"Point","coordinates":[-122.37499999999994,37.61899948100006]},"properties":{"OBJECTID":18,"Airport_Code":"SFO","Latitude":37.618999481201172,"Longitude":-122.375,"Altitude":13,"Name":"San Francisco International Airport","Number_of_Routes":141}},{"type":"Feature","id":19,"geometry":{"type":"Point","coordinates":[103.99400300000008,1.3501900000000546]},"properties":{"OBJECTID":19,"Airport_Code":"SIN","Latitude":1.35019,"Longitude":103.99400300000001,"Altitude":22,"Name":"Singapore Changi Airport","Number_of_Routes":145}},{"type":"Feature","id":20,"geometry":{"type":"Point","coordinates":[151.17700195300006,-33.946098327999948]},"properties":{"OBJECTID":20,"Airport_Code":"SYD","Latitude":-33.946098327636719,"Longitude":151.177001953125,"Altitude":21,"Name":"Sydney Kingsford Smith International Airport","Number_of_Routes":97}},{"type":"Feature","id":21,"geometry":{"type":"Point","coordinates":[-79.630599975999985,43.677200317000029]},"properties":{"OBJECTID":21,"Airport_Code":"YYZ","Latitude":43.677200317400001,"Longitude":-79.630599975599992,"Altitude":569,"Name":"Lester B. Pearson International Airport","Number_of_Routes":188}},{"type":"Feature","id":22,"geometry":{"type":"Point","coordinates":[8.5491700000000606,47.464699000000053]},"properties":{"OBJECTID":22,"Airport_Code":"ZRH","Latitude":47.464699000000003,"Longitude":8.5491700000000002,"Altitude":1416,"Name":"Zürich Airport","Number_of_Routes":197}}]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76389000000006,
+          52.30860100000007
+        ]
+      },
+      "properties": {
+        "OBJECTID": 2,
+        "Airport_Code": "AMS",
+        "Latitude": 52.308601,
+        "Longitude": 4.76389,
+        "Altitude": -11,
+        "Name": "Amsterdam Airport Schiphol",
+        "Number_of_Routes": 255
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.42810099999997,
+          33.636700000000076
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3,
+        "Airport_Code": "ATL",
+        "Latitude": 33.6367,
+        "Longitude": -84.428101,
+        "Altitude": 1026,
+        "Name": "Hartsfield Jackson Atlanta International Airport",
+        "Number_of_Routes": 238
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.74700164800004,
+          13.681099892000077
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4,
+        "Airport_Code": "BKK",
+        "Latitude": 13.681099891662598,
+        "Longitude": 100.74700164794922,
+        "Altitude": 5,
+        "Name": "Suvarnabhumi Airport",
+        "Number_of_Routes": 141
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.550000000000068,
+          49.01279800000003
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5,
+        "Airport_Code": "CDG",
+        "Latitude": 49.012798,
+        "Longitude": 2.55,
+        "Altitude": 392,
+        "Name": "Charles de Gaulle International Airport",
+        "Number_of_Routes": 268
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.60805600000003,
+          25.273056000000054
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6,
+        "Airport_Code": "DOH",
+        "Latitude": 25.273056,
+        "Longitude": 51.608056,
+        "Altitude": 13,
+        "Name": "Hamad International Airport",
+        "Number_of_Routes": 177
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.36439895600006,
+          25.25279998800005
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7,
+        "Airport_Code": "DXB",
+        "Latitude": 25.2527999878,
+        "Longitude": 55.3643989563,
+        "Altitude": 62,
+        "Name": "Dubai International Airport",
+        "Number_of_Routes": 258
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.570556000000067,
+          50.03333300000003
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8,
+        "Airport_Code": "FRA",
+        "Latitude": 50.033333,
+        "Longitude": 8.570556,
+        "Altitude": 364,
+        "Name": "Frankfurt am Main Airport",
+        "Number_of_Routes": 283
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.473056792999955,
+          -23.435556411999983
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9,
+        "Airport_Code": "GRU",
+        "Latitude": -23.435556411743164,
+        "Longitude": -46.47305679321289,
+        "Altitude": 2459,
+        "Name": "Guarulhos - Governador André Franco Montoro International Airport",
+        "Number_of_Routes": 105
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.91500100000007,
+          22.30890100000005
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10,
+        "Airport_Code": "HKG",
+        "Latitude": 22.308901,
+        "Longitude": 113.915001,
+        "Altitude": 28,
+        "Name": "Hong Kong International Airport",
+        "Number_of_Routes": 129
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.45099639900002,
+          37.469100952000076
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11,
+        "Airport_Code": "ICN",
+        "Latitude": 37.46910095214844,
+        "Longitude": 126.45099639892578,
+        "Altitude": 23,
+        "Name": "Incheon International Airport",
+        "Number_of_Routes": 156
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.77890014999997,
+          40.63980103000006
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12,
+        "Airport_Code": "JFK",
+        "Latitude": 40.63980103,
+        "Longitude": -73.77890015,
+        "Altitude": 13,
+        "Name": "John F Kennedy International Airport",
+        "Number_of_Routes": 193
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.246000000000038,
+          -26.13919999999996
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13,
+        "Airport_Code": "JNB",
+        "Latitude": -26.1392,
+        "Longitude": 28.246,
+        "Altitude": 5558,
+        "Name": "OR Tambo International Airport",
+        "Number_of_Routes": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.40799709999999,
+          33.94250107000005
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14,
+        "Airport_Code": "LAX",
+        "Latitude": 33.94250107,
+        "Longitude": -118.4079971,
+        "Altitude": 125,
+        "Name": "Los Angeles International Airport",
+        "Number_of_Routes": 179
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4619409999999675,
+          51.47060000000005
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15,
+        "Airport_Code": "LHR",
+        "Latitude": 51.4706,
+        "Longitude": -0.461941,
+        "Altitude": 83,
+        "Name": "London Heathrow Airport",
+        "Number_of_Routes": 218
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.07209799999998,
+          19.436300000000074
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16,
+        "Airport_Code": "MEX",
+        "Latitude": 19.4363,
+        "Longitude": -99.072098,
+        "Altitude": 7316,
+        "Name": "Licenciado Benito Juarez International Airport",
+        "Number_of_Routes": 97
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.386001587,
+          35.76470184300007
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17,
+        "Airport_Code": "NRT",
+        "Latitude": 35.7647018433,
+        "Longitude": 140.386001587,
+        "Altitude": 141,
+        "Name": "Narita International Airport",
+        "Number_of_Routes": 118
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.37499999999994,
+          37.61899948100006
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18,
+        "Airport_Code": "SFO",
+        "Latitude": 37.61899948120117,
+        "Longitude": -122.375,
+        "Altitude": 13,
+        "Name": "San Francisco International Airport",
+        "Number_of_Routes": 141
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.99400300000008,
+          1.3501900000000546
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19,
+        "Airport_Code": "SIN",
+        "Latitude": 1.35019,
+        "Longitude": 103.994003,
+        "Altitude": 22,
+        "Name": "Singapore Changi Airport",
+        "Number_of_Routes": 145
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.17700195300006,
+          -33.94609832799995
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20,
+        "Airport_Code": "SYD",
+        "Latitude": -33.94609832763672,
+        "Longitude": 151.177001953125,
+        "Altitude": 21,
+        "Name": "Sydney Kingsford Smith International Airport",
+        "Number_of_Routes": 97
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.63059997599998,
+          43.67720031700003
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21,
+        "Airport_Code": "YYZ",
+        "Latitude": 43.6772003174,
+        "Longitude": -79.63059997559999,
+        "Altitude": 569,
+        "Name": "Lester B. Pearson International Airport",
+        "Number_of_Routes": 188
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.54917000000006,
+          47.46469900000005
+        ]
+      },
+      "properties": {
+        "OBJECTID": 22,
+        "Airport_Code": "ZRH",
+        "Latitude": 47.464699,
+        "Longitude": 8.54917,
+        "Altitude": 1416,
+        "Name": "Zürich Airport",
+        "Number_of_Routes": 197
+      }
+    }
+  ]
 }
