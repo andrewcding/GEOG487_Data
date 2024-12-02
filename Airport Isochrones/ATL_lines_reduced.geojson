@@ -38,7 +38,7 @@
                 "Duration__minutes_": 90,
                 "Reverse_Duration__minutes_": 115,
                 "Distance__km_": 653,
-                "Flights_per_Day": 26,
+                "Flights_per_Day": 26.0,
                 "Latitude": 28.429399490356445,
                 "Longitude": -81.30899810791016,
                 "Altitude": 96,
@@ -46,7 +46,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 1,
-                "Shape_Length": 6.070749610673446
+                "Shape_Length": 6.070749610673446,
+                "Country": "United States"
             }
         },
         {
@@ -94,7 +95,7 @@
                 "Duration__minutes_": 134,
                 "Reverse_Duration__minutes_": 171,
                 "Distance__km_": 1231,
-                "Flights_per_Day": 21,
+                "Flights_per_Day": 21.0,
                 "Latitude": 40.77719879,
                 "Longitude": -73.87259674,
                 "Altitude": 21,
@@ -102,7 +103,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 2,
-                "Shape_Length": 12.755706653758415
+                "Shape_Length": 12.755706653758415,
+                "Country": "United States"
             }
         },
         {
@@ -146,7 +148,7 @@
                 "Duration__minutes_": 112,
                 "Reverse_Duration__minutes_": 135,
                 "Distance__km_": 941,
-                "Flights_per_Day": 20,
+                "Flights_per_Day": 20.0,
                 "Latitude": 26.072599,
                 "Longitude": -80.152702,
                 "Altitude": 9,
@@ -154,7 +156,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 3,
-                "Shape_Length": 8.690704633967016
+                "Shape_Length": 8.690704633967016,
+                "Country": "United States"
             }
         },
         {
@@ -198,7 +201,7 @@
                 "Duration__minutes_": 105,
                 "Reverse_Duration__minutes_": 144,
                 "Distance__km_": 883,
-                "Flights_per_Day": 18,
+                "Flights_per_Day": 18.0,
                 "Latitude": 38.8521,
                 "Longitude": -77.037697,
                 "Altitude": 15,
@@ -206,7 +209,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 4,
-                "Shape_Length": 9.04946271240817
+                "Shape_Length": 9.04946271240817,
+                "Country": "United States"
             }
         },
         {
@@ -266,7 +270,7 @@
                 "Duration__minutes_": 205,
                 "Reverse_Duration__minutes_": 190,
                 "Distance__km_": 1936,
-                "Flights_per_Day": 19,
+                "Flights_per_Day": 19.0,
                 "Latitude": 39.861698150635,
                 "Longitude": -104.672996521,
                 "Altitude": 5431,
@@ -274,7 +278,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 5,
-                "Shape_Length": 21.21650370740432
+                "Shape_Length": 21.21650370740432,
+                "Country": "United States"
             }
         },
         {
@@ -318,7 +323,7 @@
                 "Duration__minutes_": 105,
                 "Reverse_Duration__minutes_": 135,
                 "Distance__km_": 932,
-                "Flights_per_Day": 19,
+                "Flights_per_Day": 19.0,
                 "Latitude": 39.1754,
                 "Longitude": -76.668297,
                 "Altitude": 146,
@@ -326,7 +331,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 6,
-                "Shape_Length": 9.53859098886558
+                "Shape_Length": 9.53859098886558,
+                "Country": "United States"
             }
         },
         {
@@ -366,7 +372,7 @@
                 "Duration__minutes_": 87,
                 "Reverse_Duration__minutes_": 119,
                 "Distance__km_": 658,
-                "Flights_per_Day": 18,
+                "Flights_per_Day": 18.0,
                 "Latitude": 27.975500106811523,
                 "Longitude": -82.533203125,
                 "Altitude": 26,
@@ -374,7 +380,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 7,
-                "Shape_Length": 5.970252196189487
+                "Shape_Length": 5.970252196189487,
+                "Country": "United States"
             }
         },
         {
@@ -422,7 +429,7 @@
                 "Duration__minutes_": 148,
                 "Reverse_Duration__minutes_": 151,
                 "Distance__km_": 1179,
-                "Flights_per_Day": 19,
+                "Flights_per_Day": 19.0,
                 "Latitude": 32.896801,
                 "Longitude": -97.038002,
                 "Altitude": 607,
@@ -430,7 +437,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 8,
-                "Shape_Length": 12.637106961379127
+                "Shape_Length": 12.637106961379127,
+                "Country": "United States"
             }
         },
         {
@@ -474,7 +482,7 @@
                 "Duration__minutes_": 129,
                 "Reverse_Duration__minutes_": 146,
                 "Distance__km_": 981,
-                "Flights_per_Day": 18,
+                "Flights_per_Day": 18.0,
                 "Latitude": 41.9786,
                 "Longitude": -87.9048,
                 "Altitude": 672,
@@ -482,7 +490,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 9,
-                "Shape_Length": 9.040137620913173
+                "Shape_Length": 9.040137620913173,
+                "Country": "United States"
             }
         },
         {
@@ -526,7 +535,7 @@
                 "Duration__minutes_": 118,
                 "Reverse_Duration__minutes_": 151,
                 "Distance__km_": 964,
-                "Flights_per_Day": 17,
+                "Flights_per_Day": 17.0,
                 "Latitude": 25.79319953918457,
                 "Longitude": -80.29060363769531,
                 "Altitude": 8,
@@ -534,7 +543,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 10,
-                "Shape_Length": 8.869785340495985
+                "Shape_Length": 8.869785340495985,
+                "Country": "United States"
             }
         },
         {
@@ -582,7 +592,7 @@
                 "Duration__minutes_": 128,
                 "Reverse_Duration__minutes_": 161,
                 "Distance__km_": 1205,
-                "Flights_per_Day": 17,
+                "Flights_per_Day": 17.0,
                 "Latitude": 40.692501068115234,
                 "Longitude": -74.168701171875,
                 "Altitude": 18,
@@ -590,7 +600,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 11,
-                "Shape_Length": 12.46262206367597
+                "Shape_Length": 12.46262206367597,
+                "Country": "United States"
             }
         },
         {
@@ -638,7 +649,7 @@
                 "Duration__minutes_": 119,
                 "Reverse_Duration__minutes_": 156,
                 "Distance__km_": 1076,
-                "Flights_per_Day": 17,
+                "Flights_per_Day": 17.0,
                 "Latitude": 39.87189865112305,
                 "Longitude": -75.24109649658203,
                 "Altitude": 36,
@@ -646,7 +657,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 12,
-                "Shape_Length": 11.110770846497058
+                "Shape_Length": 11.110770846497058,
+                "Country": "United States"
             }
         },
         {
@@ -726,7 +738,7 @@
                 "Duration__minutes_": 294,
                 "Reverse_Duration__minutes_": 337,
                 "Distance__km_": 3142,
-                "Flights_per_Day": 16,
+                "Flights_per_Day": 16.0,
                 "Latitude": 33.94250107,
                 "Longitude": -118.4079971,
                 "Altitude": 125,
@@ -734,7 +746,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 13,
-                "Shape_Length": 34.093754401911056
+                "Shape_Length": 34.093754401911056,
+                "Country": "United States"
             }
         },
         {
@@ -790,7 +803,7 @@
                 "Duration__minutes_": 155,
                 "Reverse_Duration__minutes_": 203,
                 "Distance__km_": 1529,
-                "Flights_per_Day": 16,
+                "Flights_per_Day": 16.0,
                 "Latitude": 42.36429977,
                 "Longitude": -71.00520325,
                 "Altitude": 20,
@@ -798,7 +811,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 14,
-                "Shape_Length": 16.034844292474293
+                "Shape_Length": 16.034844292474293,
+                "Country": "United States"
             }
         },
         {
@@ -874,7 +888,7 @@
                 "Duration__minutes_": 269,
                 "Reverse_Duration__minutes_": 301,
                 "Distance__km_": 2819,
-                "Flights_per_Day": 16,
+                "Flights_per_Day": 16.0,
                 "Latitude": 36.08010101,
                 "Longitude": -115.1520004,
                 "Altitude": 2181,
@@ -882,7 +896,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 15,
-                "Shape_Length": 30.90799467044357
+                "Shape_Length": 30.90799467044357,
+                "Country": "United States"
             }
         },
         {
@@ -918,7 +933,7 @@
                 "Duration__minutes_": 72,
                 "Reverse_Duration__minutes_": 105,
                 "Distance__km_": 367,
-                "Flights_per_Day": 15,
+                "Flights_per_Day": 15.0,
                 "Latitude": 35.2140007019043,
                 "Longitude": -80.94309997558594,
                 "Altitude": 748,
@@ -926,7 +941,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 16,
-                "Shape_Length": 3.825553301637177
+                "Shape_Length": 3.825553301637177,
+                "Country": "United States"
             }
         },
         {
@@ -966,7 +982,7 @@
                 "Duration__minutes_": 83,
                 "Reverse_Duration__minutes_": 110,
                 "Distance__km_": 574,
-                "Flights_per_Day": 15,
+                "Flights_per_Day": 15.0,
                 "Latitude": 35.87760162353516,
                 "Longitude": -78.7874984741211,
                 "Altitude": 435,
@@ -974,7 +990,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 17,
-                "Shape_Length": 6.07030619961426
+                "Shape_Length": 6.07030619961426,
+                "Country": "United States"
             }
         },
         {
@@ -1022,7 +1039,7 @@
                 "Duration__minutes_": 136,
                 "Reverse_Duration__minutes_": 137,
                 "Distance__km_": 1112,
-                "Flights_per_Day": 14,
+                "Flights_per_Day": 14.0,
                 "Latitude": 29.984399795532227,
                 "Longitude": -95.34140014648438,
                 "Altitude": 97,
@@ -1030,7 +1047,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 18,
-                "Shape_Length": 11.513141529899926
+                "Shape_Length": 11.513141529899926,
+                "Country": "United States"
             }
         },
         {
@@ -1074,7 +1092,7 @@
                 "Duration__minutes_": 117,
                 "Reverse_Duration__minutes_": 143,
                 "Distance__km_": 964,
-                "Flights_per_Day": 13,
+                "Flights_per_Day": 13.0,
                 "Latitude": 42.212398529052734,
                 "Longitude": -83.35340118408203,
                 "Altitude": 645,
@@ -1082,7 +1100,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 19,
-                "Shape_Length": 8.643082312063349
+                "Shape_Length": 8.643082312063349,
+                "Country": "United States"
             }
         },
         {
@@ -1134,7 +1153,7 @@
                 "Duration__minutes_": 152,
                 "Reverse_Duration__minutes_": 147,
                 "Distance__km_": 1311,
-                "Flights_per_Day": 13,
+                "Flights_per_Day": 13.0,
                 "Latitude": 30.194499969482425,
                 "Longitude": -97.6698989868164,
                 "Altitude": 542,
@@ -1142,7 +1161,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 20,
-                "Shape_Length": 13.68959258452394
+                "Shape_Length": 13.68959258452394,
+                "Country": "United States"
             }
         },
         {
@@ -1178,7 +1198,7 @@
                 "Duration__minutes_": 69,
                 "Reverse_Duration__minutes_": 86,
                 "Distance__km_": 436,
-                "Flights_per_Day": 12,
+                "Flights_per_Day": 12.0,
                 "Latitude": 30.49410057067871,
                 "Longitude": -81.68789672851562,
                 "Altitude": 30,
@@ -1186,7 +1206,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 21,
-                "Shape_Length": 4.1698189289019165
+                "Shape_Length": 4.1698189289019165,
+                "Country": "United States"
             }
         },
         {
@@ -1234,7 +1255,7 @@
                 "Duration__minutes_": 138,
                 "Reverse_Duration__minutes_": 134,
                 "Distance__km_": 1163,
-                "Flights_per_Day": 13,
+                "Flights_per_Day": 13.0,
                 "Latitude": 32.847099,
                 "Longitude": -96.851799,
                 "Altitude": 487,
@@ -1242,7 +1263,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 22,
-                "Shape_Length": 12.454049348179185
+                "Shape_Length": 12.454049348179185,
+                "Country": "United States"
             }
         },
         {
@@ -1286,7 +1308,7 @@
                 "Duration__minutes_": 115,
                 "Reverse_Duration__minutes_": 138,
                 "Distance__km_": 956,
-                "Flights_per_Day": 13,
+                "Flights_per_Day": 13.0,
                 "Latitude": 41.785999,
                 "Longitude": -87.752403,
                 "Altitude": 620,
@@ -1294,7 +1316,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 23,
-                "Shape_Length": 8.803686807959346
+                "Shape_Length": 8.803686807959346,
+                "Country": "United States"
             }
         },
         {
@@ -1330,7 +1353,7 @@
                 "Duration__minutes_": 69,
                 "Reverse_Duration__minutes_": 81,
                 "Distance__km_": 346,
-                "Flights_per_Day": 12,
+                "Flights_per_Day": 12.0,
                 "Latitude": 36.1245002746582,
                 "Longitude": -86.6781997680664,
                 "Altitude": 599,
@@ -1338,7 +1361,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 24,
-                "Shape_Length": 3.354621630146325
+                "Shape_Length": 3.354621630146325,
+                "Country": "United States"
             }
         },
         {
@@ -1426,7 +1450,7 @@
                 "Duration__minutes_": 335,
                 "Reverse_Duration__minutes_": 305,
                 "Distance__km_": 3524,
-                "Flights_per_Day": 11,
+                "Flights_per_Day": 11.0,
                 "Latitude": 47.449001,
                 "Longitude": -122.308998,
                 "Altitude": 433,
@@ -1434,7 +1458,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 25,
-                "Shape_Length": 40.63212276972334
+                "Shape_Length": 40.63212276972334,
+                "Country": "United States"
             }
         },
         {
@@ -1474,7 +1499,7 @@
                 "Duration__minutes_": 94,
                 "Reverse_Duration__minutes_": 100,
                 "Distance__km_": 687,
-                "Flights_per_Day": 11,
+                "Flights_per_Day": 11.0,
                 "Latitude": 29.99340057373047,
                 "Longitude": -90.25800323486328,
                 "Altitude": 4,
@@ -1482,7 +1507,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 26,
-                "Shape_Length": 6.876037685720589
+                "Shape_Length": 6.876037685720589,
+                "Country": "United States"
             }
         },
         {
@@ -1526,7 +1552,7 @@
                 "Duration__minutes_": 103,
                 "Reverse_Duration__minutes_": 105,
                 "Distance__km_": 782,
-                "Flights_per_Day": 11,
+                "Flights_per_Day": 11.0,
                 "Latitude": 38.748697,
                 "Longitude": -90.370003,
                 "Altitude": 618,
@@ -1534,7 +1560,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 27,
-                "Shape_Length": 7.841129805167593
+                "Shape_Length": 7.841129805167593,
+                "Country": "United States"
             }
         },
         {
@@ -1578,7 +1605,7 @@
                 "Duration__minutes_": 109,
                 "Reverse_Duration__minutes_": 120,
                 "Distance__km_": 882,
-                "Flights_per_Day": 11,
+                "Flights_per_Day": 11.0,
                 "Latitude": 26.68320083618164,
                 "Longitude": -80.09559631347656,
                 "Altitude": 19,
@@ -1586,7 +1613,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 28,
-                "Shape_Length": 8.19460031587418
+                "Shape_Length": 8.19460031587418,
+                "Country": "United States"
             }
         },
         {
@@ -1638,7 +1666,7 @@
                 "Duration__minutes_": 160,
                 "Reverse_Duration__minutes_": 169,
                 "Distance__km_": 1467,
-                "Flights_per_Day": 11,
+                "Flights_per_Day": 11.0,
                 "Latitude": 44.882,
                 "Longitude": -93.221802,
                 "Altitude": 841,
@@ -1646,7 +1674,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 29,
-                "Shape_Length": 14.295898999852202
+                "Shape_Length": 14.295898999852202,
+                "Country": "United States"
             }
         },
         {
@@ -1694,7 +1723,7 @@
                 "Duration__minutes_": 138,
                 "Reverse_Duration__minutes_": 176,
                 "Distance__km_": 1228,
-                "Flights_per_Day": 11,
+                "Flights_per_Day": 11.0,
                 "Latitude": 40.63980103,
                 "Longitude": -73.77890015,
                 "Altitude": 13,
@@ -1702,7 +1731,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 30,
-                "Shape_Length": 12.75721547221044
+                "Shape_Length": 12.75721547221044,
+                "Country": "United States"
             }
         },
         {
@@ -1774,7 +1804,7 @@
                 "Duration__minutes_": 250,
                 "Reverse_Duration__minutes_": 236,
                 "Distance__km_": 2562,
-                "Flights_per_Day": 11,
+                "Flights_per_Day": 11.0,
                 "Latitude": 33.43429946899414,
                 "Longitude": -112.01200103759766,
                 "Altitude": 1135,
@@ -1782,7 +1812,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 31,
-                "Shape_Length": 27.643442072834606
+                "Shape_Length": 27.643442072834606,
+                "Country": "United States"
             }
         },
         {
@@ -1826,7 +1857,7 @@
                 "Duration__minutes_": 103,
                 "Reverse_Duration__minutes_": 132,
                 "Distance__km_": 864,
-                "Flights_per_Day": 11,
+                "Flights_per_Day": 11.0,
                 "Latitude": 38.94449997,
                 "Longitude": -77.45580292,
                 "Altitude": 312,
@@ -1834,7 +1865,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 32,
-                "Shape_Length": 8.766599791927428
+                "Shape_Length": 8.766599791927428,
+                "Country": "United States"
             }
         },
         {
@@ -1918,7 +1950,7 @@
                 "Duration__minutes_": 316,
                 "Reverse_Duration__minutes_": 299,
                 "Distance__km_": 3453,
-                "Flights_per_Day": 10,
+                "Flights_per_Day": 10.0,
                 "Latitude": 37.61899948120117,
                 "Longitude": -122.375,
                 "Altitude": 13,
@@ -1926,7 +1958,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 33,
-                "Shape_Length": 38.32910573894701
+                "Shape_Length": 38.32910573894701,
+                "Country": "United States"
             }
         },
         {
@@ -1974,7 +2007,7 @@
                 "Duration__minutes_": 135,
                 "Reverse_Duration__minutes_": 131,
                 "Distance__km_": 1123,
-                "Flights_per_Day": 10,
+                "Flights_per_Day": 10.0,
                 "Latitude": 29.64539909,
                 "Longitude": -95.27890015,
                 "Altitude": 46,
@@ -1982,7 +2015,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 34,
-                "Shape_Length": 11.566697418219785
+                "Shape_Length": 11.566697418219785,
+                "Country": "United States"
             }
         },
         {
@@ -2030,7 +2064,7 @@
                 "Duration__minutes_": 134,
                 "Reverse_Duration__minutes_": 164,
                 "Distance__km_": 1197,
-                "Flights_per_Day": 10,
+                "Flights_per_Day": 10.0,
                 "Latitude": 43.6772003174,
                 "Longitude": -79.63059997559999,
                 "Altitude": 569,
@@ -2038,7 +2072,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 35,
-                "Shape_Length": 11.134205846030026
+                "Shape_Length": 11.134205846030026,
+                "Country": "Canada"
             }
         },
         {
@@ -2078,7 +2113,7 @@
                 "Duration__minutes_": 90,
                 "Reverse_Duration__minutes_": 110,
                 "Distance__km_": 722,
-                "Flights_per_Day": 10,
+                "Flights_per_Day": 10.0,
                 "Latitude": 39.998001,
                 "Longitude": -82.891899,
                 "Altitude": 815,
@@ -2086,7 +2121,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 36,
-                "Shape_Length": 6.544574062585401
+                "Shape_Length": 6.544574062585401,
+                "Country": "United States"
             }
         },
         {
@@ -2126,7 +2162,7 @@
                 "Duration__minutes_": 91,
                 "Reverse_Duration__minutes_": 109,
                 "Distance__km_": 700,
-                "Flights_per_Day": 9,
+                "Flights_per_Day": 9.0,
                 "Latitude": 39.7173,
                 "Longitude": -86.294403,
                 "Altitude": 797,
@@ -2134,7 +2170,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 37,
-                "Shape_Length": 6.361122842455002
+                "Shape_Length": 6.361122842455002,
+                "Country": "United States"
             }
         },
         {
@@ -2182,7 +2219,7 @@
                 "Duration__minutes_": 130,
                 "Reverse_Duration__minutes_": 129,
                 "Distance__km_": 1120,
-                "Flights_per_Day": 9,
+                "Flights_per_Day": 9.0,
                 "Latitude": 39.2976,
                 "Longitude": -94.713898,
                 "Altitude": 1026,
@@ -2190,7 +2227,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 38,
-                "Shape_Length": 11.748715651851334
+                "Shape_Length": 11.748715651851334,
+                "Country": "United States"
             }
         },
         {
@@ -2230,7 +2268,7 @@
                 "Duration__minutes_": 81,
                 "Reverse_Duration__minutes_": 92,
                 "Distance__km_": 534,
-                "Flights_per_Day": 9,
+                "Flights_per_Day": 9.0,
                 "Latitude": 35.04240036010742,
                 "Longitude": -89.97669982910156,
                 "Altitude": 341,
@@ -2238,7 +2276,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 39,
-                "Shape_Length": 5.724503066519009
+                "Shape_Length": 5.724503066519009,
+                "Country": "United States"
             }
         },
         {
@@ -2290,7 +2329,7 @@
                 "Duration__minutes_": 155,
                 "Reverse_Duration__minutes_": 153,
                 "Distance__km_": 1411,
-                "Flights_per_Day": 9,
+                "Flights_per_Day": 9.0,
                 "Latitude": 29.533700942993164,
                 "Longitude": -98.46980285644533,
                 "Altitude": 809,
@@ -2298,7 +2337,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 40,
-                "Shape_Length": 14.638473435859364
+                "Shape_Length": 14.638473435859364,
+                "Country": "United States"
             }
         },
         {
@@ -2342,7 +2382,7 @@
                 "Duration__minutes_": 105,
                 "Reverse_Duration__minutes_": 126,
                 "Distance__km_": 898,
-                "Flights_per_Day": 9,
+                "Flights_per_Day": 9.0,
                 "Latitude": 41.4117012024,
                 "Longitude": -81.8498001099,
                 "Altitude": 791,
@@ -2350,7 +2390,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 41,
-                "Shape_Length": 8.19278871411841
+                "Shape_Length": 8.19278871411841,
+                "Country": "United States"
             }
         },
         {
@@ -2386,7 +2427,7 @@
                 "Duration__minutes_": 71,
                 "Reverse_Duration__minutes_": 82,
                 "Distance__km_": 439,
-                "Flights_per_Day": 9,
+                "Flights_per_Day": 9.0,
                 "Latitude": 30.473400115967,
                 "Longitude": -87.186599731445,
                 "Altitude": 121,
@@ -2394,7 +2435,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 42,
-                "Shape_Length": 4.197450670955265
+                "Shape_Length": 4.197450670955265,
+                "Country": "United States"
             }
         },
         {
@@ -2426,7 +2468,7 @@
                 "Duration__minutes_": 55,
                 "Reverse_Duration__minutes_": 74,
                 "Distance__km_": 248,
-                "Flights_per_Day": 8,
+                "Flights_per_Day": 8.0,
                 "Latitude": 34.8956985474,
                 "Longitude": -82.2189025879,
                 "Altitude": 964,
@@ -2434,7 +2476,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 43,
-                "Shape_Length": 2.542835786310917
+                "Shape_Length": 2.542835786310917,
+                "Country": "United States"
             }
         },
         {
@@ -2478,7 +2521,7 @@
                 "Duration__minutes_": 93,
                 "Reverse_Duration__minutes_": 131,
                 "Distance__km_": 777,
-                "Flights_per_Day": 8,
+                "Flights_per_Day": 8.0,
                 "Latitude": 37.50519943237305,
                 "Longitude": -77.3197021484375,
                 "Altitude": 167,
@@ -2486,7 +2529,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 44,
-                "Shape_Length": 8.095380957898927
+                "Shape_Length": 8.095380957898927,
+                "Country": "United States"
             }
         },
         {
@@ -2526,7 +2570,7 @@
                 "Duration__minutes_": 80,
                 "Reverse_Duration__minutes_": 100,
                 "Distance__km_": 520,
-                "Flights_per_Day": 8,
+                "Flights_per_Day": 8.0,
                 "Latitude": 38.1744,
                 "Longitude": -85.736,
                 "Altitude": 501,
@@ -2534,7 +2578,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 45,
-                "Shape_Length": 4.722622291954247
+                "Shape_Length": 4.722622291954247,
+                "Country": "United States"
             }
         },
         {
@@ -2566,7 +2611,7 @@
                 "Duration__minutes_": 53,
                 "Reverse_Duration__minutes_": 78,
                 "Distance__km_": 216,
-                "Flights_per_Day": 8,
+                "Flights_per_Day": 8.0,
                 "Latitude": 33.56290054,
                 "Longitude": -86.75350189,
                 "Altitude": 650,
@@ -2574,7 +2619,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 46,
-                "Shape_Length": 2.326606033168699
+                "Shape_Length": 2.326606033168699,
+                "Country": "United States"
             }
         },
         {
@@ -2610,7 +2656,7 @@
                 "Duration__minutes_": 71,
                 "Reverse_Duration__minutes_": 84,
                 "Distance__km_": 417,
-                "Flights_per_Day": 8,
+                "Flights_per_Day": 8.0,
                 "Latitude": 32.89860153,
                 "Longitude": -80.04049683,
                 "Altitude": 46,
@@ -2618,7 +2664,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 47,
-                "Shape_Length": 4.449509038972536
+                "Shape_Length": 4.449509038972536,
+                "Country": "United States"
             }
         },
         {
@@ -2662,7 +2709,7 @@
                 "Duration__minutes_": 98,
                 "Reverse_Duration__minutes_": 135,
                 "Distance__km_": 851,
-                "Flights_per_Day": 8,
+                "Flights_per_Day": 8.0,
                 "Latitude": 40.49150085,
                 "Longitude": -80.23290253,
                 "Altitude": 1203,
@@ -2670,7 +2717,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 48,
-                "Shape_Length": 8.039408698678157
+                "Shape_Length": 8.039408698678157,
+                "Country": "United States"
             }
         },
         {
@@ -2710,7 +2758,7 @@
                 "Duration__minutes_": 83,
                 "Reverse_Duration__minutes_": 107,
                 "Distance__km_": 605,
-                "Flights_per_Day": 8,
+                "Flights_per_Day": 8.0,
                 "Latitude": 39.0488014221,
                 "Longitude": -84.6678009033,
                 "Altitude": 896,
@@ -2718,7 +2766,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 49,
-                "Shape_Length": 5.417415536528256
+                "Shape_Length": 5.417415536528256,
+                "Country": "United States"
             }
         },
         {
@@ -2798,7 +2847,7 @@
                 "Duration__minutes_": 280,
                 "Reverse_Duration__minutes_": 275,
                 "Distance__km_": 3054,
-                "Flights_per_Day": 8,
+                "Flights_per_Day": 8.0,
                 "Latitude": 32.7336006165,
                 "Longitude": -117.190002441,
                 "Altitude": 17,
@@ -2806,7 +2855,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 50,
-                "Shape_Length": 32.87340539404995
+                "Shape_Length": 32.87340539404995,
+                "Country": "United States"
             }
         },
         {
@@ -2878,7 +2928,7 @@
                 "Duration__minutes_": 254,
                 "Reverse_Duration__minutes_": 236,
                 "Distance__km_": 2566,
-                "Flights_per_Day": 8,
+                "Flights_per_Day": 8.0,
                 "Latitude": 40.78839874267578,
                 "Longitude": -111.97799682617188,
                 "Altitude": 4227,
@@ -2886,7 +2936,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 51,
-                "Shape_Length": 28.54781497192341
+                "Shape_Length": 28.54781497192341,
+                "Country": "United States"
             }
         },
         {
@@ -2934,7 +2985,7 @@
                 "Duration__minutes_": 119,
                 "Reverse_Duration__minutes_": 135,
                 "Distance__km_": 1083,
-                "Flights_per_Day": 8,
+                "Flights_per_Day": 8.0,
                 "Latitude": 42.94720077514648,
                 "Longitude": -87.89659881591797,
                 "Altitude": 723,
@@ -2942,7 +2993,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 52,
-                "Shape_Length": 9.938810771381823
+                "Shape_Length": 9.938810771381823,
+                "Country": "United States"
             }
         },
         {
@@ -2986,7 +3038,7 @@
                 "Duration__minutes_": 100,
                 "Reverse_Duration__minutes_": 120,
                 "Distance__km_": 835,
-                "Flights_per_Day": 8,
+                "Flights_per_Day": 8.0,
                 "Latitude": 26.53619956970215,
                 "Longitude": -81.75520324707031,
                 "Altitude": 30,
@@ -2994,7 +3046,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 53,
-                "Shape_Length": 7.5877239377855785
+                "Shape_Length": 7.5877239377855785,
+                "Country": "United States"
             }
         },
         {
@@ -3030,7 +3083,7 @@
                 "Duration__minutes_": 63,
                 "Reverse_Duration__minutes_": 80,
                 "Distance__km_": 346,
-                "Flights_per_Day": 7,
+                "Flights_per_Day": 7.0,
                 "Latitude": 32.12760162,
                 "Longitude": -81.20210266,
                 "Altitude": 50,
@@ -3038,7 +3091,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 54,
-                "Shape_Length": 3.561696882788275
+                "Shape_Length": 3.561696882788275,
+                "Country": "United States"
             }
         },
         {
@@ -3074,7 +3128,7 @@
                 "Duration__minutes_": 75,
                 "Reverse_Duration__minutes_": 101,
                 "Distance__km_": 494,
-                "Flights_per_Day": 7,
+                "Flights_per_Day": 7.0,
                 "Latitude": 36.097801208496094,
                 "Longitude": -79.93730163574219,
                 "Altitude": 925,
@@ -3082,7 +3136,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 55,
-                "Shape_Length": 5.121581954730408
+                "Shape_Length": 5.121581954730408,
+                "Country": "United States"
             }
         },
         {
@@ -3122,7 +3177,7 @@
                 "Duration__minutes_": 82,
                 "Reverse_Duration__minutes_": 94,
                 "Distance__km_": 549,
-                "Flights_per_Day": 7,
+                "Flights_per_Day": 7.0,
                 "Latitude": 32.3111991882,
                 "Longitude": -90.0758972168,
                 "Altitude": 346,
@@ -3130,7 +3185,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 56,
-                "Shape_Length": 5.8018488145174
+                "Shape_Length": 5.8018488145174,
+                "Country": "United States"
             }
         },
         {
@@ -3174,7 +3230,7 @@
                 "Duration__minutes_": 93,
                 "Reverse_Duration__minutes_": 128,
                 "Distance__km_": 833,
-                "Flights_per_Day": 7,
+                "Flights_per_Day": 7.0,
                 "Latitude": 36.89459991455078,
                 "Longitude": -76.20120239257812,
                 "Altitude": 26,
@@ -3182,7 +3238,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 57,
-                "Shape_Length": 8.851246274090464
+                "Shape_Length": 8.851246274090464,
+                "Country": "United States"
             }
         },
         {
@@ -3214,7 +3271,7 @@
                 "Duration__minutes_": 56,
                 "Reverse_Duration__minutes_": 78,
                 "Distance__km_": 245,
-                "Flights_per_Day": 8,
+                "Flights_per_Day": 8.0,
                 "Latitude": 35.81100082,
                 "Longitude": -83.9940033,
                 "Altitude": 981,
@@ -3222,7 +3279,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 58,
-                "Shape_Length": 2.2172207852604764
+                "Shape_Length": 2.2172207852604764,
+                "Country": "United States"
             }
         },
         {
@@ -3258,7 +3316,7 @@
                 "Duration__minutes_": 66,
                 "Reverse_Duration__minutes_": 82,
                 "Distance__km_": 388,
-                "Flights_per_Day": 7,
+                "Flights_per_Day": 7.0,
                 "Latitude": 30.357106,
                 "Longitude": -85.795414,
                 "Altitude": 69,
@@ -3266,7 +3324,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 59,
-                "Shape_Length": 3.5533158018605713
+                "Shape_Length": 3.5533158018605713,
+                "Country": "United States"
             }
         },
         {
@@ -3298,7 +3357,7 @@
                 "Duration__minutes_": 58,
                 "Reverse_Duration__minutes_": 77,
                 "Distance__km_": 230,
-                "Flights_per_Day": 6,
+                "Flights_per_Day": 6.0,
                 "Latitude": 33.36989974975586,
                 "Longitude": -81.9645004272461,
                 "Altitude": 144,
@@ -3306,7 +3365,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 60,
-                "Shape_Length": 2.4780478965988846
+                "Shape_Length": 2.4780478965988846,
+                "Country": "United States"
             }
         },
         {
@@ -3338,7 +3398,7 @@
                 "Duration__minutes_": 52,
                 "Reverse_Duration__minutes_": 75,
                 "Distance__km_": 171,
-                "Flights_per_Day": 7,
+                "Flights_per_Day": 7.0,
                 "Latitude": 35.035301208496094,
                 "Longitude": -85.20379638671875,
                 "Altitude": 683,
@@ -3346,7 +3406,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 61,
-                "Shape_Length": 1.5993251708561982
+                "Shape_Length": 1.5993251708561982,
+                "Country": "United States"
             }
         },
         {
@@ -3386,7 +3447,7 @@
                 "Duration__minutes_": 90,
                 "Reverse_Duration__minutes_": 110,
                 "Distance__km_": 719,
-                "Flights_per_Day": 7,
+                "Flights_per_Day": 7.0,
                 "Latitude": 27.39539909362793,
                 "Longitude": -82.55439758300781,
                 "Altitude": 30,
@@ -3394,7 +3455,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 62,
-                "Shape_Length": 6.5168533161301285
+                "Shape_Length": 6.5168533161301285,
+                "Country": "United States"
             }
         },
         {
@@ -3446,7 +3508,7 @@
                 "Duration__minutes_": 135,
                 "Reverse_Duration__minutes_": 181,
                 "Distance__km_": 1389,
-                "Flights_per_Day": 7,
+                "Flights_per_Day": 7.0,
                 "Latitude": 41.9388999939,
                 "Longitude": -72.68319702149999,
                 "Altitude": 173,
@@ -3454,7 +3516,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 63,
-                "Shape_Length": 14.400918056387042
+                "Shape_Length": 14.400918056387042,
+                "Country": "United States"
             }
         },
         {
@@ -3594,7 +3657,7 @@
                 "Duration__minutes_": 490,
                 "Reverse_Duration__minutes_": 605,
                 "Distance__km_": 6796,
-                "Flights_per_Day": 7,
+                "Flights_per_Day": 7.0,
                 "Latitude": 51.4706,
                 "Longitude": -0.461941,
                 "Altitude": 83,
@@ -3602,7 +3665,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 64,
-                "Shape_Length": 88.72967894818056
+                "Shape_Length": 88.72967894818056,
+                "Country": "United Kingdom"
             }
         },
         {
@@ -3634,7 +3698,7 @@
                 "Duration__minutes_": 59,
                 "Reverse_Duration__minutes_": 73,
                 "Distance__km_": 243,
-                "Flights_per_Day": 6,
+                "Flights_per_Day": 6.0,
                 "Latitude": 34.637199401855,
                 "Longitude": -86.775100708008,
                 "Altitude": 629,
@@ -3642,7 +3706,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 65,
-                "Shape_Length": 2.5514189506796043
+                "Shape_Length": 2.5514189506796043,
+                "Country": "United States"
             }
         },
         {
@@ -3678,7 +3743,7 @@
                 "Duration__minutes_": 74,
                 "Reverse_Duration__minutes_": 106,
                 "Distance__km_": 492,
-                "Flights_per_Day": 6,
+                "Flights_per_Day": 6.0,
                 "Latitude": 38.0364990234375,
                 "Longitude": -84.60590362548828,
                 "Altitude": 979,
@@ -3686,7 +3751,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 66,
-                "Shape_Length": 4.403393900886172
+                "Shape_Length": 4.403393900886172,
+                "Country": "United States"
             }
         },
         {
@@ -3722,7 +3788,7 @@
                 "Duration__minutes_": 71,
                 "Reverse_Duration__minutes_": 82,
                 "Distance__km_": 404,
-                "Flights_per_Day": 6,
+                "Flights_per_Day": 6.0,
                 "Latitude": 30.4832,
                 "Longitude": -86.525398,
                 "Altitude": 87,
@@ -3730,7 +3796,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 67,
-                "Shape_Length": 3.7874595719159134
+                "Shape_Length": 3.7874595719159134,
+                "Country": "United States"
             }
         },
         {
@@ -3766,7 +3833,7 @@
                 "Duration__minutes_": 60,
                 "Reverse_Duration__minutes_": 87,
                 "Distance__km_": 265,
-                "Flights_per_Day": 6,
+                "Flights_per_Day": 6.0,
                 "Latitude": 35.43619918823242,
                 "Longitude": -82.54180145263672,
                 "Altitude": 2165,
@@ -3774,7 +3841,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 68,
-                "Shape_Length": 2.607071908986524
+                "Shape_Length": 2.607071908986524,
+                "Country": "United States"
             }
         },
         {
@@ -3810,7 +3878,7 @@
                 "Duration__minutes_": 59,
                 "Reverse_Duration__minutes_": 85,
                 "Distance__km_": 309,
-                "Flights_per_Day": 6,
+                "Flights_per_Day": 6.0,
                 "Latitude": 33.93880081176758,
                 "Longitude": -81.11949920654297,
                 "Altitude": 236,
@@ -3818,7 +3886,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 69,
-                "Shape_Length": 3.32246793728811
+                "Shape_Length": 3.32246793728811,
+                "Country": "United States"
             }
         },
         {
@@ -3854,7 +3923,7 @@
                 "Duration__minutes_": 65,
                 "Reverse_Duration__minutes_": 80,
                 "Distance__km_": 362,
-                "Flights_per_Day": 6,
+                "Flights_per_Day": 6.0,
                 "Latitude": 30.396499633789062,
                 "Longitude": -84.35030364990234,
                 "Altitude": 81,
@@ -3862,7 +3931,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 70,
-                "Shape_Length": 3.2411345818494657
+                "Shape_Length": 3.2411345818494657,
+                "Country": "United States"
             }
         },
         {
@@ -3910,7 +3980,7 @@
                 "Duration__minutes_": 135,
                 "Reverse_Duration__minutes_": 132,
                 "Distance__km_": 1228,
-                "Flights_per_Day": 5,
+                "Flights_per_Day": 5.0,
                 "Latitude": 35.39310073852539,
                 "Longitude": -97.60070037841795,
                 "Altitude": 1295,
@@ -3918,7 +3988,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 71,
-                "Shape_Length": 13.296107601995086
+                "Shape_Length": 13.296107601995086,
+                "Country": "United States"
             }
         },
         {
@@ -3970,7 +4041,7 @@
                 "Duration__minutes_": 144,
                 "Reverse_Duration__minutes_": 147,
                 "Distance__km_": 1327,
-                "Flights_per_Day": 6,
+                "Flights_per_Day": 6.0,
                 "Latitude": 41.3032,
                 "Longitude": -95.894096,
                 "Altitude": 984,
@@ -3978,7 +4049,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 72,
-                "Shape_Length": 13.808080313863071
+                "Shape_Length": 13.808080313863071,
+                "Country": "United States"
             }
         },
         {
@@ -4022,7 +4094,7 @@
                 "Duration__minutes_": 116,
                 "Reverse_Duration__minutes_": 120,
                 "Distance__km_": 951,
-                "Flights_per_Day": 6,
+                "Flights_per_Day": 6.0,
                 "Latitude": 36.281898,
                 "Longitude": -94.306801,
                 "Altitude": 1287,
@@ -4030,7 +4102,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 73,
-                "Shape_Length": 10.23034283026148
+                "Shape_Length": 10.23034283026148,
+                "Country": "United States"
             }
         },
         {
@@ -4070,7 +4143,7 @@
                 "Duration__minutes_": 96,
                 "Reverse_Duration__minutes_": 102,
                 "Distance__km_": 730,
-                "Flights_per_Day": 5,
+                "Flights_per_Day": 5.0,
                 "Latitude": 34.729400634799994,
                 "Longitude": -92.2242965698,
                 "Altitude": 262,
@@ -4078,7 +4151,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 74,
-                "Shape_Length": 7.873825519384349
+                "Shape_Length": 7.873825519384349,
+                "Country": "United States"
             }
         },
         {
@@ -4130,7 +4204,7 @@
                 "Duration__minutes_": 137,
                 "Reverse_Duration__minutes_": 161,
                 "Distance__km_": 1261,
-                "Flights_per_Day": 5,
+                "Flights_per_Day": 5.0,
                 "Latitude": 41.06700134277344,
                 "Longitude": -73.70760345458984,
                 "Altitude": 439,
@@ -4138,7 +4212,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 75,
-                "Shape_Length": 13.05668507199773
+                "Shape_Length": 13.05668507199773,
+                "Country": "United States"
             }
         },
         {
@@ -4194,7 +4269,7 @@
                 "Duration__minutes_": 159,
                 "Reverse_Duration__minutes_": 199,
                 "Distance__km_": 1607,
-                "Flights_per_Day": 5,
+                "Flights_per_Day": 5.0,
                 "Latitude": 45.4706001282,
                 "Longitude": -73.7407989502,
                 "Altitude": 118,
@@ -4202,7 +4277,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 76,
-                "Shape_Length": 15.975583690645683
+                "Shape_Length": 15.975583690645683,
+                "Country": "Canada"
             }
         },
         {
@@ -4266,7 +4342,7 @@
                 "Duration__minutes_": 224,
                 "Reverse_Duration__minutes_": 223,
                 "Distance__km_": 2154,
-                "Flights_per_Day": 5,
+                "Flights_per_Day": 5.0,
                 "Latitude": 19.4363,
                 "Longitude": -99.072098,
                 "Altitude": 7316,
@@ -4274,7 +4350,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 77,
-                "Shape_Length": 20.425722462283137
+                "Shape_Length": 20.425722462283137,
+                "Country": "Mexico"
             }
         },
         {
@@ -4418,7 +4495,7 @@
                 "Duration__minutes_": 510,
                 "Reverse_Duration__minutes_": 625,
                 "Distance__km_": 7104,
-                "Flights_per_Day": 5,
+                "Flights_per_Day": 5.0,
                 "Latitude": 52.308601,
                 "Longitude": 4.76389,
                 "Altitude": -11,
@@ -4426,7 +4503,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 78,
-                "Shape_Length": 94.66102812811977
+                "Shape_Length": 94.66102812811977,
+                "Country": "Netherlands"
             }
         },
         {
@@ -4466,7 +4544,7 @@
                 "Duration__minutes_": 96,
                 "Reverse_Duration__minutes_": 103,
                 "Distance__km_": 724,
-                "Flights_per_Day": 5,
+                "Flights_per_Day": 5.0,
                 "Latitude": 30.533199,
                 "Longitude": -91.149597,
                 "Altitude": 70,
@@ -4474,7 +4552,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 79,
-                "Shape_Length": 7.404891618536406
+                "Shape_Length": 7.404891618536406,
+                "Country": "United States"
             }
         },
         {
@@ -4618,7 +4697,7 @@
                 "Duration__minutes_": 505,
                 "Reverse_Duration__minutes_": 625,
                 "Distance__km_": 7092,
-                "Flights_per_Day": 5,
+                "Flights_per_Day": 5.0,
                 "Latitude": 49.012798,
                 "Longitude": 2.55,
                 "Altitude": 392,
@@ -4626,7 +4705,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 80,
-                "Shape_Length": 91.37129243168165
+                "Shape_Length": 91.37129243168165,
+                "Country": "France"
             }
         },
         {
@@ -4666,7 +4746,7 @@
                 "Duration__minutes_": 72,
                 "Reverse_Duration__minutes_": 91,
                 "Distance__km_": 510,
-                "Flights_per_Day": 4,
+                "Flights_per_Day": 4.0,
                 "Latitude": 33.6796989441,
                 "Longitude": -78.9282989502,
                 "Altitude": 25,
@@ -4674,7 +4754,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 81,
-                "Shape_Length": 5.500424368458218
+                "Shape_Length": 5.500424368458218,
+                "Country": "United States"
             }
         },
         {
@@ -4722,7 +4803,7 @@
                 "Duration__minutes_": 126,
                 "Reverse_Duration__minutes_": 128,
                 "Distance__km_": 1088,
-                "Flights_per_Day": 4,
+                "Flights_per_Day": 4.0,
                 "Latitude": 36.19839859008789,
                 "Longitude": -95.88809967041016,
                 "Altitude": 677,
@@ -4730,7 +4811,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 82,
-                "Shape_Length": 11.748050993420643
+                "Shape_Length": 11.748050993420643,
+                "Country": "United States"
             }
         },
         {
@@ -4766,7 +4848,7 @@
                 "Duration__minutes_": 72,
                 "Reverse_Duration__minutes_": 98,
                 "Distance__km_": 486,
-                "Flights_per_Day": 4,
+                "Flights_per_Day": 4.0,
                 "Latitude": 29.6900997162,
                 "Longitude": -82.2717971802,
                 "Altitude": 152,
@@ -4774,7 +4856,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 83,
-                "Shape_Length": 4.497550899282609
+                "Shape_Length": 4.497550899282609,
+                "Country": "United States"
             }
         },
         {
@@ -4822,7 +4905,7 @@
                 "Duration__minutes_": 122,
                 "Reverse_Duration__minutes_": 148,
                 "Distance__km_": 1152,
-                "Flights_per_Day": 5,
+                "Flights_per_Day": 5.0,
                 "Latitude": 42.94049835,
                 "Longitude": -78.73220062,
                 "Altitude": 728,
@@ -4830,7 +4913,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 84,
-                "Shape_Length": 10.916371320846329
+                "Shape_Length": 10.916371320846329,
+                "Country": "United States"
             }
         },
         {
@@ -4866,7 +4950,7 @@
                 "Duration__minutes_": 79,
                 "Reverse_Duration__minutes_": 91,
                 "Distance__km_": 488,
-                "Flights_per_Day": 4,
+                "Flights_per_Day": 4.0,
                 "Latitude": 30.691200256348,
                 "Longitude": -88.242797851562,
                 "Altitude": 219,
@@ -4874,7 +4958,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 85,
-                "Shape_Length": 4.82003850416983
+                "Shape_Length": 4.82003850416983,
+                "Country": "United States"
             }
         },
         {
@@ -4918,7 +5003,7 @@
                 "Duration__minutes_": 111,
                 "Reverse_Duration__minutes_": 116,
                 "Distance__km_": 890,
-                "Flights_per_Day": 4,
+                "Flights_per_Day": 4.0,
                 "Latitude": 32.446602,
                 "Longitude": -93.8256,
                 "Altitude": 258,
@@ -4926,7 +5011,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 86,
-                "Shape_Length": 9.474935640517526
+                "Shape_Length": 9.474935640517526,
+                "Country": "United States"
             }
         },
         {
@@ -4978,7 +5064,7 @@
                 "Duration__minutes_": 160,
                 "Reverse_Duration__minutes_": 180,
                 "Distance__km_": 1429,
-                "Flights_per_Day": 5,
+                "Flights_per_Day": 5.0,
                 "Latitude": 21.036500930800003,
                 "Longitude": -86.8770980835,
                 "Altitude": 22,
@@ -4986,7 +5072,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 87,
-                "Shape_Length": 12.837015068537946
+                "Shape_Length": 12.837015068537946,
+                "Country": "Mexico"
             }
         },
         {
@@ -5070,7 +5157,7 @@
                 "Duration__minutes_": 317,
                 "Reverse_Duration__minutes_": 296,
                 "Distance__km_": 3508,
-                "Flights_per_Day": 4,
+                "Flights_per_Day": 4.0,
                 "Latitude": 45.58869934,
                 "Longitude": -122.5979996,
                 "Altitude": 31,
@@ -5078,7 +5165,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 88,
-                "Shape_Length": 40.27252269694254
+                "Shape_Length": 40.27252269694254,
+                "Country": "United States"
             }
         },
         {
@@ -5118,7 +5206,7 @@
                 "Duration__minutes_": 80,
                 "Reverse_Duration__minutes_": 104,
                 "Distance__km_": 608,
-                "Flights_per_Day": 4,
+                "Flights_per_Day": 4.0,
                 "Latitude": 34.270599365234375,
                 "Longitude": -77.90260314941406,
                 "Altitude": 32,
@@ -5126,7 +5214,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 89,
-                "Shape_Length": 6.5570111011838925
+                "Shape_Length": 6.5570111011838925,
+                "Country": "United States"
             }
         },
         {
@@ -5166,7 +5255,7 @@
                 "Duration__minutes_": 89,
                 "Reverse_Duration__minutes_": 105,
                 "Distance__km_": 716,
-                "Flights_per_Day": 4,
+                "Flights_per_Day": 4.0,
                 "Latitude": 28.10280036926269,
                 "Longitude": -80.64530181884766,
                 "Altitude": 33,
@@ -5174,7 +5263,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 90,
-                "Shape_Length": 6.704374679256114
+                "Shape_Length": 6.704374679256114,
+                "Country": "United States"
             }
         },
         {
@@ -5214,7 +5304,7 @@
                 "Duration__minutes_": 79,
                 "Reverse_Duration__minutes_": 94,
                 "Distance__km_": 592,
-                "Flights_per_Day": 4,
+                "Flights_per_Day": 4.0,
                 "Latitude": 29.179899,
                 "Longitude": -81.058098,
                 "Altitude": 34,
@@ -5222,7 +5312,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 91,
-                "Shape_Length": 5.58820100622124
+                "Shape_Length": 5.58820100622124,
+                "Country": "United States"
             }
         },
         {
@@ -5270,7 +5361,7 @@
                 "Duration__minutes_": 114,
                 "Reverse_Duration__minutes_": 138,
                 "Distance__km_": 1047,
-                "Flights_per_Day": 4,
+                "Flights_per_Day": 4.0,
                 "Latitude": 24.55610084533692,
                 "Longitude": -81.75959777832031,
                 "Altitude": 3,
@@ -5278,7 +5369,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 92,
-                "Shape_Length": 9.465549381704738
+                "Shape_Length": 9.465549381704738,
+                "Country": "United States"
             }
         },
         {
@@ -51358,7 +51450,7 @@
                 "Duration__minutes_": 950,
                 "Reverse_Duration__minutes_": 900,
                 "Distance__km_": 11549,
-                "Flights_per_Day": 3,
+                "Flights_per_Day": 3.0,
                 "Latitude": 37.46910095214844,
                 "Longitude": 126.45099639892578,
                 "Altitude": 23,
@@ -51366,7 +51458,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 93,
-                "Shape_Length": 173.1399220843303
+                "Shape_Length": 173.1399220843303,
+                "Country": "South Korea"
             }
         },
         {
@@ -51398,7 +51491,7 @@
                 "Duration__minutes_": 60,
                 "Reverse_Duration__minutes_": 75,
                 "Distance__km_": 237,
-                "Flights_per_Day": 3,
+                "Flights_per_Day": 3.0,
                 "Latitude": 32.30059814,
                 "Longitude": -86.39399719,
                 "Altitude": 221,
@@ -51406,7 +51499,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 94,
-                "Shape_Length": 2.3770164323538823
+                "Shape_Length": 2.3770164323538823,
+                "Country": "United States"
             }
         },
         {
@@ -51450,7 +51544,7 @@
                 "Duration__minutes_": 114,
                 "Reverse_Duration__minutes_": 125,
                 "Distance__km_": 909,
-                "Flights_per_Day": 3,
+                "Flights_per_Day": 3.0,
                 "Latitude": 37.24570084,
                 "Longitude": -93.38860321,
                 "Altitude": 1268,
@@ -51458,7 +51552,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 95,
-                "Shape_Length": 9.663636417481383
+                "Shape_Length": 9.663636417481383,
+                "Country": "United States"
             }
         },
         {
@@ -51494,7 +51589,7 @@
                 "Duration__minutes_": 69,
                 "Reverse_Duration__minutes_": 83,
                 "Distance__km_": 367,
-                "Flights_per_Day": 3,
+                "Flights_per_Day": 3.0,
                 "Latitude": 36.475201,
                 "Longitude": -82.407401,
                 "Altitude": 1519,
@@ -51502,7 +51597,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 96,
-                "Shape_Length": 3.4845113122558735
+                "Shape_Length": 3.4845113122558735,
+                "Country": "United States"
             }
         },
         {
@@ -51542,7 +51638,7 @@
                 "Duration__minutes_": 91,
                 "Reverse_Duration__minutes_": 121,
                 "Distance__km_": 700,
-                "Flights_per_Day": 3,
+                "Flights_per_Day": 3.0,
                 "Latitude": 39.90240097045898,
                 "Longitude": -84.21939849853516,
                 "Altitude": 1009,
@@ -51550,7 +51646,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 97,
-                "Shape_Length": 6.269183623209869
+                "Shape_Length": 6.269183623209869,
+                "Country": "United States"
             }
         },
         {
@@ -51598,7 +51695,7 @@
                 "Duration__minutes_": 132,
                 "Reverse_Duration__minutes_": 140,
                 "Distance__km_": 1200,
-                "Flights_per_Day": 3,
+                "Flights_per_Day": 3.0,
                 "Latitude": 41.53400039672852,
                 "Longitude": -93.66310119628906,
                 "Altitude": 958,
@@ -51606,7 +51703,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 98,
-                "Shape_Length": 12.162725739183147
+                "Shape_Length": 12.162725739183147,
+                "Country": "United States"
             }
         },
         {
@@ -51646,7 +51744,7 @@
                 "Duration__minutes_": 83,
                 "Reverse_Duration__minutes_": 96,
                 "Distance__km_": 568,
-                "Flights_per_Day": 3,
+                "Flights_per_Day": 3.0,
                 "Latitude": 30.40730094909668,
                 "Longitude": -89.07009887695312,
                 "Altitude": 28,
@@ -51654,7 +51752,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 99,
-                "Shape_Length": 5.655623212503705
+                "Shape_Length": 5.655623212503705,
+                "Country": "United States"
             }
         },
         {
@@ -51702,7 +51801,7 @@
                 "Duration__minutes_": 113,
                 "Reverse_Duration__minutes_": 135,
                 "Distance__km_": 1038,
-                "Flights_per_Day": 3,
+                "Flights_per_Day": 3.0,
                 "Latitude": 42.88079834,
                 "Longitude": -85.52279663,
                 "Altitude": 794,
@@ -51710,7 +51809,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 100,
-                "Shape_Length": 9.309041700739538
+                "Shape_Length": 9.309041700739538,
+                "Country": "United States"
             }
         },
         {
@@ -51778,7 +51878,7 @@
                 "Duration__minutes_": 214,
                 "Reverse_Duration__minutes_": 296,
                 "Distance__km_": 2504,
-                "Flights_per_Day": 3,
+                "Flights_per_Day": 3.0,
                 "Latitude": 18.4393997192,
                 "Longitude": -66.0018005371,
                 "Altitude": 9,
@@ -51786,7 +51886,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 101,
-                "Shape_Length": 23.927230706378467
+                "Shape_Length": 23.927230706378467,
+                "Country": "Puerto Rico"
             }
         },
         {
@@ -51838,7 +51939,7 @@
                 "Duration__minutes_": 134,
                 "Reverse_Duration__minutes_": 178,
                 "Distance__km_": 1379,
-                "Flights_per_Day": 4,
+                "Flights_per_Day": 4.0,
                 "Latitude": 42.74829864501953,
                 "Longitude": -73.80169677734375,
                 "Altitude": 285,
@@ -51846,7 +51947,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 102,
-                "Shape_Length": 14.016127212726895
+                "Shape_Length": 14.016127212726895,
+                "Country": "United States"
             }
         },
         {
@@ -51878,7 +51980,7 @@
                 "Duration__minutes_": 50,
                 "Reverse_Duration__minutes_": 63,
                 "Distance__km_": 134,
-                "Flights_per_Day": 3,
+                "Flights_per_Day": 3.0,
                 "Latitude": 32.516300201416016,
                 "Longitude": -84.93890380859375,
                 "Altitude": 397,
@@ -51886,7 +51988,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 103,
-                "Shape_Length": 1.23135240093448
+                "Shape_Length": 1.23135240093448,
+                "Country": "United States"
             }
         },
         {
@@ -51930,7 +52033,7 @@
                 "Duration__minutes_": 110,
                 "Reverse_Duration__minutes_": 115,
                 "Distance__km_": 813,
-                "Flights_per_Day": 3,
+                "Flights_per_Day": 3.0,
                 "Latitude": 30.20529938,
                 "Longitude": -91.98760223,
                 "Altitude": 42,
@@ -51938,7 +52041,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 104,
-                "Shape_Length": 8.30392292883768
+                "Shape_Length": 8.30392292883768,
+                "Country": "United States"
             }
         },
         {
@@ -51978,7 +52082,7 @@
                 "Duration__minutes_": 88,
                 "Reverse_Duration__minutes_": 107,
                 "Distance__km_": 578,
-                "Flights_per_Day": 3,
+                "Flights_per_Day": 3.0,
                 "Latitude": 37.3255,
                 "Longitude": -79.975403,
                 "Altitude": 1175,
@@ -51986,7 +52090,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 105,
-                "Shape_Length": 5.783278935334605
+                "Shape_Length": 5.783278935334605,
+                "Country": "United States"
             }
         },
         {
@@ -52050,7 +52155,7 @@
                 "Duration__minutes_": 199,
                 "Reverse_Duration__minutes_": 197,
                 "Distance__km_": 2048,
-                "Flights_per_Day": 3,
+                "Flights_per_Day": 3.0,
                 "Latitude": 35.040199,
                 "Longitude": -106.609001,
                 "Altitude": 5355,
@@ -52058,7 +52163,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 106,
-                "Shape_Length": 22.25671066733451
+                "Shape_Length": 22.25671066733451,
+                "Country": "United States"
             }
         },
         {
@@ -52110,7 +52216,7 @@
                 "Duration__minutes_": 138,
                 "Reverse_Duration__minutes_": 141,
                 "Distance__km_": 1261,
-                "Flights_per_Day": 3,
+                "Flights_per_Day": 3.0,
                 "Latitude": 37.649899,
                 "Longitude": -97.433098,
                 "Altitude": 1333,
@@ -52118,7 +52224,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 107,
-                "Shape_Length": 13.619324335410154
+                "Shape_Length": 13.619324335410154,
+                "Country": "United States"
             }
         },
         {
@@ -52178,7 +52285,7 @@
                 "Duration__minutes_": 170,
                 "Reverse_Duration__minutes_": 196,
                 "Distance__km_": 1812,
-                "Flights_per_Day": 3,
+                "Flights_per_Day": 3.0,
                 "Latitude": 18.503700256347656,
                 "Longitude": -77.91339874267578,
                 "Altitude": 4,
@@ -52186,7 +52293,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 108,
-                "Shape_Length": 16.48294625041194
+                "Shape_Length": 16.48294625041194,
+                "Country": "Jamaica"
             }
         },
         {
@@ -52234,7 +52342,7 @@
                 "Duration__minutes_": 128,
                 "Reverse_Duration__minutes_": 160,
                 "Distance__km_": 1175,
-                "Flights_per_Day": 3,
+                "Flights_per_Day": 3.0,
                 "Latitude": 25.0389995575,
                 "Longitude": -77.46620178219999,
                 "Altitude": 16,
@@ -52242,7 +52350,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 109,
-                "Shape_Length": 11.067898159531008
+                "Shape_Length": 11.067898159531008,
+                "Country": "Bahamas"
             }
         },
         {
@@ -52282,7 +52391,7 @@
                 "Duration__minutes_": 96,
                 "Reverse_Duration__minutes_": 118,
                 "Distance__km_": 739,
-                "Flights_per_Day": 3,
+                "Flights_per_Day": 3.0,
                 "Latitude": 38.13859939575195,
                 "Longitude": -78.4529037475586,
                 "Altitude": 639,
@@ -52290,7 +52399,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 110,
-                "Shape_Length": 7.483652308391029
+                "Shape_Length": 7.483652308391029,
+                "Country": "United States"
             }
         },
         {
@@ -52334,7 +52444,7 @@
                 "Duration__minutes_": 112,
                 "Reverse_Duration__minutes_": 140,
                 "Distance__km_": 1002,
-                "Flights_per_Day": 2,
+                "Flights_per_Day": 2.0,
                 "Latitude": 40.1935005188,
                 "Longitude": -76.7633972168,
                 "Altitude": 310,
@@ -52342,7 +52452,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 111,
-                "Shape_Length": 10.092908713490003
+                "Shape_Length": 10.092908713490003,
+                "Country": "United States"
             }
         },
         {
@@ -52382,7 +52493,7 @@
                 "Duration__minutes_": 100,
                 "Reverse_Duration__minutes_": 109,
                 "Distance__km_": 722,
-                "Flights_per_Day": 2,
+                "Flights_per_Day": 2.0,
                 "Latitude": 32.51089859008789,
                 "Longitude": -92.0376968383789,
                 "Altitude": 79,
@@ -52390,7 +52501,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 112,
-                "Shape_Length": 7.693715832452079
+                "Shape_Length": 7.693715832452079,
+                "Country": "United States"
             }
         },
         {
@@ -52438,7 +52550,7 @@
                 "Duration__minutes_": 124,
                 "Reverse_Duration__minutes_": 140,
                 "Distance__km_": 1144,
-                "Flights_per_Day": 2,
+                "Flights_per_Day": 2.0,
                 "Latitude": 43.13990020751953,
                 "Longitude": -89.3375015258789,
                 "Altitude": 887,
@@ -52446,7 +52558,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 113,
-                "Shape_Length": 10.702488491373906
+                "Shape_Length": 10.702488491373906,
+                "Country": "United States"
             }
         },
         {
@@ -52486,7 +52599,7 @@
                 "Duration__minutes_": 86,
                 "Reverse_Duration__minutes_": 114,
                 "Distance__km_": 644,
-                "Flights_per_Day": 2,
+                "Flights_per_Day": 2.0,
                 "Latitude": 34.8292007446,
                 "Longitude": -77.61209869380001,
                 "Altitude": 94,
@@ -52494,7 +52607,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 114,
-                "Shape_Length": 6.9205305630635445
+                "Shape_Length": 6.9205305630635445,
+                "Country": "United States"
             }
         },
         {
@@ -52546,7 +52660,7 @@
                 "Duration__minutes_": 142,
                 "Reverse_Duration__minutes_": 183,
                 "Distance__km_": 1459,
-                "Flights_per_Day": 2,
+                "Flights_per_Day": 2.0,
                 "Latitude": 41.732601,
                 "Longitude": -71.420403,
                 "Altitude": 55,
@@ -52554,7 +52668,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 115,
-                "Shape_Length": 15.341629040171851
+                "Shape_Length": 15.341629040171851,
+                "Country": "United States"
             }
         },
         {
@@ -52634,7 +52749,7 @@
                 "Duration__minutes_": 283,
                 "Reverse_Duration__minutes_": 267,
                 "Distance__km_": 3067,
-                "Flights_per_Day": 2,
+                "Flights_per_Day": 2.0,
                 "Latitude": 34.055999755859375,
                 "Longitude": -117.60099792480467,
                 "Altitude": 944,
@@ -52642,7 +52757,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 116,
-                "Shape_Length": 33.280172856806
+                "Shape_Length": 33.280172856806,
+                "Country": "United States"
             }
         },
         {
@@ -52690,7 +52806,7 @@
                 "Duration__minutes_": 125,
                 "Reverse_Duration__minutes_": 157,
                 "Distance__km_": 1213,
-                "Flights_per_Day": 2,
+                "Flights_per_Day": 2.0,
                 "Latitude": 43.118900299072266,
                 "Longitude": -77.67240142822266,
                 "Altitude": 559,
@@ -52698,7 +52814,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 117,
-                "Shape_Length": 11.652752549154432
+                "Shape_Length": 11.652752549154432,
+                "Country": "United States"
             }
         },
         {
@@ -52742,7 +52859,7 @@
                 "Duration__minutes_": 113,
                 "Reverse_Duration__minutes_": 136,
                 "Distance__km_": 917,
-                "Flights_per_Day": 2,
+                "Flights_per_Day": 2.0,
                 "Latitude": 41.70869827270508,
                 "Longitude": -86.31729888916016,
                 "Altitude": 799,
@@ -52750,7 +52867,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 118,
-                "Shape_Length": 8.290972563110028
+                "Shape_Length": 8.290972563110028,
+                "Country": "United States"
             }
         },
         {
@@ -52834,7 +52952,7 @@
                 "Duration__minutes_": 309,
                 "Reverse_Duration__minutes_": 284,
                 "Distance__km_": 3377,
-                "Flights_per_Day": 2,
+                "Flights_per_Day": 2.0,
                 "Latitude": 38.69540023803711,
                 "Longitude": -121.59100341796876,
                 "Altitude": 27,
@@ -52842,7 +52960,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 119,
-                "Shape_Length": 37.67595395126259
+                "Shape_Length": 37.67595395126259,
+                "Country": "United States"
             }
         },
         {
@@ -52894,7 +53013,7 @@
                 "Duration__minutes_": 129,
                 "Reverse_Duration__minutes_": 178,
                 "Distance__km_": 1284,
-                "Flights_per_Day": 2,
+                "Flights_per_Day": 2.0,
                 "Latitude": 43.11119842529297,
                 "Longitude": -76.1063003540039,
                 "Altitude": 421,
@@ -52902,7 +53021,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 120,
-                "Shape_Length": 12.623994041705572
+                "Shape_Length": 12.623994041705572,
+                "Country": "United States"
             }
         },
         {
@@ -52950,7 +53070,7 @@
                 "Duration__minutes_": 123,
                 "Reverse_Duration__minutes_": 152,
                 "Distance__km_": 1120,
-                "Flights_per_Day": 2,
+                "Flights_per_Day": 2.0,
                 "Latitude": 40.652099609375,
                 "Longitude": -75.44080352783203,
                 "Altitude": 393,
@@ -52958,7 +53078,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 121,
-                "Shape_Length": 11.410192434322552
+                "Shape_Length": 11.410192434322552,
+                "Country": "United States"
             }
         },
         {
@@ -53002,7 +53123,7 @@
                 "Duration__minutes_": 107,
                 "Reverse_Duration__minutes_": 111,
                 "Distance__km_": 808,
-                "Flights_per_Day": 2,
+                "Flights_per_Day": 2.0,
                 "Latitude": 31.32740020751953,
                 "Longitude": -92.54979705810548,
                 "Altitude": 89,
@@ -53010,7 +53131,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 122,
-                "Shape_Length": 8.445516964407362
+                "Shape_Length": 8.445516964407362,
+                "Country": "United States"
             }
         },
         {
@@ -53050,7 +53172,7 @@
                 "Duration__minutes_": 84,
                 "Reverse_Duration__minutes_": 102,
                 "Distance__km_": 587,
-                "Flights_per_Day": 2,
+                "Flights_per_Day": 2.0,
                 "Latitude": 38.37310028076172,
                 "Longitude": -81.59320068359375,
                 "Altitude": 981,
@@ -53058,7 +53180,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 123,
-                "Shape_Length": 5.52078778224098
+                "Shape_Length": 5.52078778224098,
+                "Country": "United States"
             }
         },
         {
@@ -53098,7 +53221,7 @@
                 "Duration__minutes_": 87,
                 "Reverse_Duration__minutes_": 103,
                 "Distance__km_": 566,
-                "Flights_per_Day": 2,
+                "Flights_per_Day": 2.0,
                 "Latitude": 38.0369987488,
                 "Longitude": -87.5324020386,
                 "Altitude": 418,
@@ -53106,7 +53229,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 124,
-                "Shape_Length": 5.385936418495578
+                "Shape_Length": 5.385936418495578,
+                "Country": "United States"
             }
         },
         {
@@ -53146,7 +53270,7 @@
                 "Duration__minutes_": 78,
                 "Reverse_Duration__minutes_": 103,
                 "Distance__km_": 533,
-                "Flights_per_Day": 2,
+                "Flights_per_Day": 2.0,
                 "Latitude": 34.9911994934082,
                 "Longitude": -78.88030242919922,
                 "Altitude": 189,
@@ -53154,7 +53278,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 125,
-                "Shape_Length": 5.711356548402885
+                "Shape_Length": 5.711356548402885,
+                "Country": "United States"
             }
         },
         {
@@ -53314,7 +53439,7 @@
                 "Duration__minutes_": 565,
                 "Reverse_Duration__minutes_": 700,
                 "Distance__km_": 8129,
-                "Flights_per_Day": 2,
+                "Flights_per_Day": 2.0,
                 "Latitude": 41.8002778,
                 "Longitude": 12.2388889,
                 "Altitude": 13,
@@ -53322,7 +53447,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 126,
-                "Shape_Length": 100.93186563608016
+                "Shape_Length": 100.93186563608016,
+                "Country": "Italy"
             }
         },
         {
@@ -53366,7 +53492,7 @@
                 "Duration__minutes_": 105,
                 "Reverse_Duration__minutes_": 132,
                 "Distance__km_": 822,
-                "Flights_per_Day": 2,
+                "Flights_per_Day": 2.0,
                 "Latitude": 40.97850037,
                 "Longitude": -85.19509888,
                 "Altitude": 814,
@@ -53374,7 +53500,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 127,
-                "Shape_Length": 7.381883499644199
+                "Shape_Length": 7.381883499644199,
+                "Country": "United States"
             }
         },
         {
@@ -53438,7 +53565,7 @@
                 "Duration__minutes_": 202,
                 "Reverse_Duration__minutes_": 195,
                 "Distance__km_": 2072,
-                "Flights_per_Day": 2,
+                "Flights_per_Day": 2.0,
                 "Latitude": 31.80719948,
                 "Longitude": -106.3779984,
                 "Altitude": 3959,
@@ -53446,7 +53573,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 128,
-                "Shape_Length": 22.0554114190012
+                "Shape_Length": 22.0554114190012,
+                "Country": "United States"
             }
         },
         {
@@ -53530,7 +53658,7 @@
                 "Duration__minutes_": 309,
                 "Reverse_Duration__minutes_": 293,
                 "Distance__km_": 3414,
-                "Flights_per_Day": 2,
+                "Flights_per_Day": 2.0,
                 "Latitude": 37.362598,
                 "Longitude": -121.929001,
                 "Altitude": 62,
@@ -53538,7 +53666,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 129,
-                "Shape_Length": 37.85177135152766
+                "Shape_Length": 37.85177135152766,
+                "Country": "United States"
             }
         },
         {
@@ -53574,7 +53703,7 @@
                 "Duration__minutes_": 63,
                 "Reverse_Duration__minutes_": 78,
                 "Distance__km_": 275,
-                "Flights_per_Day": 2,
+                "Flights_per_Day": 2.0,
                 "Latitude": 31.3213005065918,
                 "Longitude": -85.44960021972656,
                 "Altitude": 401,
@@ -53582,7 +53711,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 130,
-                "Shape_Length": 2.530762140315399
+                "Shape_Length": 2.530762140315399,
+                "Country": "United States"
             }
         },
         {
@@ -53730,7 +53860,7 @@
                 "Duration__minutes_": 578,
                 "Reverse_Duration__minutes_": 600,
                 "Distance__km_": 7549,
-                "Flights_per_Day": 2,
+                "Flights_per_Day": 2.0,
                 "Latitude": -23.435556411743164,
                 "Longitude": -46.47305679321289,
                 "Altitude": 2459,
@@ -53738,7 +53868,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 131,
-                "Shape_Length": 68.64605929422787
+                "Shape_Length": 68.64605929422787,
+                "Country": "Brazil"
             }
         },
         {
@@ -53818,7 +53949,7 @@
                 "Duration__minutes_": 281,
                 "Reverse_Duration__minutes_": 274,
                 "Distance__km_": 3097,
-                "Flights_per_Day": 2,
+                "Flights_per_Day": 2.0,
                 "Latitude": 33.67570114,
                 "Longitude": -117.8679962,
                 "Altitude": 56,
@@ -53826,7 +53957,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 132,
-                "Shape_Length": 33.54653722426118
+                "Shape_Length": 33.54653722426118,
+                "Country": "United States"
             }
         },
         {
@@ -53862,7 +53994,7 @@
                 "Duration__minutes_": 64,
                 "Reverse_Duration__minutes_": 84,
                 "Distance__km_": 336,
-                "Flights_per_Day": 2,
+                "Flights_per_Day": 2.0,
                 "Latitude": 30.78249931335449,
                 "Longitude": -83.27670288085938,
                 "Altitude": 203,
@@ -53870,7 +54002,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 133,
-                "Shape_Length": 3.0777590749108157
+                "Shape_Length": 3.0777590749108157,
+                "Country": "United States"
             }
         },
         {
@@ -53954,7 +54087,7 @@
                 "Duration__minutes_": 285,
                 "Reverse_Duration__minutes_": 311,
                 "Distance__km_": 3406,
-                "Flights_per_Day": 2,
+                "Flights_per_Day": 2.0,
                 "Latitude": 4.70159,
                 "Longitude": -74.1469,
                 "Altitude": 8361,
@@ -53962,7 +54095,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 134,
-                "Shape_Length": 30.727284124275265
+                "Shape_Length": 30.727284124275265,
+                "Country": "Colombia"
             }
         },
         {
@@ -54142,7 +54276,7 @@
                 "Duration__minutes_": 665,
                 "Reverse_Duration__minutes_": 800,
                 "Distance__km_": 9445,
-                "Flights_per_Day": 2,
+                "Flights_per_Day": 2.0,
                 "Latitude": 6.5773701667785645,
                 "Longitude": 3.321160078048706,
                 "Altitude": 135,
@@ -54150,7 +54284,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 135,
-                "Shape_Length": 93.6323326484748
+                "Shape_Length": 93.6323326484748,
+                "Country": "Nigeria"
             }
         },
         {
@@ -54218,7 +54353,7 @@
                 "Duration__minutes_": 205,
                 "Reverse_Duration__minutes_": 247,
                 "Distance__km_": 2323,
-                "Flights_per_Day": 2,
+                "Flights_per_Day": 2.0,
                 "Latitude": 18.5673999786,
                 "Longitude": -68.36340332030001,
                 "Altitude": 47,
@@ -54226,7 +54361,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 136,
-                "Shape_Length": 22.059683483512664
+                "Shape_Length": 22.059683483512664,
+                "Country": "Dominican Republic"
             }
         },
         {
@@ -54306,7 +54442,7 @@
                 "Duration__minutes_": 294,
                 "Reverse_Duration__minutes_": 264,
                 "Distance__km_": 3092,
-                "Flights_per_Day": 2,
+                "Flights_per_Day": 2.0,
                 "Latitude": 51.113899231,
                 "Longitude": -114.019996643,
                 "Altitude": 3557,
@@ -54314,7 +54450,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 137,
-                "Shape_Length": 34.646433317709835
+                "Shape_Length": 34.646433317709835,
+                "Country": "Canada"
             }
         },
         {
@@ -54562,7 +54699,7 @@
                 "Duration__minutes_": 925,
                 "Reverse_Duration__minutes_": 1040,
                 "Distance__km_": 13654,
-                "Flights_per_Day": 2,
+                "Flights_per_Day": 2.0,
                 "Latitude": -26.1392,
                 "Longitude": 28.246,
                 "Altitude": 5558,
@@ -54570,7 +54707,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 138,
-                "Shape_Length": 128.5359909373066
+                "Shape_Length": 128.5359909373066,
+                "Country": "South Africa"
             }
         },
         {
@@ -54682,7 +54820,7 @@
                 "Duration__minutes_": 395,
                 "Reverse_Duration__minutes_": 490,
                 "Distance__km_": 5163,
-                "Flights_per_Day": 2,
+                "Flights_per_Day": 2.0,
                 "Latitude": -12.0219,
                 "Longitude": -77.114305,
                 "Altitude": 113,
@@ -54690,7 +54828,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 139,
-                "Shape_Length": 46.24767615652449
+                "Shape_Length": 46.24767615652449,
+                "Country": "Peru"
             }
         },
         {
@@ -54738,7 +54877,7 @@
                 "Duration__minutes_": 121,
                 "Reverse_Duration__minutes_": 130,
                 "Distance__km_": 1025,
-                "Flights_per_Day": 2,
+                "Flights_per_Day": 2.0,
                 "Latitude": 41.44850158691406,
                 "Longitude": -90.50749969482422,
                 "Altitude": 590,
@@ -54746,7 +54885,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 140,
-                "Shape_Length": 9.904749616830301
+                "Shape_Length": 9.904749616830301,
+                "Country": "United States"
             }
         },
         {
@@ -54802,7 +54942,7 @@
                 "Duration__minutes_": 154,
                 "Reverse_Duration__minutes_": 203,
                 "Distance__km_": 1660,
-                "Flights_per_Day": 2,
+                "Flights_per_Day": 2.0,
                 "Latitude": 43.64619827,
                 "Longitude": -70.30930328,
                 "Altitude": 76,
@@ -54810,7 +54950,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 141,
-                "Shape_Length": 17.339766057022448
+                "Shape_Length": 17.339766057022448,
+                "Country": "United States"
             }
         },
         {
@@ -54962,7 +55103,7 @@
                 "Duration__minutes_": 545,
                 "Reverse_Duration__minutes_": 640,
                 "Distance__km_": 7628,
-                "Flights_per_Day": 2,
+                "Flights_per_Day": 2.0,
                 "Latitude": -33.393001556396484,
                 "Longitude": -70.78579711914062,
                 "Altitude": 1555,
@@ -54970,7 +55111,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 142,
-                "Shape_Length": 68.42076283493842
+                "Shape_Length": 68.42076283493842,
+                "Country": "Chile"
             }
         },
         {
@@ -55146,7 +55288,7 @@
                 "Duration__minutes_": 633,
                 "Reverse_Duration__minutes_": 755,
                 "Distance__km_": 9202,
-                "Flights_per_Day": 2,
+                "Flights_per_Day": 2.0,
                 "Latitude": 37.9364013672,
                 "Longitude": 23.9444999695,
                 "Altitude": 308,
@@ -55154,7 +55296,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 143,
-                "Shape_Length": 114.31350623764236
+                "Shape_Length": 114.31350623764236,
+                "Country": "Greece"
             }
         },
         {
@@ -55222,7 +55365,7 @@
                 "Duration__minutes_": 235,
                 "Reverse_Duration__minutes_": 228,
                 "Distance__km_": 2488,
-                "Flights_per_Day": 2,
+                "Flights_per_Day": 2.0,
                 "Latitude": 32.1161003112793,
                 "Longitude": -110.94100189208984,
                 "Altitude": 2643,
@@ -55230,7 +55373,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 144,
-                "Shape_Length": 26.6082387167777
+                "Shape_Length": 26.6082387167777,
+                "Country": "United States"
             }
         },
         {
@@ -55262,7 +55406,7 @@
                 "Duration__minutes_": 57,
                 "Reverse_Duration__minutes_": 76,
                 "Distance__km_": 235,
-                "Flights_per_Day": 2,
+                "Flights_per_Day": 2.0,
                 "Latitude": 31.535499572753903,
                 "Longitude": -84.19450378417969,
                 "Altitude": 197,
@@ -55270,7 +55414,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 145,
-                "Shape_Length": 2.114147796818337
+                "Shape_Length": 2.114147796818337,
+                "Country": "United States"
             }
         },
         {
@@ -55418,7 +55563,7 @@
                 "Duration__minutes_": 515,
                 "Reverse_Duration__minutes_": 650,
                 "Distance__km_": 7400,
-                "Flights_per_Day": 2,
+                "Flights_per_Day": 2.0,
                 "Latitude": 41.2971,
                 "Longitude": 2.07846,
                 "Altitude": 12,
@@ -55426,7 +55571,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 146,
-                "Shape_Length": 89.4705720052656
+                "Shape_Length": 89.4705720052656,
+                "Country": "Spain"
             }
         },
         {
@@ -55470,7 +55616,7 @@
                 "Duration__minutes_": 107,
                 "Reverse_Duration__minutes_": 123,
                 "Distance__km_": 862,
-                "Flights_per_Day": 2,
+                "Flights_per_Day": 2.0,
                 "Latitude": 40.47710037,
                 "Longitude": -88.91590118,
                 "Altitude": 871,
@@ -55478,7 +55624,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 147,
-                "Shape_Length": 8.184207077177275
+                "Shape_Length": 8.184207077177275,
+                "Country": "United States"
             }
         },
         {
@@ -55514,7 +55661,7 @@
                 "Duration__minutes_": 69,
                 "Reverse_Duration__minutes_": 82,
                 "Distance__km_": 385,
-                "Flights_per_Day": 2,
+                "Flights_per_Day": 2.0,
                 "Latitude": 31.2588005065918,
                 "Longitude": -81.46649932861328,
                 "Altitude": 26,
@@ -55522,7 +55669,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 148,
-                "Shape_Length": 3.79834528398686
+                "Shape_Length": 3.79834528398686,
+                "Country": "United States"
             }
         },
         {
@@ -99866,7 +100014,7 @@
                 "Duration__minutes_": 875,
                 "Reverse_Duration__minutes_": 780,
                 "Distance__km_": 11113,
-                "Flights_per_Day": 2,
+                "Flights_per_Day": 2.0,
                 "Latitude": 35.552299,
                 "Longitude": 139.779999,
                 "Altitude": 35,
@@ -99874,7 +100022,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 149,
-                "Shape_Length": 151.03667264116766
+                "Shape_Length": 151.03667264116766,
+                "Country": "Japan"
             }
         },
         {
@@ -100034,7 +100183,7 @@
                 "Duration__minutes_": 596,
                 "Reverse_Duration__minutes_": 625,
                 "Distance__km_": 8117,
-                "Flights_per_Day": 2,
+                "Flights_per_Day": 2.0,
                 "Latitude": -34.8222,
                 "Longitude": -58.5358,
                 "Altitude": 67,
@@ -100042,7 +100191,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 150,
-                "Shape_Length": 73.2538210718906
+                "Shape_Length": 73.2538210718906,
+                "Country": "Argentina"
             }
         },
         {
@@ -100190,7 +100340,7 @@
                 "Duration__minutes_": 535,
                 "Reverse_Duration__minutes_": 645,
                 "Distance__km_": 7448,
-                "Flights_per_Day": 2,
+                "Flights_per_Day": 2.0,
                 "Latitude": 50.033333,
                 "Longitude": 8.570556,
                 "Altitude": 364,
@@ -100198,7 +100348,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 151,
-                "Shape_Length": 98.27909158567277
+                "Shape_Length": 98.27909158567277,
+                "Country": "Germany"
             }
         },
         {
@@ -100234,7 +100385,7 @@
                 "Duration__minutes_": 73,
                 "Reverse_Duration__minutes_": 84,
                 "Distance__km_": 388,
-                "Flights_per_Day": 2,
+                "Flights_per_Day": 2.0,
                 "Latitude": 33.450298309299995,
                 "Longitude": -88.5914001465,
                 "Altitude": 264,
@@ -100242,7 +100393,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 152,
-                "Shape_Length": 4.1676678001211656
+                "Shape_Length": 4.1676678001211656,
+                "Country": "United States"
             }
         },
         {
@@ -100318,7 +100470,7 @@
                 "Duration__minutes_": 251,
                 "Reverse_Duration__minutes_": 319,
                 "Distance__km_": 2795,
-                "Flights_per_Day": 2,
+                "Flights_per_Day": 2.0,
                 "Latitude": 9.0713596344,
                 "Longitude": -79.3834991455,
                 "Altitude": 135,
@@ -100326,7 +100478,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 153,
-                "Shape_Length": 25.08314213028959
+                "Shape_Length": 25.08314213028959,
+                "Country": "Panama"
             }
         },
         {
@@ -100402,7 +100555,7 @@
                 "Duration__minutes_": 272,
                 "Reverse_Duration__minutes_": 255,
                 "Distance__km_": 2969,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 43.5644,
                 "Longitude": -116.223,
                 "Altitude": 2871,
@@ -100410,7 +100563,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 154,
-                "Shape_Length": 33.461232793802104
+                "Shape_Length": 33.461232793802104,
+                "Country": "United States"
             }
         },
         {
@@ -100542,7 +100696,7 @@
                 "Duration__minutes_": 460,
                 "Reverse_Duration__minutes_": 570,
                 "Distance__km_": 6356,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 53.421299,
                 "Longitude": -6.27007,
                 "Altitude": 242,
@@ -100550,7 +100704,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 155,
-                "Shape_Length": 83.11651967205314
+                "Shape_Length": 83.11651967205314,
+                "Country": "Ireland"
             }
         },
         {
@@ -100630,7 +100785,7 @@
                 "Duration__minutes_": 288,
                 "Reverse_Duration__minutes_": 270,
                 "Distance__km_": 3179,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 47.61989974975586,
                 "Longitude": -117.53399658203124,
                 "Altitude": 2376,
@@ -100638,7 +100793,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 156,
-                "Shape_Length": 36.176925253404136
+                "Shape_Length": 36.176925253404136,
+                "Country": "United States"
             }
         },
         {
@@ -100698,7 +100854,7 @@
                 "Duration__minutes_": 191,
                 "Reverse_Duration__minutes_": 185,
                 "Distance__km_": 1913,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 38.805801,
                 "Longitude": -104.700996,
                 "Altitude": 6187,
@@ -100706,7 +100862,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 157,
-                "Shape_Length": 20.95369110390687
+                "Shape_Length": 20.95369110390687,
+                "Country": "United States"
             }
         },
         {
@@ -100762,7 +100919,7 @@
                 "Duration__minutes_": 182,
                 "Reverse_Duration__minutes_": 180,
                 "Distance__km_": 1754,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 25.7784996033,
                 "Longitude": -100.107002258,
                 "Altitude": 1278,
@@ -100770,7 +100927,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 158,
-                "Shape_Length": 17.55625829231104
+                "Shape_Length": 17.55625829231104,
+                "Country": "Mexico"
             }
         },
         {
@@ -100806,7 +100964,7 @@
                 "Duration__minutes_": 135,
                 "Reverse_Duration__minutes_": 125,
                 "Distance__km_": 467,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 35.599899,
                 "Longitude": -88.915604,
                 "Altitude": 434,
@@ -100814,7 +100972,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 159,
-                "Shape_Length": 4.898622106934595
+                "Shape_Length": 4.898622106934595,
+                "Country": "United States"
             }
         },
         {
@@ -100994,7 +101153,7 @@
                 "Duration__minutes_": 640,
                 "Reverse_Duration__minutes_": 750,
                 "Distance__km_": 9297,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 41.275278,
                 "Longitude": 28.751944,
                 "Altitude": 325,
@@ -101002,7 +101161,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 160,
-                "Shape_Length": 120.52552326494671
+                "Shape_Length": 120.52552326494671,
+                "Country": "Turkey"
             }
         },
         {
@@ -101090,7 +101250,7 @@
                 "Duration__minutes_": 344,
                 "Reverse_Duration__minutes_": 304,
                 "Distance__km_": 3630,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 49.193901062,
                 "Longitude": -123.183998108,
                 "Altitude": 14,
@@ -101098,7 +101258,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 161,
-                "Shape_Length": 42.13802924029591
+                "Shape_Length": 42.13802924029591,
+                "Country": "Canada"
             }
         },
         {
@@ -101250,7 +101411,7 @@
                 "Duration__minutes_": 535,
                 "Reverse_Duration__minutes_": 640,
                 "Distance__km_": 7556,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 48.6898994446,
                 "Longitude": 9.22196006775,
                 "Altitude": 1276,
@@ -101258,7 +101419,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 162,
-                "Shape_Length": 98.69672737902741
+                "Shape_Length": 98.69672737902741,
+                "Country": "Germany"
             }
         },
         {
@@ -101330,7 +101492,7 @@
                 "Duration__minutes_": 218,
                 "Reverse_Duration__minutes_": 306,
                 "Distance__km_": 2587,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 18.337299346923828,
                 "Longitude": -64.97339630126953,
                 "Altitude": 23,
@@ -101338,7 +101500,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 163,
-                "Shape_Length": 24.79668050067458
+                "Shape_Length": 24.79668050067458,
+                "Country": "Virgin Islands"
             }
         },
         {
@@ -101386,7 +101549,7 @@
                 "Duration__minutes_": 132,
                 "Reverse_Duration__minutes_": 152,
                 "Distance__km_": 1253,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 44.48509979248047,
                 "Longitude": -88.12960052490234,
                 "Altitude": 695,
@@ -101394,7 +101557,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 164,
-                "Shape_Length": 11.467107274699076
+                "Shape_Length": 11.467107274699076,
+                "Country": "United States"
             }
         },
         {
@@ -101538,7 +101702,7 @@
                 "Duration__minutes_": 605,
                 "Reverse_Duration__minutes_": 519,
                 "Distance__km_": 7271,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 21.32062,
                 "Longitude": -157.924228,
                 "Altitude": 13,
@@ -101546,7 +101710,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 165,
-                "Shape_Length": 75.73181776279078
+                "Shape_Length": 75.73181776279078,
+                "Country": "United States"
             }
         },
         {
@@ -101618,7 +101783,7 @@
                 "Duration__minutes_": 244,
                 "Reverse_Duration__minutes_": 224,
                 "Distance__km_": 2539,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 43.6072998046875,
                 "Longitude": -110.73799896240234,
                 "Altitude": 6451,
@@ -101626,7 +101791,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 166,
-                "Shape_Length": 28.2357175248296
+                "Shape_Length": 28.2357175248296,
+                "Country": "United States"
             }
         },
         {
@@ -101686,7 +101852,7 @@
                 "Duration__minutes_": 177,
                 "Reverse_Duration__minutes_": 242,
                 "Distance__km_": 1915,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 17.935699462890625,
                 "Longitude": -76.7874984741211,
                 "Altitude": 10,
@@ -101694,7 +101860,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 167,
-                "Shape_Length": 17.471235065555128
+                "Shape_Length": 17.471235065555128,
+                "Country": "Jamaica"
             }
         },
         {
@@ -101766,7 +101933,7 @@
                 "Duration__minutes_": 234,
                 "Reverse_Duration__minutes_": 248,
                 "Distance__km_": 2578,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 10.5933,
                 "Longitude": -85.544403,
                 "Altitude": 270,
@@ -101774,7 +101941,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 168,
-                "Shape_Length": 23.070683910932523
+                "Shape_Length": 23.070683910932523,
+                "Country": "Costa Rica"
             }
         },
         {
@@ -101914,7 +102082,7 @@
                 "Duration__minutes_": 500,
                 "Reverse_Duration__minutes_": 620,
                 "Distance__km_": 6998,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 40.471926,
                 "Longitude": -3.56264,
                 "Altitude": 1998,
@@ -101922,7 +102090,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 169,
-                "Shape_Length": 83.20902880904984
+                "Shape_Length": 83.20902880904984,
+                "Country": "Spain"
             }
         },
         {
@@ -102058,7 +102227,7 @@
                 "Duration__minutes_": 475,
                 "Reverse_Duration__minutes_": 585,
                 "Distance__km_": 6616,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 53.35369873046875,
                 "Longitude": -2.2749500274658203,
                 "Altitude": 257,
@@ -102066,7 +102235,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 170,
-                "Shape_Length": 87.34342611052799
+                "Shape_Length": 87.34342611052799,
+                "Country": "United Kingdom"
             }
         },
         {
@@ -102130,7 +102300,7 @@
                 "Duration__minutes_": 229,
                 "Reverse_Duration__minutes_": 194,
                 "Distance__km_": 2182,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 38.5097999573,
                 "Longitude": -107.893997192,
                 "Altitude": 5759,
@@ -102138,7 +102308,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 171,
-                "Shape_Length": 24.012474546157
+                "Shape_Length": 24.012474546157,
+                "Country": "United States"
             }
         },
         {
@@ -102290,7 +102461,7 @@
                 "Duration__minutes_": 545,
                 "Reverse_Duration__minutes_": 665,
                 "Distance__km_": 7743,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 48.353802,
                 "Longitude": 11.7861,
                 "Altitude": 1487,
@@ -102298,7 +102469,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 172,
-                "Shape_Length": 101.51826238524185
+                "Shape_Length": 101.51826238524185,
+                "Country": "Germany"
             }
         },
         {
@@ -102450,7 +102622,7 @@
                 "Duration__minutes_": 555,
                 "Reverse_Duration__minutes_": 665,
                 "Distance__km_": 7675,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 45.6306,
                 "Longitude": 8.72811,
                 "Altitude": 768,
@@ -102458,7 +102630,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 173,
-                "Shape_Length": 97.52945678924083
+                "Shape_Length": 97.52945678924083,
+                "Country": "Italy"
             }
         },
         {
@@ -102494,7 +102667,7 @@
                 "Duration__minutes_": 77,
                 "Reverse_Duration__minutes_": 78,
                 "Distance__km_": 385,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 32.2243995667,
                 "Longitude": -80.6975021362,
                 "Altitude": 19,
@@ -102502,7 +102675,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 174,
-                "Shape_Length": 3.9892039169826137
+                "Shape_Length": 3.9892039169826137,
+                "Country": "United States"
             }
         },
         {
@@ -102562,7 +102736,7 @@
                 "Duration__minutes_": 172,
                 "Reverse_Duration__minutes_": 208,
                 "Distance__km_": 1788,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 21.77359962463379,
                 "Longitude": -72.26589965820312,
                 "Altitude": 15,
@@ -102570,7 +102744,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 175,
-                "Shape_Length": 17.00682214649511
+                "Shape_Length": 17.00682214649511,
+                "Country": "Turks and Caicos Islands"
             }
         },
         {
@@ -102650,7 +102825,7 @@
                 "Duration__minutes_": 292,
                 "Reverse_Duration__minutes_": 275,
                 "Distance__km_": 3133,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 34.20069885253906,
                 "Longitude": -118.35900115966795,
                 "Altitude": 778,
@@ -102658,7 +102833,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 176,
-                "Shape_Length": 34.04805449009216
+                "Shape_Length": 34.04805449009216,
+                "Country": "United States"
             }
         },
         {
@@ -102734,7 +102910,7 @@
                 "Duration__minutes_": 290,
                 "Reverse_Duration__minutes_": 249,
                 "Distance__km_": 2969,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 33.8297004699707,
                 "Longitude": -116.50700378417967,
                 "Altitude": 477,
@@ -102742,7 +102918,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 177,
-                "Shape_Length": 32.17348380104116
+                "Shape_Length": 32.17348380104116,
+                "Country": "United States"
             }
         },
         {
@@ -102806,7 +102983,7 @@
                 "Duration__minutes_": 218,
                 "Reverse_Duration__minutes_": 218,
                 "Distance__km_": 2134,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 20.6173,
                 "Longitude": -100.185997,
                 "Altitude": 6296,
@@ -102814,7 +102991,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 178,
-                "Shape_Length": 20.469113307438164
+                "Shape_Length": 20.469113307438164,
+                "Country": "Mexico"
             }
         },
         {
@@ -102882,7 +103060,7 @@
                 "Duration__minutes_": 218,
                 "Reverse_Duration__minutes_": 231,
                 "Distance__km_": 2306,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 13.4409,
                 "Longitude": -89.055702,
                 "Altitude": 101,
@@ -102890,7 +103068,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 179,
-                "Shape_Length": 20.723484803684208
+                "Shape_Length": 20.723484803684208,
+                "Country": "El Salvador"
             }
         },
         {
@@ -103034,7 +103213,7 @@
                 "Duration__minutes_": 600,
                 "Reverse_Duration__minutes_": 520,
                 "Distance__km_": 7157,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 20.8986,
                 "Longitude": -156.429993,
                 "Altitude": 54,
@@ -103042,7 +103221,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 180,
-                "Shape_Length": 74.24680374535252
+                "Shape_Length": 74.24680374535252,
+                "Country": "United States"
             }
         },
         {
@@ -103114,7 +103294,7 @@
                 "Duration__minutes_": 271,
                 "Reverse_Duration__minutes_": 247,
                 "Distance__km_": 2739,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 23.15180015563965,
                 "Longitude": -109.72100067138672,
                 "Altitude": 374,
@@ -103122,7 +103302,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 181,
-                "Shape_Length": 27.44130202805783
+                "Shape_Length": 27.44130202805783,
+                "Country": "Mexico"
             }
         },
         {
@@ -103194,7 +103375,7 @@
                 "Duration__minutes_": 240,
                 "Reverse_Duration__minutes_": 260,
                 "Distance__km_": 2642,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 9.993860244750977,
                 "Longitude": -84.20880126953125,
                 "Altitude": 3021,
@@ -103202,7 +103383,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 182,
-                "Shape_Length": 23.64386687958708
+                "Shape_Length": 23.64386687958708,
+                "Country": "Costa Rica"
             }
         },
         {
@@ -103282,7 +103464,7 @@
                 "Duration__minutes_": 272,
                 "Reverse_Duration__minutes_": 351,
                 "Distance__km_": 3258,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 13.7332,
                 "Longitude": -60.952599,
                 "Altitude": 14,
@@ -103290,7 +103472,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 183,
-                "Shape_Length": 30.85443088691813
+                "Shape_Length": 30.85443088691813,
+                "Country": "Saint Lucia"
             }
         },
         {
@@ -103446,7 +103629,7 @@
                 "Duration__minutes_": 570,
                 "Reverse_Duration__minutes_": 665,
                 "Distance__km_": 7932,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 45.505299,
                 "Longitude": 12.3519,
                 "Altitude": 7,
@@ -103454,7 +103637,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 184,
-                "Shape_Length": 101.61251024584222
+                "Shape_Length": 101.61251024584222,
+                "Country": "Italy"
             }
         },
         {
@@ -103602,7 +103786,7 @@
                 "Duration__minutes_": 538,
                 "Reverse_Duration__minutes_": 610,
                 "Distance__km_": 7430,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 55.617900848389,
                 "Longitude": 12.656000137329,
                 "Altitude": 17,
@@ -103610,7 +103794,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 185,
-                "Shape_Length": 104.44946180366787
+                "Shape_Length": 104.44946180366787,
+                "Country": "Denmark"
             }
         },
         {
@@ -103726,7 +103911,7 @@
                 "Duration__minutes_": 460,
                 "Reverse_Duration__minutes_": 490,
                 "Distance__km_": 5517,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 61.17440032958984,
                 "Longitude": -149.99600219726562,
                 "Altitude": 152,
@@ -103734,7 +103919,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 186,
-                "Shape_Length": 73.48666269924135
+                "Shape_Length": 73.48666269924135,
+                "Country": "United States"
             }
         },
         {
@@ -103798,7 +103984,7 @@
                 "Duration__minutes_": 236,
                 "Reverse_Duration__minutes_": 205,
                 "Distance__km_": 2106,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 39.22320175,
                 "Longitude": -106.8690033,
                 "Altitude": 7820,
@@ -103806,7 +103992,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 187,
-                "Shape_Length": 23.169361090324262
+                "Shape_Length": 23.169361090324262,
+                "Country": "United States"
             }
         },
         {
@@ -103854,7 +104041,7 @@
                 "Duration__minutes_": 134,
                 "Reverse_Duration__minutes_": 156,
                 "Distance__km_": 1239,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 44.2580986023,
                 "Longitude": -88.5190963745,
                 "Altitude": 918,
@@ -103862,7 +104049,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 188,
-                "Shape_Length": 11.387352851885003
+                "Shape_Length": 11.387352851885003,
+                "Country": "United States"
             }
         },
         {
@@ -103938,7 +104126,7 @@
                 "Duration__minutes_": 240,
                 "Reverse_Duration__minutes_": 267,
                 "Distance__km_": 2782,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 12.5014,
                 "Longitude": -70.015198,
                 "Altitude": 60,
@@ -103946,7 +104134,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 189,
-                "Shape_Length": 25.61663684855138
+                "Shape_Length": 25.61663684855138,
+                "Country": "Aruba"
             }
         },
         {
@@ -104002,7 +104191,7 @@
                 "Duration__minutes_": 147,
                 "Reverse_Duration__minutes_": 187,
                 "Distance__km_": 1554,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 44.4719009399,
                 "Longitude": -73.15329742429999,
                 "Altitude": 335,
@@ -104010,7 +104199,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 190,
-                "Shape_Length": 15.664587544344414
+                "Shape_Length": 15.664587544344414,
+                "Country": "United States"
             }
         },
         {
@@ -104082,7 +104272,7 @@
                 "Duration__minutes_": 255,
                 "Reverse_Duration__minutes_": 235,
                 "Distance__km_": 2650,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 45.77750015,
                 "Longitude": -111.1529999,
                 "Altitude": 4473,
@@ -104090,7 +104280,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 191,
-                "Shape_Length": 29.48407698442825
+                "Shape_Length": 29.48407698442825,
+                "Country": "United States"
             }
         },
         {
@@ -104242,7 +104433,7 @@
                 "Duration__minutes_": 560,
                 "Reverse_Duration__minutes_": 640,
                 "Distance__km_": 7667,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 43.6584014893,
                 "Longitude": 7.215869903560001,
                 "Altitude": 12,
@@ -104250,7 +104441,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 192,
-                "Shape_Length": 95.50499031865134
+                "Shape_Length": 95.50499031865134,
+                "Country": "France"
             }
         },
         {
@@ -104298,7 +104490,7 @@
                 "Duration__minutes_": 125,
                 "Reverse_Duration__minutes_": 139,
                 "Distance__km_": 1123,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 41.88470077514648,
                 "Longitude": -91.71080017089844,
                 "Altitude": 869,
@@ -104306,7 +104498,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 193,
-                "Shape_Length": 11.011836618722718
+                "Shape_Length": 11.011836618722718,
+                "Country": "United States"
             }
         },
         {
@@ -104530,7 +104723,7 @@
                 "Duration__minutes_": 810,
                 "Reverse_Duration__minutes_": 940,
                 "Distance__km_": 12048,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 25.273056,
                 "Longitude": 51.608056,
                 "Altitude": 13,
@@ -104538,7 +104731,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 194,
-                "Shape_Length": 151.3663617171494
+                "Shape_Length": 151.3663617171494,
+                "Country": "Qatar"
             }
         },
         {
@@ -104602,7 +104796,7 @@
                 "Duration__minutes_": 220,
                 "Reverse_Duration__minutes_": 191,
                 "Distance__km_": 2119,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 39.64260101,
                 "Longitude": -106.9179993,
                 "Altitude": 6548,
@@ -104610,7 +104804,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 195,
-                "Shape_Length": 23.323686767838335
+                "Shape_Length": 23.323686767838335,
+                "Country": "United States"
             }
         },
         {
@@ -104690,7 +104885,7 @@
                 "Duration__minutes_": 290,
                 "Reverse_Duration__minutes_": 276,
                 "Distance__km_": 3223,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 36.77619934082031,
                 "Longitude": -119.71800231933594,
                 "Altitude": 336,
@@ -104698,7 +104893,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 196,
-                "Shape_Length": 35.5648598284086
+                "Shape_Length": 35.5648598284086,
+                "Country": "United States"
             }
         },
         {
@@ -104782,7 +104978,7 @@
                 "Duration__minutes_": 295,
                 "Reverse_Duration__minutes_": 283,
                 "Distance__km_": 3265,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 34.42620087,
                 "Longitude": -119.8399963,
                 "Altitude": 13,
@@ -104790,7 +104986,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 197,
-                "Shape_Length": 35.549575394817154
+                "Shape_Length": 35.549575394817154,
+                "Country": "United States"
             }
         },
         {
@@ -104870,7 +105067,7 @@
                 "Duration__minutes_": 295,
                 "Reverse_Duration__minutes_": 261,
                 "Distance__km_": 3189,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 53.3097000122,
                 "Longitude": -113.580001831,
                 "Altitude": 2373,
@@ -104878,7 +105075,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 198,
-                "Shape_Length": 35.513139327435674
+                "Shape_Length": 35.513139327435674,
+                "Country": "Canada"
             }
         },
         {
@@ -104934,7 +105132,7 @@
                 "Duration__minutes_": 160,
                 "Reverse_Duration__minutes_": 161,
                 "Distance__km_": 1543,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 43.5820007324,
                 "Longitude": -96.741897583,
                 "Altitude": 1429,
@@ -104942,7 +105140,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 199,
-                "Shape_Length": 15.854877050603937
+                "Shape_Length": 15.854877050603937,
+                "Country": "United States"
             }
         },
         {
@@ -105010,7 +105209,7 @@
                 "Duration__minutes_": 235,
                 "Reverse_Duration__minutes_": 293,
                 "Distance__km_": 2376,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 20.52179908752441,
                 "Longitude": -103.31099700927734,
                 "Altitude": 5016,
@@ -105018,7 +105217,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 200,
-                "Shape_Length": 23.02993603454086
+                "Shape_Length": 23.02993603454086,
+                "Country": "Mexico"
             }
         },
         {
@@ -105150,7 +105350,7 @@
                 "Duration__minutes_": 490,
                 "Reverse_Duration__minutes_": 555,
                 "Distance__km_": 6473,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 55.95000076293945,
                 "Longitude": -3.372499942779541,
                 "Altitude": 135,
@@ -105158,7 +105358,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 201,
-                "Shape_Length": 87.06259027709393
+                "Shape_Length": 87.06259027709393,
+                "Country": "United Kingdom"
             }
         },
         {
@@ -105222,7 +105423,7 @@
                 "Duration__minutes_": 215,
                 "Reverse_Duration__minutes_": 226,
                 "Distance__km_": 2217,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": 14.5833,
                 "Longitude": -90.527496,
                 "Altitude": 4952,
@@ -105230,7 +105431,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 202,
-                "Shape_Length": 20.013016307595187
+                "Shape_Length": 20.013016307595187,
+                "Country": "Guatemala"
             }
         },
         {
@@ -105294,7 +105496,7 @@
                 "Duration__minutes_": 200,
                 "Reverse_Duration__minutes_": 202,
                 "Distance__km_": 2063,
-                "Flights_per_Day": 0,
+                "Flights_per_Day": 0.0,
                 "Latitude": 15.4526,
                 "Longitude": -87.923599,
                 "Altitude": 91,
@@ -105302,7 +105504,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 203,
-                "Shape_Length": 18.519436945976505
+                "Shape_Length": 18.519436945976505,
+                "Country": "Honduras"
             }
         },
         {
@@ -105366,7 +105569,7 @@
                 "Duration__minutes_": 203,
                 "Reverse_Duration__minutes_": 276,
                 "Distance__km_": 2249,
-                "Flights_per_Day": 0,
+                "Flights_per_Day": 0.0,
                 "Latitude": 18.42970085144,
                 "Longitude": -69.668899536133,
                 "Altitude": 59,
@@ -105374,7 +105577,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 204,
-                "Shape_Length": 21.220879402650983
+                "Shape_Length": 21.220879402650983,
+                "Country": "Dominican Republic"
             }
         },
         {
@@ -105466,7 +105670,7 @@
                 "Duration__minutes_": 315,
                 "Reverse_Duration__minutes_": 325,
                 "Distance__km_": 3826,
-                "Flights_per_Day": 0,
+                "Flights_per_Day": 0.0,
                 "Latitude": -0.129166666667,
                 "Longitude": -78.3575,
                 "Altitude": 7841,
@@ -105474,7 +105678,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 205,
-                "Shape_Length": 34.31400703942158
+                "Shape_Length": 34.31400703942158,
+                "Country": "Ecuador"
             }
         },
         {
@@ -105714,7 +105919,7 @@
                 "Duration__minutes_": 885,
                 "Reverse_Duration__minutes_": 1010,
                 "Distance__km_": 13160,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": -33.9648017883,
                 "Longitude": 18.6016998291,
                 "Altitude": 151,
@@ -105722,7 +105927,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 206,
-                "Shape_Length": 123.97154408947948
+                "Shape_Length": 123.97154408947948,
+                "Country": "South Africa"
             }
         },
         {
@@ -105786,7 +105992,7 @@
                 "Duration__minutes_": 234,
                 "Reverse_Duration__minutes_": 216,
                 "Distance__km_": 2200,
-                "Flights_per_Day": 0,
+                "Flights_per_Day": 0.0,
                 "Latitude": 20.9935,
                 "Longitude": -101.481003,
                 "Altitude": 5956,
@@ -105794,7 +106000,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 207,
-                "Shape_Length": 21.260475230918733
+                "Shape_Length": 21.260475230918733,
+                "Country": "Mexico"
             }
         },
         {
@@ -105854,7 +106061,7 @@
                 "Duration__minutes_": 182,
                 "Reverse_Duration__minutes_": 188,
                 "Distance__km_": 1841,
-                "Flights_per_Day": 0,
+                "Flights_per_Day": 0.0,
                 "Latitude": 17.539100646972656,
                 "Longitude": -88.30819702148438,
                 "Altitude": 15,
@@ -105862,7 +106069,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 208,
-                "Shape_Length": 16.56144825504195
+                "Shape_Length": 16.56144825504195,
+                "Country": "Belize"
             }
         },
         {
@@ -106014,7 +106222,7 @@
                 "Duration__minutes_": 570,
                 "Reverse_Duration__minutes_": 610,
                 "Distance__km_": 7683,
-                "Flights_per_Day": 1,
+                "Flights_per_Day": 1.0,
                 "Latitude": -22.8099994659,
                 "Longitude": -43.2505569458,
                 "Altitude": 28,
@@ -106022,7 +106230,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 210,
-                "Shape_Length": 69.99381260592854
+                "Shape_Length": 69.99381260592854,
+                "Country": "Brazil"
             }
         },
         {
@@ -106086,7 +106295,7 @@
                 "Duration__minutes_": 225,
                 "Reverse_Duration__minutes_": 189,
                 "Distance__km_": 2164,
-                "Flights_per_Day": 0,
+                "Flights_per_Day": 0.0,
                 "Latitude": 40.48120117,
                 "Longitude": -107.2180023,
                 "Altitude": 6606,
@@ -106094,7 +106303,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 211,
-                "Shape_Length": 23.847027839593206
+                "Shape_Length": 23.847027839593206,
+                "Country": "United States"
             }
         },
         {
@@ -106178,7 +106388,7 @@
                 "Duration__minutes_": 302,
                 "Reverse_Duration__minutes_": 280,
                 "Distance__km_": 3438,
-                "Flights_per_Day": 0,
+                "Flights_per_Day": 0.0,
                 "Latitude": 37.721298,
                 "Longitude": -122.221001,
                 "Altitude": 9,
@@ -106186,7 +106396,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 212,
-                "Shape_Length": 38.185321327029904
+                "Shape_Length": 38.185321327029904,
+                "Country": "United States"
             }
         },
         {
@@ -106258,7 +106469,7 @@
                 "Duration__minutes_": 246,
                 "Reverse_Duration__minutes_": 237,
                 "Distance__km_": 2518,
-                "Flights_per_Day": 0,
+                "Flights_per_Day": 0.0,
                 "Latitude": 20.680099487304688,
                 "Longitude": -105.25399780273438,
                 "Altitude": 23,
@@ -106266,7 +106477,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 213,
-                "Shape_Length": 24.574135951424097
+                "Shape_Length": 24.574135951424097,
+                "Country": "Mexico"
             }
         },
         {
@@ -106346,7 +106558,7 @@
                 "Duration__minutes_": 288,
                 "Reverse_Duration__minutes_": 273,
                 "Distance__km_": 3218,
-                "Flights_per_Day": 0,
+                "Flights_per_Day": 0.0,
                 "Latitude": 39.49909973144531,
                 "Longitude": -119.76799774169922,
                 "Altitude": 4415,
@@ -106354,7 +106566,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 214,
-                "Shape_Length": 35.975671805475535
+                "Shape_Length": 35.975671805475535,
+                "Country": "United States"
             }
         },
         {
@@ -106418,7 +106631,7 @@
                 "Duration__minutes_": 205,
                 "Reverse_Duration__minutes_": 199,
                 "Distance__km_": 2101,
-                "Flights_per_Day": 0,
+                "Flights_per_Day": 0.0,
                 "Latitude": 49.9099998474,
                 "Longitude": -97.2398986816,
                 "Altitude": 783,
@@ -106426,7 +106639,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 215,
-                "Shape_Length": 20.785772377399518
+                "Shape_Length": 20.785772377399518,
+                "Country": "Canada"
             }
         },
         {
@@ -106498,7 +106712,7 @@
                 "Duration__minutes_": 237,
                 "Reverse_Duration__minutes_": 283,
                 "Distance__km_": 2753,
-                "Flights_per_Day": 0,
+                "Flights_per_Day": 0.0,
                 "Latitude": 18.0410003662,
                 "Longitude": -63.1088981628,
                 "Altitude": 13,
@@ -106506,7 +106720,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 216,
-                "Shape_Length": 26.470438299920858
+                "Shape_Length": 26.470438299920858,
+                "Country": "Netherlands Antilles"
             }
         },
         {
@@ -106562,7 +106777,7 @@
                 "Duration__minutes_": 159,
                 "Reverse_Duration__minutes_": 173,
                 "Distance__km_": 1632,
-                "Flights_per_Day": 0,
+                "Flights_per_Day": 0.0,
                 "Latitude": 19.2928009033,
                 "Longitude": -81.3576965332,
                 "Altitude": 8,
@@ -106570,7 +106785,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 217,
-                "Shape_Length": 14.670544717585225
+                "Shape_Length": 14.670544717585225,
+                "Country": "Cayman Islands"
             }
         },
         {
@@ -106618,7 +106834,7 @@
                 "Duration__minutes_": 128,
                 "Reverse_Duration__minutes_": 153,
                 "Distance__km_": 1133,
-                "Flights_per_Day": 0,
+                "Flights_per_Day": 0.0,
                 "Latitude": 40.27669906616211,
                 "Longitude": -74.8134994506836,
                 "Altitude": 213,
@@ -106626,7 +106842,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 218,
-                "Shape_Length": 11.693725940006566
+                "Shape_Length": 11.693725940006566,
+                "Country": "United States"
             }
         },
         {
@@ -106778,7 +106995,7 @@
                 "Duration__minutes_": 545,
                 "Reverse_Duration__minutes_": 645,
                 "Distance__km_": 7572,
-                "Flights_per_Day": 0,
+                "Flights_per_Day": 0.0,
                 "Latitude": 47.464699,
                 "Longitude": 8.54917,
                 "Altitude": 1416,
@@ -106786,7 +107003,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 219,
-                "Shape_Length": 97.68009735164696
+                "Shape_Length": 97.68009735164696,
+                "Country": "Switzerland"
             }
         },
         {
@@ -106838,7 +107056,7 @@
                 "Duration__minutes_": 131,
                 "Reverse_Duration__minutes_": 153,
                 "Distance__km_": 1331,
-                "Flights_per_Day": 0,
+                "Flights_per_Day": 0.0,
                 "Latitude": 41.26369858,
                 "Longitude": -72.88680267,
                 "Altitude": 12,
@@ -106846,7 +107064,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 220,
-                "Shape_Length": 13.84895703397262
+                "Shape_Length": 13.84895703397262,
+                "Country": "United States"
             }
         },
         {
@@ -106906,7 +107125,7 @@
                 "Duration__minutes_": 175,
                 "Reverse_Duration__minutes_": 212,
                 "Distance__km_": 1854,
-                "Flights_per_Day": 0,
+                "Flights_per_Day": 0.0,
                 "Latitude": 32.36399841308594,
                 "Longitude": -64.67870330810547,
                 "Altitude": 12,
@@ -106914,7 +107133,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 221,
-                "Shape_Length": 19.8116459598554
+                "Shape_Length": 19.8116459598554,
+                "Country": "Bermuda"
             }
         },
         {
@@ -107142,7 +107362,7 @@
                 "Duration__minutes_": 855,
                 "Reverse_Duration__minutes_": 855,
                 "Distance__km_": 12449,
-                "Flights_per_Day": 0,
+                "Flights_per_Day": 0.0,
                 "Latitude": 8.97789001465,
                 "Longitude": 38.7993011475,
                 "Altitude": 7630,
@@ -107150,7 +107370,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 222,
-                "Shape_Length": 133.38374539444612
+                "Shape_Length": 133.38374539444612,
+                "Country": "Ethiopia"
             }
         },
         {
@@ -107222,7 +107443,7 @@
                 "Duration__minutes_": 242,
                 "Reverse_Duration__minutes_": 259,
                 "Distance__km_": 2748,
-                "Flights_per_Day": 0,
+                "Flights_per_Day": 0.0,
                 "Latitude": 10.4424,
                 "Longitude": -75.513,
                 "Altitude": 4,
@@ -107230,7 +107451,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 223,
-                "Shape_Length": 24.86390392696881
+                "Shape_Length": 24.86390392696881,
+                "Country": "Colombia"
             }
         },
         {
@@ -107282,7 +107504,7 @@
                 "Duration__minutes_": 141,
                 "Reverse_Duration__minutes_": 150,
                 "Distance__km_": 1286,
-                "Flights_per_Day": 0,
+                "Flights_per_Day": 0.0,
                 "Latitude": 40.79520035,
                 "Longitude": -73.10019684,
                 "Altitude": 99,
@@ -107290,7 +107512,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 224,
-                "Shape_Length": 13.413556397071549
+                "Shape_Length": 13.413556397071549,
+                "Country": "United States"
             }
         },
         {
@@ -107338,7 +107561,7 @@
                 "Duration__minutes_": 122,
                 "Reverse_Duration__minutes_": 145,
                 "Distance__km_": 1065,
-                "Flights_per_Day": 0,
+                "Flights_per_Day": 0.0,
                 "Latitude": 26.5114,
                 "Longitude": -77.083503,
                 "Altitude": 6,
@@ -107346,7 +107569,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 225,
-                "Shape_Length": 10.23730587574328
+                "Shape_Length": 10.23730587574328,
+                "Country": "Bahamas"
             }
         },
         {
@@ -107406,7 +107630,7 @@
                 "Duration__minutes_": 190,
                 "Reverse_Duration__minutes_": 266,
                 "Distance__km_": 1947,
-                "Flights_per_Day": 0,
+                "Flights_per_Day": 0.0,
                 "Latitude": 16.316799,
                 "Longitude": -86.523003,
                 "Altitude": 39,
@@ -107414,7 +107638,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 226,
-                "Shape_Length": 17.447003375329757
+                "Shape_Length": 17.447003375329757,
+                "Country": "Honduras"
             }
         },
         {
@@ -107490,7 +107715,7 @@
                 "Duration__minutes_": 242,
                 "Reverse_Duration__minutes_": 328,
                 "Distance__km_": 2840,
-                "Flights_per_Day": 0,
+                "Flights_per_Day": 0.0,
                 "Latitude": 17.311199188232422,
                 "Longitude": -62.71870040893555,
                 "Altitude": 170,
@@ -107498,7 +107723,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 227,
-                "Shape_Length": 27.2222983754465
+                "Shape_Length": 27.2222983754465,
+                "Country": "Saint Kitts and Nevis"
             }
         },
         {
@@ -107570,7 +107796,7 @@
                 "Duration__minutes_": 222,
                 "Reverse_Duration__minutes_": 259,
                 "Distance__km_": 2652,
-                "Flights_per_Day": 0,
+                "Flights_per_Day": 0.0,
                 "Latitude": 17.701900482177734,
                 "Longitude": -64.79859924316406,
                 "Altitude": 74,
@@ -107578,7 +107804,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 228,
-                "Shape_Length": 25.332066435291935
+                "Shape_Length": 25.332066435291935,
+                "Country": "Virgin Islands"
             }
         },
         {
@@ -107654,7 +107881,7 @@
                 "Duration__minutes_": 249,
                 "Reverse_Duration__minutes_": 330,
                 "Distance__km_": 2928,
-                "Flights_per_Day": 0,
+                "Flights_per_Day": 0.0,
                 "Latitude": 17.1367,
                 "Longitude": -61.792702,
                 "Altitude": 62,
@@ -107662,7 +107889,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 229,
-                "Shape_Length": 28.07545327430931
+                "Shape_Length": 28.07545327430931,
+                "Country": "Antigua and Barbuda"
             }
         },
         {
@@ -107738,7 +107966,7 @@
                 "Duration__minutes_": 244,
                 "Reverse_Duration__minutes_": 276,
                 "Distance__km_": 2869,
-                "Flights_per_Day": 0,
+                "Flights_per_Day": 0.0,
                 "Latitude": 12.1889,
                 "Longitude": -68.959801,
                 "Altitude": 29,
@@ -107746,7 +107974,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 230,
-                "Shape_Length": 26.483277467618525
+                "Shape_Length": 26.483277467618525,
+                "Country": "Netherlands Antilles"
             }
         },
         {
@@ -107822,7 +108051,7 @@
                 "Duration__minutes_": 246,
                 "Reverse_Duration__minutes_": 278,
                 "Distance__km_": 2914,
-                "Flights_per_Day": 0,
+                "Flights_per_Day": 0.0,
                 "Latitude": 12.130999565124512,
                 "Longitude": -68.26850128173828,
                 "Altitude": 20,
@@ -107830,7 +108059,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 231,
-                "Shape_Length": 26.942850447421794
+                "Shape_Length": 26.942850447421794,
+                "Country": "Netherlands Antilles"
             }
         },
         {
@@ -107882,7 +108112,7 @@
                 "Duration__minutes_": 165,
                 "Reverse_Duration__minutes_": 162,
                 "Distance__km_": 1487,
-                "Flights_per_Day": 0,
+                "Flights_per_Day": 0.0,
                 "Latitude": 20.52239990234375,
                 "Longitude": -86.92559814453125,
                 "Altitude": 15,
@@ -107890,7 +108120,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 232,
-                "Shape_Length": 13.351084827839552
+                "Shape_Length": 13.351084827839552,
+                "Country": "Mexico"
             }
         },
         {
@@ -107938,7 +108169,7 @@
                 "Duration__minutes_": 130,
                 "Reverse_Duration__minutes_": 144,
                 "Distance__km_": 1181,
-                "Flights_per_Day": 0,
+                "Flights_per_Day": 0.0,
                 "Latitude": 25.474899292,
                 "Longitude": -76.6835021973,
                 "Altitude": 13,
@@ -107946,7 +108177,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 233,
-                "Shape_Length": 11.256948501035382
+                "Shape_Length": 11.256948501035382,
+                "Country": "Bahamas"
             }
         },
         {
@@ -107998,7 +108230,7 @@
                 "Duration__minutes_": 141,
                 "Reverse_Duration__minutes_": 161,
                 "Distance__km_": 1403,
-                "Flights_per_Day": 0,
+                "Flights_per_Day": 0.0,
                 "Latitude": 23.5625991821,
                 "Longitude": -75.8779983521,
                 "Altitude": 9,
@@ -108006,7 +108238,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 234,
-                "Shape_Length": 13.221499531601655
+                "Shape_Length": 13.221499531601655,
+                "Country": "Bahamas"
             }
         },
         {
@@ -108062,7 +108295,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 235,
-                "Shape_Length": 10.699200235826156
+                "Shape_Length": 10.699200235826156,
+                "Country": "United States"
             }
         },
         {
@@ -108110,7 +108344,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 236,
-                "Shape_Length": 6.140834310408372
+                "Shape_Length": 6.140834310408372,
+                "Country": "United States"
             }
         },
         {
@@ -108190,7 +108425,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 237,
-                "Shape_Length": 24.852331993825363
+                "Shape_Length": 24.852331993825363,
+                "Country": "Mexico"
             }
         },
         {
@@ -108282,7 +108518,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 238,
-                "Shape_Length": 32.40713814323595
+                "Shape_Length": 32.40713814323595,
+                "Country": "Barbados"
             }
         },
         {
@@ -108354,7 +108591,8 @@
                 "StartLon": -84.428101,
                 "StartLat": 33.6367,
                 "ORIG_FID": 239,
-                "Shape_Length": 19.637344029650592
+                "Shape_Length": 19.637344029650592,
+                "Country": "Dominican Republic"
             }
         }
     ]

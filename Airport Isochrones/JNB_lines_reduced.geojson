@@ -58,7 +58,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 1,
-                "Shape_Length": 12.427566908243822
+                "Shape_Length": 12.427566908243822,
+                "Country": "South Africa"
             }
         },
         {
@@ -102,7 +103,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 2,
-                "Shape_Length": 4.509803364981197
+                "Shape_Length": 4.509803364981197,
+                "Country": "South Africa"
             }
         },
         {
@@ -154,7 +156,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 3,
-                "Shape_Length": 8.275228672118018
+                "Shape_Length": 8.275228672118018,
+                "Country": "South Africa"
             }
         },
         {
@@ -206,7 +209,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 4,
-                "Shape_Length": 8.687621798844088
+                "Shape_Length": 8.687621798844088,
+                "Country": "Zimbabwe"
             }
         },
         {
@@ -250,7 +254,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 5,
-                "Shape_Length": 4.332272937701548
+                "Shape_Length": 4.332272937701548,
+                "Country": "Mozambique"
             }
         },
         {
@@ -294,7 +299,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 6,
-                "Shape_Length": 2.815680349993298
+                "Shape_Length": 2.815680349993298,
+                "Country": "Botswana"
             }
         },
         {
@@ -350,7 +356,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 7,
-                "Shape_Length": 10.810377762108619
+                "Shape_Length": 10.810377762108619,
+                "Country": "Zambia"
             }
         },
         {
@@ -406,7 +413,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 8,
-                "Shape_Length": 9.816924225829998
+                "Shape_Length": 9.816924225829998,
+                "Country": "South Africa"
             }
         },
         {
@@ -450,7 +458,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 9,
-                "Shape_Length": 3.5357624682854807
+                "Shape_Length": 3.5357624682854807,
+                "Country": "South Africa"
             }
         },
         {
@@ -502,7 +511,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 10,
-                "Shape_Length": 6.909202436267993
+                "Shape_Length": 6.909202436267993,
+                "Country": "South Africa"
             }
         },
         {
@@ -546,7 +556,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 11,
-                "Shape_Length": 2.957902681584435
+                "Shape_Length": 2.957902681584435,
+                "Country": "South Africa"
             }
         },
         {
@@ -598,7 +609,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 12,
-                "Shape_Length": 8.396108784630465
+                "Shape_Length": 8.396108784630465,
+                "Country": "Zimbabwe"
             }
         },
         {
@@ -654,7 +666,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 13,
-                "Shape_Length": 11.382656608659886
+                "Shape_Length": 11.382656608659886,
+                "Country": "Namibia"
             }
         },
         {
@@ -738,7 +751,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 14,
-                "Shape_Length": 26.3005704780373
+                "Shape_Length": 26.3005704780373,
+                "Country": "Kenya"
             }
         },
         {
@@ -782,7 +796,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 15,
-                "Shape_Length": 3.477957602460252
+                "Shape_Length": 3.477957602460252,
+                "Country": "Swaziland"
             }
         },
         {
@@ -826,7 +841,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 16,
-                "Shape_Length": 4.383285139135388
+                "Shape_Length": 4.383285139135388,
+                "Country": "South Africa"
             }
         },
         {
@@ -878,7 +894,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 17,
-                "Shape_Length": 7.824725543181366
+                "Shape_Length": 7.824725543181366,
+                "Country": "Botswana"
             }
         },
         {
@@ -926,7 +943,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 18,
-                "Shape_Length": 6.133093013188691
+                "Shape_Length": 6.133093013188691,
+                "Country": "Zimbabwe"
             }
         },
         {
@@ -970,7 +988,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 19,
-                "Shape_Length": 4.117569862861812
+                "Shape_Length": 4.117569862861812,
+                "Country": "South Africa"
             }
         },
         {
@@ -1074,7 +1093,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 20,
-                "Shape_Length": 36.67473963837965
+                "Shape_Length": 36.67473963837965,
+                "Country": "Ethiopia"
             }
         },
         {
@@ -1214,7 +1234,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 21,
-                "Shape_Length": 58.13345067799802
+                "Shape_Length": 58.13345067799802,
+                "Country": "United Arab Emirates"
             }
         },
         {
@@ -1258,7 +1279,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 22,
-                "Shape_Length": 3.315238594610543
+                "Shape_Length": 3.315238594610543,
+                "Country": "South Africa"
             }
         },
         {
@@ -1442,7 +1464,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 23,
-                "Shape_Length": 83.15933599007603
+                "Shape_Length": 83.15933599007603,
+                "Country": "United Kingdom"
             }
         },
         {
@@ -1486,7 +1509,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 24,
-                "Shape_Length": 3.3947137518282267
+                "Shape_Length": 3.3947137518282267,
+                "Country": "Lesotho"
             }
         },
         {
@@ -1530,7 +1554,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 25,
-                "Shape_Length": 2.594748833627259
+                "Shape_Length": 2.594748833627259,
+                "Country": "South Africa"
             }
         },
         {
@@ -1578,7 +1603,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 26,
-                "Shape_Length": 5.424040175840132
+                "Shape_Length": 5.424040175840132,
+                "Country": "South Africa"
             }
         },
         {
@@ -1666,7 +1692,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 27,
-                "Shape_Length": 30.036647266819763
+                "Shape_Length": 30.036647266819763,
+                "Country": "Mauritius"
             }
         },
         {
@@ -1714,7 +1741,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 28,
-                "Shape_Length": 7.343244136304587
+                "Shape_Length": 7.343244136304587,
+                "Country": "South Africa"
             }
         },
         {
@@ -1850,7 +1878,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 29,
-                "Shape_Length": 56.490652743414934
+                "Shape_Length": 56.490652743414934,
+                "Country": "Qatar"
             }
         },
         {
@@ -1894,7 +1923,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 30,
-                "Shape_Length": 3.544399245757397
+                "Shape_Length": 3.544399245757397,
+                "Country": "South Africa"
             }
         },
         {
@@ -1946,7 +1976,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 31,
-                "Shape_Length": 8.860818471418684
+                "Shape_Length": 8.860818471418684,
+                "Country": "Botswana"
             }
         },
         {
@@ -1994,7 +2025,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 32,
-                "Shape_Length": 5.459891468735264
+                "Shape_Length": 5.459891468735264,
+                "Country": "South Africa"
             }
         },
         {
@@ -2054,7 +2086,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 33,
-                "Shape_Length": 12.439999366088855
+                "Shape_Length": 12.439999366088855,
+                "Country": "Malawi"
             }
         },
         {
@@ -2098,7 +2131,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 34,
-                "Shape_Length": 4.643795439387913
+                "Shape_Length": 4.643795439387913,
+                "Country": "South Africa"
             }
         },
         {
@@ -2178,7 +2212,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 35,
-                "Shape_Length": 24.244931749398564
+                "Shape_Length": 24.244931749398564,
+                "Country": "Rwanda"
             }
         },
         {
@@ -2254,7 +2289,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 36,
-                "Shape_Length": 22.9086791166554
+                "Shape_Length": 22.9086791166554,
+                "Country": "Angola"
             }
         },
         {
@@ -2306,7 +2342,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 37,
-                "Shape_Length": 9.200097982096755
+                "Shape_Length": 9.200097982096755,
+                "Country": "Mozambique"
             }
         },
         {
@@ -2522,7 +2559,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 38,
-                "Shape_Length": 132.54379931259427
+                "Shape_Length": 132.54379931259427,
+                "Country": "Australia"
             }
         },
         {
@@ -2574,7 +2612,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 39,
-                "Shape_Length": 8.663618138394984
+                "Shape_Length": 8.663618138394984,
+                "Country": "Zambia"
             }
         },
         {
@@ -2650,7 +2689,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 40,
-                "Shape_Length": 22.168877239100027
+                "Shape_Length": 22.168877239100027,
+                "Country": "Tanzania"
             }
         },
         {
@@ -2734,7 +2774,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 41,
-                "Shape_Length": 25.25326830374275
+                "Shape_Length": 25.25326830374275,
+                "Country": "Congo (Kinshasa)"
             }
         },
         {
@@ -2794,7 +2835,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 42,
-                "Shape_Length": 13.968310376768773
+                "Shape_Length": 13.968310376768773,
+                "Country": "Namibia"
             }
         },
         {
@@ -2974,7 +3016,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 43,
-                "Shape_Length": 82.19441077185265
+                "Shape_Length": 82.19441077185265,
+                "Country": "Netherlands"
             }
         },
         {
@@ -3230,7 +3273,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 44,
-                "Shape_Length": 128.53599093730585
+                "Shape_Length": 128.53599093730585,
+                "Country": "United States"
             }
         },
         {
@@ -3406,7 +3450,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 45,
-                "Shape_Length": 79.68736568567745
+                "Shape_Length": 79.68736568567745,
+                "Country": "France"
             }
         },
         {
@@ -3490,7 +3535,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 46,
-                "Shape_Length": 26.517353632682653
+                "Shape_Length": 26.517353632682653,
+                "Country": "Uganda"
             }
         },
         {
@@ -3554,7 +3600,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 47,
-                "Shape_Length": 14.565510510977171
+                "Shape_Length": 14.565510510977171,
+                "Country": "Congo (Kinshasa)"
             }
         },
         {
@@ -3730,7 +3777,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 48,
-                "Shape_Length": 78.8496862208702
+                "Shape_Length": 78.8496862208702,
+                "Country": "Germany"
             }
         },
         {
@@ -3886,7 +3934,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 49,
-                "Shape_Length": 67.41642645842332
+                "Shape_Length": 67.41642645842332,
+                "Country": "Turkey"
             }
         },
         {
@@ -3934,7 +3983,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 50,
-                "Shape_Length": 5.163495744948573
+                "Shape_Length": 5.163495744948573,
+                "Country": "South Africa"
             }
         },
         {
@@ -3994,7 +4044,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 51,
-                "Shape_Length": 13.1477899385542
+                "Shape_Length": 13.1477899385542,
+                "Country": "Zambia"
             }
         },
         {
@@ -4062,7 +4113,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 52,
-                "Shape_Length": 17.998871170209274
+                "Shape_Length": 17.998871170209274,
+                "Country": "Mozambique"
             }
         },
         {
@@ -4238,7 +4290,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 53,
-                "Shape_Length": 81.0788490139946
+                "Shape_Length": 81.0788490139946,
+                "Country": "Singapore"
             }
         },
         {
@@ -4310,7 +4363,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 54,
-                "Shape_Length": 20.603658002041854
+                "Shape_Length": 20.603658002041854,
+                "Country": "Madagascar"
             }
         },
         {
@@ -4362,7 +4416,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 55,
-                "Shape_Length": 8.18227409539465
+                "Shape_Length": 8.18227409539465,
+                "Country": "Mozambique"
             }
         },
         {
@@ -4534,7 +4589,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 56,
-                "Shape_Length": 76.33122183210408
+                "Shape_Length": 76.33122183210408,
+                "Country": "Switzerland"
             }
         },
         {
@@ -4778,7 +4834,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 57,
-                "Shape_Length": 123.97796897397285
+                "Shape_Length": 123.97796897397285,
+                "Country": "United States"
             }
         },
         {
@@ -4918,7 +4975,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 58,
-                "Shape_Length": 57.07392650914484
+                "Shape_Length": 57.07392650914484,
+                "Country": "United Arab Emirates"
             }
         },
         {
@@ -4966,7 +5024,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 59,
-                "Shape_Length": 5.039039918621682
+                "Shape_Length": 5.039039918621682,
+                "Country": "Botswana"
             }
         },
         {
@@ -5122,7 +5181,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 60,
-                "Shape_Length": 75.8059467365163
+                "Shape_Length": 75.8059467365163,
+                "Country": "Brazil"
             }
         },
         {
@@ -5234,7 +5294,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 61,
-                "Shape_Length": 41.16257880665415
+                "Shape_Length": 41.16257880665415,
+                "Country": "Nigeria"
             }
         },
         {
@@ -5286,7 +5347,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 62,
-                "Shape_Length": 9.349628390344195
+                "Shape_Length": 9.349628390344195,
+                "Country": "South Africa"
             }
         },
         {
@@ -5330,7 +5392,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 63,
-                "Shape_Length": 3.5534251535572534
+                "Shape_Length": 3.5534251535572534,
+                "Country": "South Africa"
             }
         },
         {
@@ -5466,7 +5529,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 64,
-                "Shape_Length": 56.35031904842274
+                "Shape_Length": 56.35031904842274,
+                "Country": "Egypt"
             }
         },
         {
@@ -5526,7 +5590,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 65,
-                "Shape_Length": 13.535778964837673
+                "Shape_Length": 13.535778964837673,
+                "Country": "Malawi"
             }
         },
         {
@@ -5582,7 +5647,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 66,
-                "Shape_Length": 11.394346949908593
+                "Shape_Length": 11.394346949908593,
+                "Country": "Mozambique"
             }
         },
         {
@@ -5790,7 +5856,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 67,
-                "Shape_Length": 98.7023935471593
+                "Shape_Length": 98.7023935471593,
+                "Country": "China"
             }
         },
         {
@@ -5902,7 +5969,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 68,
-                "Shape_Length": 42.6462612124238
+                "Shape_Length": 42.6462612124238,
+                "Country": "Ghana"
             }
         },
         {
@@ -5966,7 +6034,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 69,
-                "Shape_Length": 15.61265722959219
+                "Shape_Length": 15.61265722959219,
+                "Country": "Mozambique"
             }
         },
         {
@@ -6174,7 +6243,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 70,
-                "Shape_Length": 98.63093385698839
+                "Shape_Length": 98.63093385698839,
+                "Country": "Hong Kong"
             }
         },
         {
@@ -6346,7 +6416,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 71,
-                "Shape_Length": 76.39644536866092
+                "Shape_Length": 76.39644536866092,
+                "Country": "Germany"
             }
         },
         {
@@ -6518,7 +6589,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 72,
-                "Shape_Length": 90.18779187317595
+                "Shape_Length": 90.18779187317595,
+                "Country": "Australia"
             }
         },
         {
@@ -6618,7 +6690,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 73,
-                "Shape_Length": 34.757927056788965
+                "Shape_Length": 34.757927056788965,
+                "Country": "Seychelles"
             }
         },
         {
@@ -6694,7 +6767,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 74,
-                "Shape_Length": 22.75230054156168
+                "Shape_Length": 22.75230054156168,
+                "Country": "Tanzania"
             }
         },
         {
@@ -6746,7 +6820,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 75,
-                "Shape_Length": 7.512365058827966
+                "Shape_Length": 7.512365058827966,
+                "Country": "Mozambique"
             }
         },
         {
@@ -6842,7 +6917,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 76,
-                "Shape_Length": 32.614556226512136
+                "Shape_Length": 32.614556226512136,
+                "Country": "Gabon"
             }
         },
         {
@@ -6926,7 +7002,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 77,
-                "Shape_Length": 27.806049046030545
+                "Shape_Length": 27.806049046030545,
+                "Country": "Reunion"
             }
         },
         {
@@ -7006,7 +7083,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 78,
-                "Shape_Length": 23.84167074352965
+                "Shape_Length": 23.84167074352965,
+                "Country": "Madagascar"
             }
         },
         {
@@ -7078,7 +7156,8 @@
                 "StartLon": 28.246,
                 "StartLat": -26.1392,
                 "ORIG_FID": 79,
-                "Shape_Length": 20.466421957402247
+                "Shape_Length": 20.466421957402247,
+                "Country": "Angola"
             }
         }
     ]

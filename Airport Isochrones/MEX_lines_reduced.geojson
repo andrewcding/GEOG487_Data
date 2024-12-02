@@ -46,7 +46,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 1,
-                "Shape_Length": 6.426140914062991
+                "Shape_Length": 6.426140914062991,
+                "Country": "Mexico"
             }
         },
         {
@@ -106,7 +107,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 2,
-                "Shape_Length": 12.302141071278967
+                "Shape_Length": 12.302141071278967,
+                "Country": "Mexico"
             }
         },
         {
@@ -150,7 +152,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 3,
-                "Shape_Length": 4.375800711807792
+                "Shape_Length": 4.375800711807792,
+                "Country": "Mexico"
             }
         },
         {
@@ -226,7 +229,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 4,
-                "Shape_Length": 22.2157619583123
+                "Shape_Length": 22.2157619583123,
+                "Country": "Mexico"
             }
         },
         {
@@ -278,7 +282,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 5,
-                "Shape_Length": 9.534473945146477
+                "Shape_Length": 9.534473945146477,
+                "Country": "Mexico"
             }
         },
         {
@@ -342,7 +347,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 6,
-                "Shape_Length": 15.395722621620335
+                "Shape_Length": 15.395722621620335,
+                "Country": "Mexico"
             }
         },
         {
@@ -398,7 +404,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 7,
-                "Shape_Length": 11.189902906738222
+                "Shape_Length": 11.189902906738222,
+                "Country": "United States"
             }
         },
         {
@@ -446,7 +453,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 8,
-                "Shape_Length": 6.306139063437994
+                "Shape_Length": 6.306139063437994,
+                "Country": "Mexico"
             }
         },
         {
@@ -494,7 +502,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 9,
-                "Shape_Length": 6.418502540985652
+                "Shape_Length": 6.418502540985652,
+                "Country": "Mexico"
             }
         },
         {
@@ -586,7 +595,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 10,
-                "Shape_Length": 33.156692809367065
+                "Shape_Length": 33.156692809367065,
+                "Country": "United States"
             }
         },
         {
@@ -674,7 +684,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 11,
-                "Shape_Length": 28.971616502279673
+                "Shape_Length": 28.971616502279673,
+                "Country": "Colombia"
             }
         },
         {
@@ -750,7 +761,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 12,
-                "Shape_Length": 24.217892339594535
+                "Shape_Length": 24.217892339594535,
+                "Country": "United States"
             }
         },
         {
@@ -934,7 +946,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 13,
-                "Shape_Length": 101.50267696587714
+                "Shape_Length": 101.50267696587714,
+                "Country": "Spain"
             }
         },
         {
@@ -990,7 +1003,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 14,
-                "Shape_Length": 11.28093976648958
+                "Shape_Length": 11.28093976648958,
+                "Country": "Mexico"
             }
         },
         {
@@ -1038,7 +1052,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 15,
-                "Shape_Length": 6.6974247606395565
+                "Shape_Length": 6.6974247606395565,
+                "Country": "Mexico"
             }
         },
         {
@@ -1082,7 +1097,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 16,
-                "Shape_Length": 3.3819782663747224
+                "Shape_Length": 3.3819782663747224,
+                "Country": "Mexico"
             }
         },
         {
@@ -1126,7 +1142,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 17,
-                "Shape_Length": 2.899407007755278
+                "Shape_Length": 2.899407007755278,
+                "Country": "Mexico"
             }
         },
         {
@@ -1190,7 +1207,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 18,
-                "Shape_Length": 14.252862279125727
+                "Shape_Length": 14.252862279125727,
+                "Country": "Mexico"
             }
         },
         {
@@ -1246,7 +1264,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 19,
-                "Shape_Length": 11.55265826568936
+                "Shape_Length": 11.55265826568936,
+                "Country": "Mexico"
             }
         },
         {
@@ -1310,7 +1329,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 20,
-                "Shape_Length": 13.614018536920748
+                "Shape_Length": 13.614018536920748,
+                "Country": "United States"
             }
         },
         {
@@ -1382,7 +1402,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 21,
-                "Shape_Length": 19.84304023965875
+                "Shape_Length": 19.84304023965875,
+                "Country": "United States"
             }
         },
         {
@@ -1438,7 +1459,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 22,
-                "Shape_Length": 9.827791122486289
+                "Shape_Length": 9.827791122486289,
+                "Country": "Guatemala"
             }
         },
         {
@@ -1494,7 +1516,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 23,
-                "Shape_Length": 10.115387256872282
+                "Shape_Length": 10.115387256872282,
+                "Country": "United States"
             }
         },
         {
@@ -1546,7 +1569,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 24,
-                "Shape_Length": 8.102151063321463
+                "Shape_Length": 8.102151063321463,
+                "Country": "Mexico"
             }
         },
         {
@@ -1590,7 +1614,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 25,
-                "Shape_Length": 2.868438286410074
+                "Shape_Length": 2.868438286410074,
+                "Country": "Mexico"
             }
         },
         {
@@ -1670,7 +1695,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 26,
-                "Shape_Length": 25.202872533527025
+                "Shape_Length": 25.202872533527025,
+                "Country": "United States"
             }
         },
         {
@@ -1714,7 +1740,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 27,
-                "Shape_Length": 4.0745688265928965
+                "Shape_Length": 4.0745688265928965,
+                "Country": "Mexico"
             }
         },
         {
@@ -1786,7 +1813,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 28,
-                "Shape_Length": 20.42572246228308
+                "Shape_Length": 20.42572246228308,
+                "Country": "United States"
             }
         },
         {
@@ -1862,7 +1890,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 29,
-                "Shape_Length": 22.260300591577955
+                "Shape_Length": 22.260300591577955,
+                "Country": "Panama"
             }
         },
         {
@@ -1930,7 +1959,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 30,
-                "Shape_Length": 17.61441994430312
+                "Shape_Length": 17.61441994430312,
+                "Country": "Costa Rica"
             }
         },
         {
@@ -1974,7 +2004,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 31,
-                "Shape_Length": 3.960623499648147
+                "Shape_Length": 3.960623499648147,
+                "Country": "Mexico"
             }
         },
         {
@@ -2158,7 +2189,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 32,
-                "Shape_Length": 111.65896476301346
+                "Shape_Length": 111.65896476301346,
+                "Country": "France"
             }
         },
         {
@@ -2214,7 +2246,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 33,
-                "Shape_Length": 9.951892030682227
+                "Shape_Length": 9.951892030682227,
+                "Country": "Mexico"
             }
         },
         {
@@ -2270,7 +2303,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 34,
-                "Shape_Length": 10.787158370728369
+                "Shape_Length": 10.787158370728369,
+                "Country": "Mexico"
             }
         },
         {
@@ -2342,7 +2376,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 35,
-                "Shape_Length": 19.928450567387102
+                "Shape_Length": 19.928450567387102,
+                "Country": "United States"
             }
         },
         {
@@ -2386,7 +2421,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 36,
-                "Shape_Length": 3.1040723170631677
+                "Shape_Length": 3.1040723170631677,
+                "Country": "Mexico"
             }
         },
         {
@@ -2474,7 +2510,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 37,
-                "Shape_Length": 29.65366729920879
+                "Shape_Length": 29.65366729920879,
+                "Country": "United States"
             }
         },
         {
@@ -2550,7 +2587,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 38,
-                "Shape_Length": 23.186155137456836
+                "Shape_Length": 23.186155137456836,
+                "Country": "United States"
             }
         },
         {
@@ -2598,7 +2636,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 39,
-                "Shape_Length": 6.626558761437288
+                "Shape_Length": 6.626558761437288,
+                "Country": "Mexico"
             }
         },
         {
@@ -2646,7 +2685,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 40,
-                "Shape_Length": 4.614897787257248
+                "Shape_Length": 4.614897787257248,
+                "Country": "Mexico"
             }
         },
         {
@@ -2690,7 +2730,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 41,
-                "Shape_Length": 3.3759497615275373
+                "Shape_Length": 3.3759497615275373,
+                "Country": "Mexico"
             }
         },
         {
@@ -2742,7 +2783,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 42,
-                "Shape_Length": 7.512640869649698
+                "Shape_Length": 7.512640869649698,
+                "Country": "Mexico"
             }
         },
         {
@@ -2794,7 +2836,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 43,
-                "Shape_Length": 8.153398621194794
+                "Shape_Length": 8.153398621194794,
+                "Country": "Mexico"
             }
         },
         {
@@ -2838,7 +2881,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 44,
-                "Shape_Length": 2.764623084304678
+                "Shape_Length": 2.764623084304678,
+                "Country": "Mexico"
             }
         },
         {
@@ -2910,7 +2954,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 45,
-                "Shape_Length": 20.897999797676075
+                "Shape_Length": 20.897999797676075,
+                "Country": "Mexico"
             }
         },
         {
@@ -2998,7 +3043,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 46,
-                "Shape_Length": 31.20959223091037
+                "Shape_Length": 31.20959223091037,
+                "Country": "Canada"
             }
         },
         {
@@ -3042,7 +3088,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 47,
-                "Shape_Length": 3.0121789362585605
+                "Shape_Length": 3.0121789362585605,
+                "Country": "Mexico"
             }
         },
         {
@@ -3198,7 +3245,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 48,
-                "Shape_Length": 67.91081796923518
+                "Shape_Length": 67.91081796923518,
+                "Country": "Brazil"
             }
         },
         {
@@ -3378,7 +3426,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 49,
-                "Shape_Length": 109.364537983015
+                "Shape_Length": 109.364537983015,
+                "Country": "United Kingdom"
             }
         },
         {
@@ -3482,7 +3531,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 50,
-                "Shape_Length": 38.37003800243428
+                "Shape_Length": 38.37003800243428,
+                "Country": "Peru"
             }
         },
         {
@@ -3542,7 +3592,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 51,
-                "Shape_Length": 12.208209558932971
+                "Shape_Length": 12.208209558932971,
+                "Country": "Mexico"
             }
         },
         {
@@ -3594,7 +3645,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 52,
-                "Shape_Length": 7.194074333592761
+                "Shape_Length": 7.194074333592761,
+                "Country": "Mexico"
             }
         },
         {
@@ -3634,7 +3686,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 53,
-                "Shape_Length": 1.62343959870625
+                "Shape_Length": 1.62343959870625,
+                "Country": "Mexico"
             }
         },
         {
@@ -3710,7 +3763,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 54,
-                "Shape_Length": 21.19003003389528
+                "Shape_Length": 21.19003003389528,
+                "Country": "United States"
             }
         },
         {
@@ -3754,7 +3808,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 55,
-                "Shape_Length": 4.685138598949675
+                "Shape_Length": 4.685138598949675,
+                "Country": "Mexico"
             }
         },
         {
@@ -3802,7 +3857,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 56,
-                "Shape_Length": 5.49484620596326
+                "Shape_Length": 5.49484620596326,
+                "Country": "Mexico"
             }
         },
         {
@@ -3862,7 +3918,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 57,
-                "Shape_Length": 12.197410640776111
+                "Shape_Length": 12.197410640776111,
+                "Country": "Mexico"
             }
         },
         {
@@ -3962,7 +4019,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 58,
-                "Shape_Length": 38.61610584186432
+                "Shape_Length": 38.61610584186432,
+                "Country": "Canada"
             }
         },
         {
@@ -4022,7 +4080,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 59,
-                "Shape_Length": 13.388688954690467
+                "Shape_Length": 13.388688954690467,
+                "Country": "Mexico"
             }
         },
         {
@@ -4074,7 +4133,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 60,
-                "Shape_Length": 8.581059101937996
+                "Shape_Length": 8.581059101937996,
+                "Country": "Mexico"
             }
         },
         {
@@ -4122,7 +4182,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 61,
-                "Shape_Length": 5.0047108697179805
+                "Shape_Length": 5.0047108697179805,
+                "Country": "Mexico"
             }
         },
         {
@@ -4178,7 +4239,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 62,
-                "Shape_Length": 11.803072269854477
+                "Shape_Length": 11.803072269854477,
+                "Country": "Mexico"
             }
         },
         {
@@ -4238,7 +4300,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 63,
-                "Shape_Length": 11.675515003502095
+                "Shape_Length": 11.675515003502095,
+                "Country": "El Salvador"
             }
         },
         {
@@ -4422,7 +4485,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 64,
-                "Shape_Length": 115.73094792261469
+                "Shape_Length": 115.73094792261469,
+                "Country": "Netherlands"
             }
         },
         {
@@ -4518,7 +4582,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 65,
-                "Shape_Length": 36.45452035789736
+                "Shape_Length": 36.45452035789736,
+                "Country": "United States"
             }
         },
         {
@@ -4610,7 +4675,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 66,
-                "Shape_Length": 32.89009001744745
+                "Shape_Length": 32.89009001744745,
+                "Country": "United States"
             }
         },
         {
@@ -4810,7 +4876,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 67,
-                "Shape_Length": 120.31747677922499
+                "Shape_Length": 120.31747677922499,
+                "Country": "Italy"
             }
         },
         {
@@ -4878,7 +4945,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 68,
-                "Shape_Length": 18.628214383502666
+                "Shape_Length": 18.628214383502666,
+                "Country": "United States"
             }
         },
         {
@@ -4962,7 +5030,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 69,
-                "Shape_Length": 29.215764905222866
+                "Shape_Length": 29.215764905222866,
+                "Country": "United States"
             }
         },
         {
@@ -5046,7 +5115,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 70,
-                "Shape_Length": 27.133789258860332
+                "Shape_Length": 27.133789258860332,
+                "Country": "Colombia"
             }
         },
         {
@@ -5142,7 +5212,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 71,
-                "Shape_Length": 36.56724197206369
+                "Shape_Length": 36.56724197206369,
+                "Country": "Canada"
             }
         },
         {
@@ -5194,7 +5265,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 72,
-                "Shape_Length": 7.315565648751648
+                "Shape_Length": 7.315565648751648,
+                "Country": "Mexico"
             }
         },
         {
@@ -5246,7 +5318,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 73,
-                "Shape_Length": 8.023114131995067
+                "Shape_Length": 8.023114131995067,
+                "Country": "Mexico"
             }
         },
         {
@@ -50378,7 +50451,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 74,
-                "Shape_Length": 130.05017178538216
+                "Shape_Length": 130.05017178538216,
+                "Country": "Japan"
             }
         },
         {
@@ -50418,7 +50492,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 75,
-                "Shape_Length": 1.9962314501890654
+                "Shape_Length": 1.9962314501890654,
+                "Country": "Mexico"
             }
         },
         {
@@ -50466,7 +50541,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 76,
-                "Shape_Length": 6.102524640839762
+                "Shape_Length": 6.102524640839762,
+                "Country": "Mexico"
             }
         },
         {
@@ -50546,7 +50622,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 77,
-                "Shape_Length": 26.17338501449425
+                "Shape_Length": 26.17338501449425,
+                "Country": "United States"
             }
         },
         {
@@ -50630,7 +50707,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 78,
-                "Shape_Length": 26.128038163665778
+                "Shape_Length": 26.128038163665778,
+                "Country": "United States"
             }
         },
         {
@@ -50686,7 +50764,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 79,
-                "Shape_Length": 10.849426852337244
+                "Shape_Length": 10.849426852337244,
+                "Country": "United States"
             }
         },
         {
@@ -50762,7 +50841,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 80,
-                "Shape_Length": 24.080914562189072
+                "Shape_Length": 24.080914562189072,
+                "Country": "United States"
             }
         },
         {
@@ -50846,7 +50926,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 81,
-                "Shape_Length": 27.757082393644847
+                "Shape_Length": 27.757082393644847,
+                "Country": "United States"
             }
         },
         {
@@ -51002,7 +51083,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 82,
-                "Shape_Length": 67.88360317652223
+                "Shape_Length": 67.88360317652223,
+                "Country": "Argentina"
             }
         },
         {
@@ -51194,7 +51276,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 83,
-                "Shape_Length": 119.13102759130233
+                "Shape_Length": 119.13102759130233,
+                "Country": "Germany"
             }
         },
         {
@@ -51262,7 +51345,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 84,
-                "Shape_Length": 17.04538448545491
+                "Shape_Length": 17.04538448545491,
+                "Country": "Cuba"
             }
         },
         {
@@ -51310,7 +51394,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 85,
-                "Shape_Length": 6.519874487223588
+                "Shape_Length": 6.519874487223588,
+                "Country": "Mexico"
             }
         },
         {
@@ -51382,7 +51467,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 86,
-                "Shape_Length": 19.084274361151454
+                "Shape_Length": 19.084274361151454,
+                "Country": "United States"
             }
         },
         {
@@ -51570,7 +51656,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 87,
-                "Shape_Length": 108.14808159275921
+                "Shape_Length": 108.14808159275921,
+                "Country": "Spain"
             }
         },
         {
@@ -51714,7 +51801,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 88,
-                "Shape_Length": 59.99335486994687
+                "Shape_Length": 59.99335486994687,
+                "Country": "Chile"
             }
         },
         {
@@ -51802,7 +51890,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 89,
-                "Shape_Length": 29.45277076958356
+                "Shape_Length": 29.45277076958356,
+                "Country": "Dominican Republic"
             }
         },
         {
@@ -51902,7 +51991,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 90,
-                "Shape_Length": 36.651386552517295
+                "Shape_Length": 36.651386552517295,
+                "Country": "United States"
             }
         },
         {
@@ -51982,7 +52072,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 91,
-                "Shape_Length": 25.00157937542365
+                "Shape_Length": 25.00157937542365,
+                "Country": "United States"
             }
         },
         {
@@ -52042,7 +52133,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 92,
-                "Shape_Length": 11.840878217175874
+                "Shape_Length": 11.840878217175874,
+                "Country": "Honduras"
             }
         },
         {
@@ -52130,7 +52222,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 93,
-                "Shape_Length": 29.595689683217344
+                "Shape_Length": 29.595689683217344,
+                "Country": "United States"
             }
         },
         {
@@ -52194,7 +52287,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 94,
-                "Shape_Length": 14.826720440135558
+                "Shape_Length": 14.826720440135558,
+                "Country": "Nicaragua"
             }
         },
         {
@@ -52282,7 +52376,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 95,
-                "Shape_Length": 28.504575228828504
+                "Shape_Length": 28.504575228828504,
+                "Country": "Ecuador"
             }
         },
         {
@@ -52478,7 +52573,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 96,
-                "Shape_Length": 122.26028446859391
+                "Shape_Length": 122.26028446859391,
+                "Country": "Germany"
             }
         },
         {
@@ -52566,7 +52662,8 @@
                 "StartLon": -99.072098,
                 "StartLat": 19.4363,
                 "ORIG_FID": 97,
-                "Shape_Length": 29.733506440469853
+                "Shape_Length": 29.733506440469853,
+                "Country": "United States"
             }
         }
     ]

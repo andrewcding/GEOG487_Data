@@ -42,7 +42,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 1,
-                "Shape_Length": 3.7564989675221137
+                "Shape_Length": 3.7564989675221137,
+                "Country": "United Arab Emirates"
             }
         },
         {
@@ -86,7 +87,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 2,
-                "Shape_Length": 3.1569333964298254
+                "Shape_Length": 3.1569333964298254,
+                "Country": "United Arab Emirates"
             }
         },
         {
@@ -130,7 +132,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 3,
-                "Shape_Length": 4.919609277517496
+                "Shape_Length": 4.919609277517496,
+                "Country": "Saudi Arabia"
             }
         },
         {
@@ -250,7 +253,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 4,
-                "Shape_Length": 59.390809745446575
+                "Shape_Length": 59.390809745446575,
+                "Country": "United Kingdom"
             }
         },
         {
@@ -290,7 +294,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 5,
-                "Shape_Length": 1.394662073015877
+                "Shape_Length": 1.394662073015877,
+                "Country": "Bahrain"
             }
         },
         {
@@ -338,7 +343,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 6,
-                "Shape_Length": 6.8850718307777585
+                "Shape_Length": 6.8850718307777585,
+                "Country": "Oman"
             }
         },
         {
@@ -386,7 +392,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 7,
-                "Shape_Length": 5.373956061462936
+                "Shape_Length": 5.373956061462936,
+                "Country": "Kuwait"
             }
         },
         {
@@ -446,7 +453,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 8,
-                "Shape_Length": 12.963951327611461
+                "Shape_Length": 12.963951327611461,
+                "Country": "Saudi Arabia"
             }
         },
         {
@@ -518,7 +526,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 9,
-                "Shape_Length": 20.798247606319435
+                "Shape_Length": 20.798247606319435,
+                "Country": "Egypt"
             }
         },
         {
@@ -614,7 +623,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 10,
-                "Shape_Length": 33.61638921208678
+                "Shape_Length": 33.61638921208678,
+                "Country": "Sri Lanka"
             }
         },
         {
@@ -658,7 +668,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 11,
-                "Shape_Length": 3.9096536566015554
+                "Shape_Length": 3.9096536566015554,
+                "Country": "United Arab Emirates"
             }
         },
         {
@@ -734,7 +745,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 12,
-                "Shape_Length": 22.160636684482043
+                "Shape_Length": 22.160636684482043,
+                "Country": "India"
             }
         },
         {
@@ -826,7 +838,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 13,
-                "Shape_Length": 33.92238500859188
+                "Shape_Length": 33.92238500859188,
+                "Country": "Nepal"
             }
         },
         {
@@ -906,7 +919,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 14,
-                "Shape_Length": 25.744695944987
+                "Shape_Length": 25.744695944987,
+                "Country": "India"
             }
         },
         {
@@ -1030,7 +1044,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 15,
-                "Shape_Length": 50.68817080136603
+                "Shape_Length": 50.68817080136603,
+                "Country": "Thailand"
             }
         },
         {
@@ -1094,7 +1109,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 16,
-                "Shape_Length": 16.908609181813915
+                "Shape_Length": 16.908609181813915,
+                "Country": "Jordan"
             }
         },
         {
@@ -1162,7 +1178,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 17,
-                "Shape_Length": 18.266707561859945
+                "Shape_Length": 18.266707561859945,
+                "Country": "Lebanon"
             }
         },
         {
@@ -1250,7 +1267,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 18,
-                "Shape_Length": 29.076455000390826
+                "Shape_Length": 29.076455000390826,
+                "Country": "India"
             }
         },
         {
@@ -1334,7 +1352,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 19,
-                "Shape_Length": 28.00580076400419
+                "Shape_Length": 28.00580076400419,
+                "Country": "Turkey"
             }
         },
         {
@@ -1482,7 +1501,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 20,
-                "Shape_Length": 63.51986030777947
+                "Shape_Length": 63.51986030777947,
+                "Country": "Indonesia"
             }
         },
         {
@@ -1614,7 +1634,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 21,
-                "Shape_Length": 55.09865711929374
+                "Shape_Length": 55.09865711929374,
+                "Country": "Malaysia"
             }
         },
         {
@@ -1654,7 +1675,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 22,
-                "Shape_Length": 2.170792388889942
+                "Shape_Length": 2.170792388889942,
+                "Country": "Saudi Arabia"
             }
         },
         {
@@ -1738,7 +1760,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 23,
-                "Shape_Length": 28.03895347470439
+                "Shape_Length": 28.03895347470439,
+                "Country": "India"
             }
         },
         {
@@ -1854,7 +1877,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 24,
-                "Shape_Length": 55.3320039241516
+                "Shape_Length": 55.3320039241516,
+                "Country": "France"
             }
         },
         {
@@ -1954,7 +1978,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 25,
-                "Shape_Length": 38.93192626061969
+                "Shape_Length": 38.93192626061969,
+                "Country": "Bangladesh"
             }
         },
         {
@@ -2034,7 +2059,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 26,
-                "Shape_Length": 27.32476748107522
+                "Shape_Length": 27.32476748107522,
+                "Country": "Turkey"
             }
         },
         {
@@ -2118,7 +2144,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 27,
-                "Shape_Length": 30.528348427003312
+                "Shape_Length": 30.528348427003312,
+                "Country": "Greece"
             }
         },
         {
@@ -2234,7 +2261,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 28,
-                "Shape_Length": 52.578494001120205
+                "Shape_Length": 52.578494001120205,
+                "Country": "Spain"
             }
         },
         {
@@ -2398,7 +2426,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 29,
-                "Shape_Length": 72.27367277613853
+                "Shape_Length": 72.27367277613853,
+                "Country": "Indonesia"
             }
         },
         {
@@ -2502,7 +2531,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 30,
-                "Shape_Length": 43.00964146381798
+                "Shape_Length": 43.00964146381798,
+                "Country": "Italy"
             }
         },
         {
@@ -2614,7 +2644,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 31,
-                "Shape_Length": 50.35170137370218
+                "Shape_Length": 50.35170137370218,
+                "Country": "Germany"
             }
         },
         {
@@ -2826,7 +2857,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 32,
-                "Shape_Length": 137.26359955644156
+                "Shape_Length": 137.26359955644156,
+                "Country": "United States"
             }
         },
         {
@@ -2950,7 +2982,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 33,
-                "Shape_Length": 57.88977988838416
+                "Shape_Length": 57.88977988838416,
+                "Country": "Spain"
             }
         },
         {
@@ -3074,7 +3107,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 34,
-                "Shape_Length": 62.090870591871315
+                "Shape_Length": 62.090870591871315,
+                "Country": "United Kingdom"
             }
         },
         {
@@ -3230,7 +3264,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 35,
-                "Shape_Length": 70.85824025524657
+                "Shape_Length": 70.85824025524657,
+                "Country": "Philippines"
             }
         },
         {
@@ -3338,7 +3373,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 36,
-                "Shape_Length": 47.96584108786443
+                "Shape_Length": 47.96584108786443,
+                "Country": "Italy"
             }
         },
         {
@@ -3474,7 +3510,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 37,
-                "Shape_Length": 57.76710111879491
+                "Shape_Length": 57.76710111879491,
+                "Country": "Singapore"
             }
         },
         {
@@ -3530,7 +3567,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 38,
-                "Shape_Length": 11.9279101741398
+                "Shape_Length": 11.9279101741398,
+                "Country": "Saudi Arabia"
             }
         },
         {
@@ -3606,7 +3644,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 39,
-                "Shape_Length": 22.83929117226368
+                "Shape_Length": 22.83929117226368,
+                "Country": "Pakistan"
             }
         },
         {
@@ -3682,7 +3721,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 40,
-                "Shape_Length": 23.671197774850587
+                "Shape_Length": 23.671197774850587,
+                "Country": "Pakistan"
             }
         },
         {
@@ -3810,7 +3850,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 41,
-                "Shape_Length": 54.668524747250004
+                "Shape_Length": 54.668524747250004,
+                "Country": "Vietnam"
             }
         },
         {
@@ -3926,7 +3967,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 42,
-                "Shape_Length": 55.048014875982986
+                "Shape_Length": 55.048014875982986,
+                "Country": "Netherlands"
             }
         },
         {
@@ -3982,7 +4024,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 43,
-                "Shape_Length": 10.876823360474038
+                "Shape_Length": 10.876823360474038,
+                "Country": "Iraq"
             }
         },
         {
@@ -4070,7 +4113,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 44,
-                "Shape_Length": 28.79398546568547
+                "Shape_Length": 28.79398546568547,
+                "Country": "India"
             }
         },
         {
@@ -4206,7 +4250,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 45,
-                "Shape_Length": 62.23694164533222
+                "Shape_Length": 62.23694164533222,
+                "Country": "China"
             }
         },
         {
@@ -4294,7 +4339,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 46,
-                "Shape_Length": 28.187103549345917
+                "Shape_Length": 28.187103549345917,
+                "Country": "India"
             }
         },
         {
@@ -4422,7 +4468,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 47,
-                "Shape_Length": 60.35564243827114
+                "Shape_Length": 60.35564243827114,
+                "Country": "Morocco"
             }
         },
         {
@@ -4666,7 +4713,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 48,
-                "Shape_Length": 172.8284637320099
+                "Shape_Length": 172.8284637320099,
+                "Country": "United States"
             }
         },
         {
@@ -4794,7 +4842,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 49,
-                "Shape_Length": 65.89125757828826
+                "Shape_Length": 65.89125757828826,
+                "Country": "Ireland"
             }
         },
         {
@@ -4922,7 +4971,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 50,
-                "Shape_Length": 64.59324727780552
+                "Shape_Length": 64.59324727780552,
+                "Country": "United Kingdom"
             }
         },
         {
@@ -5150,7 +5200,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 51,
-                "Shape_Length": 109.77907264077932
+                "Shape_Length": 109.77907264077932,
+                "Country": "Brazil"
             }
         },
         {
@@ -5290,7 +5341,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 52,
-                "Shape_Length": 62.898027992047645
+                "Shape_Length": 62.898027992047645,
+                "Country": "Hong Kong"
             }
         },
         {
@@ -5506,7 +5558,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 53,
-                "Shape_Length": 142.02887173701495
+                "Shape_Length": 142.02887173701495,
+                "Country": "United States"
             }
         },
         {
@@ -5562,7 +5615,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 54,
-                "Shape_Length": 10.153319480934108
+                "Shape_Length": 10.153319480934108,
+                "Country": "Iran"
             }
         },
         {
@@ -5698,7 +5752,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 55,
-                "Shape_Length": 56.49065274341465
+                "Shape_Length": 56.49065274341465,
+                "Country": "South Africa"
             }
         },
         {
@@ -5762,7 +5817,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 56,
-                "Shape_Length": 15.5642775054156
+                "Shape_Length": 15.5642775054156,
+                "Country": "Pakistan"
             }
         },
         {
@@ -5890,7 +5946,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 57,
-                "Shape_Length": 51.94555391017438
+                "Shape_Length": 51.94555391017438,
+                "Country": "Nigeria"
             }
         },
         {
@@ -5982,7 +6039,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 58,
-                "Shape_Length": 31.137088234973216
+                "Shape_Length": 31.137088234973216,
+                "Country": "India"
             }
         },
         {
@@ -6210,7 +6268,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 59,
-                "Shape_Length": 113.46112068804338
+                "Shape_Length": 113.46112068804338,
+                "Country": "Australia"
             }
         },
         {
@@ -6302,7 +6361,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 60,
-                "Shape_Length": 30.442273635218108
+                "Shape_Length": 30.442273635218108,
+                "Country": "Maldives"
             }
         },
         {
@@ -6410,7 +6470,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 61,
-                "Shape_Length": 46.562025487999996
+                "Shape_Length": 46.562025487999996,
+                "Country": "Germany"
             }
         },
         {
@@ -6502,7 +6563,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 62,
-                "Shape_Length": 30.388728165333603
+                "Shape_Length": 30.388728165333603,
+                "Country": "Kenya"
             }
         },
         {
@@ -6590,7 +6652,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 63,
-                "Shape_Length": 32.17704546694829
+                "Shape_Length": 32.17704546694829,
+                "Country": "Romania"
             }
         },
         {
@@ -6726,7 +6789,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 65,
-                "Shape_Length": 67.36031660154613
+                "Shape_Length": 67.36031660154613,
+                "Country": "China"
             }
         },
         {
@@ -6826,7 +6890,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 66,
-                "Shape_Length": 42.244415667188186
+                "Shape_Length": 42.244415667188186,
+                "Country": "Austria"
             }
         },
         {
@@ -6926,7 +6991,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 67,
-                "Shape_Length": 41.260531046124214
+                "Shape_Length": 41.260531046124214,
+                "Country": "Poland"
             }
         },
         {
@@ -7034,7 +7100,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 68,
-                "Shape_Length": 49.0176942125192
+                "Shape_Length": 49.0176942125192,
+                "Country": "Switzerland"
             }
         },
         {
@@ -7154,7 +7221,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 69,
-                "Shape_Length": 58.969406110344316
+                "Shape_Length": 58.969406110344316,
+                "Country": "United Kingdom"
             }
         },
         {
@@ -7286,7 +7354,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 70,
-                "Shape_Length": 57.175319134256874
+                "Shape_Length": 57.175319134256874,
+                "Country": "Vietnam"
             }
         },
         {
@@ -7402,7 +7471,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 71,
-                "Shape_Length": 54.52038154552995
+                "Shape_Length": 54.52038154552995,
+                "Country": "Belgium"
             }
         },
         {
@@ -7486,7 +7556,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 72,
-                "Shape_Length": 27.444004446912764
+                "Shape_Length": 27.444004446912764,
+                "Country": "India"
             }
         },
         {
@@ -7550,7 +7621,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 73,
-                "Shape_Length": 15.275262339885575
+                "Shape_Length": 15.275262339885575,
+                "Country": "Azerbaijan"
             }
         },
         {
@@ -7674,7 +7746,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 74,
-                "Shape_Length": 49.91779181818564
+                "Shape_Length": 49.91779181818564,
+                "Country": "Thailand"
             }
         },
         {
@@ -7762,7 +7835,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 75,
-                "Shape_Length": 31.360551750282212
+                "Shape_Length": 31.360551750282212,
+                "Country": "Kazakhstan"
             }
         },
         {
@@ -7874,7 +7948,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 76,
-                "Shape_Length": 50.30717686143994
+                "Shape_Length": 50.30717686143994,
+                "Country": "Denmark"
             }
         },
         {
@@ -7966,7 +8041,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 77,
-                "Shape_Length": 31.70603345981655
+                "Shape_Length": 31.70603345981655,
+                "Country": "Uganda"
             }
         },
         {
@@ -8062,7 +8138,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 78,
-                "Shape_Length": 34.042904810915346
+                "Shape_Length": 34.042904810915346,
+                "Country": "Russia"
             }
         },
         {
@@ -8174,7 +8251,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 79,
-                "Shape_Length": 49.19937735562802
+                "Shape_Length": 49.19937735562802,
+                "Country": "Sweden"
             }
         },
         {
@@ -8378,7 +8456,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 80,
-                "Shape_Length": 133.9184454287326
+                "Shape_Length": 133.9184454287326,
+                "Country": "United States"
             }
         },
         {
@@ -8438,7 +8517,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 81,
-                "Shape_Length": 13.375580363254397
+                "Shape_Length": 13.375580363254397,
+                "Country": "Iraq"
             }
         },
         {
@@ -8690,7 +8770,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 82,
-                "Shape_Length": 226.65027469380053
+                "Shape_Length": 226.65027469380053,
+                "Country": "United States"
             }
         },
         {
@@ -8806,7 +8887,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 83,
-                "Shape_Length": 52.669121289545686
+                "Shape_Length": 52.669121289545686,
+                "Country": "Germany"
             }
         },
         {
@@ -9042,7 +9124,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 84,
-                "Shape_Length": 143.75366270942678
+                "Shape_Length": 143.75366270942678,
+                "Country": "United States"
             }
         },
         {
@@ -9158,7 +9241,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 85,
-                "Shape_Length": 54.881432398242694
+                "Shape_Length": 54.881432398242694,
+                "Country": "Norway"
             }
         },
         {
@@ -9262,7 +9346,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 86,
-                "Shape_Length": 45.401223677451796
+                "Shape_Length": 45.401223677451796,
+                "Country": "Czech Republic"
             }
         },
         {
@@ -9354,7 +9439,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 87,
-                "Shape_Length": 30.412620284114276
+                "Shape_Length": 30.412620284114276,
+                "Country": "India"
             }
         },
         {
@@ -9458,7 +9544,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 88,
-                "Shape_Length": 43.21973823570356
+                "Shape_Length": 43.21973823570356,
+                "Country": "Tunisia"
             }
         },
         {
@@ -9558,7 +9645,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 89,
-                "Shape_Length": 41.363767781494424
+                "Shape_Length": 41.363767781494424,
+                "Country": "Croatia"
             }
         },
         {
@@ -9670,7 +9758,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 90,
-                "Shape_Length": 50.101784935230185
+                "Shape_Length": 50.101784935230185,
+                "Country": "Algeria"
             }
         },
         {
@@ -9822,7 +9911,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 91,
-                "Shape_Length": 77.31801736317063
+                "Shape_Length": 77.31801736317063,
+                "Country": "South Korea"
             }
         },
         {
@@ -9894,7 +9984,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 92,
-                "Shape_Length": 21.76616228385951
+                "Shape_Length": 21.76616228385951,
+                "Country": "Pakistan"
             }
         },
         {
@@ -10114,7 +10205,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 93,
-                "Shape_Length": 106.33356326101705
+                "Shape_Length": 106.33356326101705,
+                "Country": "Australia"
             }
         },
         {
@@ -10386,7 +10478,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 94,
-                "Shape_Length": 140.26999843112097
+                "Shape_Length": 140.26999843112097,
+                "Country": "New Zealand"
             }
         },
         {
@@ -10458,7 +10551,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 95,
-                "Shape_Length": 21.158622103028673
+                "Shape_Length": 21.158622103028673,
+                "Country": "India"
             }
         },
         {
@@ -10690,7 +10784,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 96,
-                "Shape_Length": 151.36636171714846
+                "Shape_Length": 151.36636171714846,
+                "Country": "United States"
             }
         },
         {
@@ -10766,7 +10861,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 97,
-                "Shape_Length": 24.102956274366385
+                "Shape_Length": 24.102956274366385,
+                "Country": "India"
             }
         },
         {
@@ -10862,7 +10958,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 98,
-                "Shape_Length": 37.158356870560524
+                "Shape_Length": 37.158356870560524,
+                "Country": "Serbia"
             }
         },
         {
@@ -10986,7 +11083,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 99,
-                "Shape_Length": 61.11179375115918
+                "Shape_Length": 61.11179375115918,
+                "Country": "United Kingdom"
             }
         },
         {
@@ -11034,7 +11132,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 100,
-                "Shape_Length": 6.589314994364673
+                "Shape_Length": 6.589314994364673,
+                "Country": "Iraq"
             }
         },
         {
@@ -11134,7 +11233,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 101,
-                "Shape_Length": 39.55489860860957
+                "Shape_Length": 39.55489860860957,
+                "Country": "Hungary"
             }
         },
         {
@@ -11230,7 +11330,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 102,
-                "Shape_Length": 37.02774639953362
+                "Shape_Length": 37.02774639953362,
+                "Country": "India"
             }
         },
         {
@@ -11386,7 +11487,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 103,
-                "Shape_Length": 67.89478867493126
+                "Shape_Length": 67.89478867493126,
+                "Country": "South Africa"
             }
         },
         {
@@ -11454,7 +11556,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 104,
-                "Shape_Length": 16.544830253807596
+                "Shape_Length": 16.544830253807596,
+                "Country": "Armenia"
             }
         },
         {
@@ -11566,7 +11669,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 105,
-                "Shape_Length": 50.68585377292241
+                "Shape_Length": 50.68585377292241,
+                "Country": "Switzerland"
             }
         },
         {
@@ -11674,7 +11778,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 106,
-                "Shape_Length": 44.84973520998607
+                "Shape_Length": 44.84973520998607,
+                "Country": "Finland"
             }
         },
         {
@@ -11846,7 +11951,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 107,
-                "Shape_Length": 91.26540037686419
+                "Shape_Length": 91.26540037686419,
+                "Country": "Japan"
             }
         },
         {
@@ -12090,7 +12196,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 108,
-                "Shape_Length": 169.23418228155734
+                "Shape_Length": 169.23418228155734,
+                "Country": "United States"
             }
         },
         {
@@ -12202,7 +12309,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 110,
-                "Shape_Length": 51.237930183733404
+                "Shape_Length": 51.237930183733404,
+                "Country": "Germany"
             }
         },
         {
@@ -12262,7 +12370,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 111,
-                "Shape_Length": 12.065607261030571
+                "Shape_Length": 12.065607261030571,
+                "Country": "Iraq"
             }
         },
         {
@@ -12358,7 +12467,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 112,
-                "Shape_Length": 32.18470601047603
+                "Shape_Length": 32.18470601047603,
+                "Country": "Tanzania"
             }
         },
         {
@@ -12422,7 +12532,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 113,
-                "Shape_Length": 15.522099349136058
+                "Shape_Length": 15.522099349136058,
+                "Country": "Sudan"
             }
         },
         {
@@ -12494,7 +12605,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 114,
-                "Shape_Length": 20.416340160261953
+                "Shape_Length": 20.416340160261953,
+                "Country": "Cyprus"
             }
         },
         {
@@ -12730,7 +12842,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 115,
-                "Shape_Length": 114.71914996059918
+                "Shape_Length": 114.71914996059918,
+                "Country": "Australia"
             }
         },
         {
@@ -12902,7 +13015,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 116,
-                "Shape_Length": 91.9679077309682
+                "Shape_Length": 91.9679077309682,
+                "Country": "Japan"
             }
         },
         {
@@ -13122,7 +13236,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 117,
-                "Shape_Length": 158.3855117754315
+                "Shape_Length": 158.3855117754315,
+                "Country": "United States"
             }
         },
         {
@@ -13242,7 +13357,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 118,
-                "Shape_Length": 47.37259988385055
+                "Shape_Length": 47.37259988385055,
+                "Country": "Nigeria"
             }
         },
         {
@@ -13430,7 +13546,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 119,
-                "Shape_Length": 86.33066581832506
+                "Shape_Length": 86.33066581832506,
+                "Country": "Australia"
             }
         },
         {
@@ -13642,7 +13759,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 120,
-                "Shape_Length": 139.1113515886341
+                "Shape_Length": 139.1113515886341,
+                "Country": "United States"
             }
         },
         {
@@ -13790,7 +13908,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 121,
-                "Shape_Length": 71.4366458335867
+                "Shape_Length": 71.4366458335867,
+                "Country": "China"
             }
         },
         {
@@ -13882,7 +14001,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 122,
-                "Shape_Length": 30.203003647428
+                "Shape_Length": 30.203003647428,
+                "Country": "Seychelles"
             }
         },
         {
@@ -14110,7 +14230,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 123,
-                "Shape_Length": 237.12968940053574
+                "Shape_Length": 237.12968940053574,
+                "Country": "United States"
             }
         },
         {
@@ -14358,7 +14479,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 124,
-                "Shape_Length": 241.4198172198858
+                "Shape_Length": 241.4198172198858,
+                "Country": "United States"
             }
         },
         {
@@ -14434,7 +14556,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 125,
-                "Shape_Length": 23.92492211668723
+                "Shape_Length": 23.92492211668723,
+                "Country": "Pakistan"
             }
         },
         {
@@ -14486,7 +14609,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 126,
-                "Shape_Length": 8.601018552625462
+                "Shape_Length": 8.601018552625462,
+                "Country": "Oman"
             }
         },
         {
@@ -14722,7 +14846,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 127,
-                "Shape_Length": 116.59119122029257
+                "Shape_Length": 116.59119122029257,
+                "Country": "Australia"
             }
         },
         {
@@ -14790,7 +14915,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 128,
-                "Shape_Length": 17.70955358392071
+                "Shape_Length": 17.70955358392071,
+                "Country": "Georgia"
             }
         },
         {
@@ -14894,7 +15020,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 129,
-                "Shape_Length": 44.577639259577715
+                "Shape_Length": 44.577639259577715,
+                "Country": "Italy"
             }
         },
         {
@@ -15098,7 +15225,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 130,
-                "Shape_Length": 138.40315424300954
+                "Shape_Length": 138.40315424300954,
+                "Country": "Canada"
             }
         },
         {
@@ -15194,7 +15322,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 131,
-                "Shape_Length": 33.8503768263748
+                "Shape_Length": 33.8503768263748,
+                "Country": "Tanzania"
             }
         },
         {
@@ -15358,7 +15487,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 132,
-                "Shape_Length": 86.14254786000734
+                "Shape_Length": 86.14254786000734,
+                "Country": "Japan"
             }
         },
         {
@@ -15434,7 +15564,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 133,
-                "Shape_Length": 20.73750661237109
+                "Shape_Length": 20.73750661237109,
+                "Country": "Ethiopia"
             }
         },
         {
@@ -15534,7 +15665,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 134,
-                "Shape_Length": 34.71043729695774
+                "Shape_Length": 34.71043729695774,
+                "Country": "Rwanda"
             }
         },
         {
@@ -15610,7 +15742,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 135,
-                "Shape_Length": 23.879299961608314
+                "Shape_Length": 23.879299961608314,
+                "Country": "Turkey"
             }
         },
         {
@@ -15682,7 +15815,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 136,
-                "Shape_Length": 22.656604737904107
+                "Shape_Length": 22.656604737904107,
+                "Country": "Egypt"
             }
         },
         {
@@ -15818,7 +15952,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 137,
-                "Shape_Length": 54.631326178233536
+                "Shape_Length": 54.631326178233536,
+                "Country": "Mozambique"
             }
         },
         {
@@ -15874,7 +16009,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 138,
-                "Shape_Length": 9.852850129920316
+                "Shape_Length": 9.852850129920316,
+                "Country": "Iraq"
             }
         },
         {
@@ -15994,7 +16130,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 139,
-                "Shape_Length": 46.75979160473614
+                "Shape_Length": 46.75979160473614,
+                "Country": "Zambia"
             }
         },
         {
@@ -16090,7 +16227,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 140,
-                "Shape_Length": 38.36105693003215
+                "Shape_Length": 38.36105693003215,
+                "Country": "Bosnia and Herzegovina"
             }
         },
         {
@@ -16178,7 +16316,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 141,
-                "Shape_Length": 33.3204324528353
+                "Shape_Length": 33.3204324528353,
+                "Country": "Bulgaria"
             }
         },
         {
@@ -16310,7 +16449,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 142,
-                "Shape_Length": 63.0375907681739
+                "Shape_Length": 63.0375907681739,
+                "Country": "Portugal"
             }
         },
         {
@@ -16434,7 +16574,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 143,
-                "Shape_Length": 57.838726820437124
+                "Shape_Length": 57.838726820437124,
+                "Country": "Spain"
             }
         },
         {
@@ -16510,7 +16651,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 144,
-                "Shape_Length": 23.88743612196997
+                "Shape_Length": 23.88743612196997,
+                "Country": "Turkey"
             }
         },
         {
@@ -16622,7 +16764,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 145,
-                "Shape_Length": 51.41967848869374
+                "Shape_Length": 51.41967848869374,
+                "Country": "France"
             }
         },
         {
@@ -16774,7 +16917,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 146,
-                "Shape_Length": 70.29979341576363
+                "Shape_Length": 70.29979341576363,
+                "Country": "Philippines"
             }
         },
         {
@@ -16918,7 +17062,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 147,
-                "Shape_Length": 69.90994765518997
+                "Shape_Length": 69.90994765518997,
+                "Country": "China"
             }
         },
         {
@@ -16986,7 +17131,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 148,
-                "Shape_Length": 16.122344955542395
+                "Shape_Length": 16.122344955542395,
+                "Country": "Djibouti"
             }
         },
         {
@@ -17058,7 +17204,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 149,
-                "Shape_Length": 20.43637188583311
+                "Shape_Length": 20.43637188583311,
+                "Country": "Pakistan"
             }
         },
         {
@@ -17142,7 +17289,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 150,
-                "Shape_Length": 27.794598988539086
+                "Shape_Length": 27.794598988539086,
+                "Country": "India"
             }
         },
         {
@@ -17250,7 +17398,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 151,
-                "Shape_Length": 48.51509295874537
+                "Shape_Length": 48.51509295874537,
+                "Country": "France"
             }
         },
         {
@@ -17326,7 +17475,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 152,
-                "Shape_Length": 23.898907403846437
+                "Shape_Length": 23.898907403846437,
+                "Country": "Uzbekistan"
             }
         },
         {
@@ -17370,7 +17520,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 153,
-                "Shape_Length": 4.3777032362642805
+                "Shape_Length": 4.3777032362642805,
+                "Country": "Iran"
             }
         },
         {
@@ -17434,7 +17585,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 154,
-                "Shape_Length": 17.16414907736799
+                "Shape_Length": 17.16414907736799,
+                "Country": "Syria"
             }
         },
         {
@@ -17490,7 +17642,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 155,
-                "Shape_Length": 11.698942356247606
+                "Shape_Length": 11.698942356247606,
+                "Country": "Saudi Arabia"
             }
         },
         {
@@ -17562,7 +17715,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 156,
-                "Shape_Length": 20.12650376338485
+                "Shape_Length": 20.12650376338485,
+                "Country": "Turkey"
             }
         },
         {
@@ -17726,7 +17880,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 157,
-                "Shape_Length": 74.53052260911582
+                "Shape_Length": 74.53052260911582,
+                "Country": "Philippines"
             }
         },
         {
@@ -17830,7 +17985,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 158,
-                "Shape_Length": 40.44409627951416
+                "Shape_Length": 40.44409627951416,
+                "Country": "Bangladesh"
             }
         },
         {
@@ -17954,7 +18110,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 159,
-                "Shape_Length": 55.63640047719684
+                "Shape_Length": 55.63640047719684,
+                "Country": "China"
             }
         },
         {
@@ -18054,7 +18211,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 160,
-                "Shape_Length": 34.46962773525714
+                "Shape_Length": 34.46962773525714,
+                "Country": "Tanzania"
             }
         },
         {
@@ -18170,7 +18328,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 161,
-                "Shape_Length": 54.11247562415446
+                "Shape_Length": 54.11247562415446,
+                "Country": "France"
             }
         },
         {
@@ -18222,7 +18381,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 163,
-                "Shape_Length": 7.902053260771624
+                "Shape_Length": 7.902053260771624,
+                "Country": "Saudi Arabia"
             }
         },
         {
@@ -18286,7 +18446,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 164,
-                "Shape_Length": 15.312956112047573
+                "Shape_Length": 15.312956112047573,
+                "Country": "Saudi Arabia"
             }
         },
         {
@@ -18346,7 +18507,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 165,
-                "Shape_Length": 13.596363281083132
+                "Shape_Length": 13.596363281083132,
+                "Country": "Saudi Arabia"
             }
         },
         {
@@ -18430,7 +18592,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 166,
-                "Shape_Length": 29.028280612257326
+                "Shape_Length": 29.028280612257326,
+                "Country": "Greece"
             }
         },
         {
@@ -18558,7 +18721,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 167,
-                "Shape_Length": 51.418185128166336
+                "Shape_Length": 51.418185128166336,
+                "Country": "Angola"
             }
         },
         {
@@ -18610,7 +18774,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 168,
-                "Shape_Length": 7.482039711471236
+                "Shape_Length": 7.482039711471236,
+                "Country": "Iran"
             }
         },
         {
@@ -18750,7 +18915,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 169,
-                "Shape_Length": 59.264877073672224
+                "Shape_Length": 59.264877073672224,
+                "Country": "Cote d'Ivoire"
             }
         },
         {
@@ -18834,7 +19000,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 170,
-                "Shape_Length": 26.366228990880916
+                "Shape_Length": 26.366228990880916,
+                "Country": "India"
             }
         },
         {
@@ -18978,7 +19145,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 171,
-                "Shape_Length": 67.21421114322504
+                "Shape_Length": 67.21421114322504,
+                "Country": "China"
             }
         },
         {
@@ -19038,7 +19206,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 172,
-                "Shape_Length": 13.600083492087123
+                "Shape_Length": 13.600083492087123,
+                "Country": "Iran"
             }
         },
         {
@@ -19170,7 +19339,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 173,
-                "Shape_Length": 55.57992576033424
+                "Shape_Length": 55.57992576033424,
+                "Country": "Ghana"
             }
         },
         {
@@ -19230,7 +19400,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 175,
-                "Shape_Length": 13.53811678869569
+                "Shape_Length": 13.53811678869569,
+                "Country": "Saudi Arabia"
             }
         },
         {
@@ -19350,7 +19521,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 176,
-                "Shape_Length": 46.833575055659004
+                "Shape_Length": 46.833575055659004,
+                "Country": "Congo (Kinshasa)"
             }
         },
         {
@@ -19422,7 +19594,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 177,
-                "Shape_Length": 19.704606960783977
+                "Shape_Length": 19.704606960783977,
+                "Country": "Turkey"
             }
         },
         {
@@ -19466,7 +19639,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 178,
-                "Shape_Length": 3.6702880261152755
+                "Shape_Length": 3.6702880261152755,
+                "Country": "Iran"
             }
         },
         {
@@ -19558,7 +19732,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 179,
-                "Shape_Length": 30.782840226787854
+                "Shape_Length": 30.782840226787854,
+                "Country": "India"
             }
         },
         {
@@ -19662,7 +19837,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 180,
-                "Shape_Length": 40.39391964243076
+                "Shape_Length": 40.39391964243076,
+                "Country": "Bangladesh"
             }
         },
         {
@@ -19742,7 +19918,8 @@
                 "StartLon": 51.608056,
                 "StartLat": 25.273056,
                 "ORIG_FID": 181,
-                "Shape_Length": 26.84435944879204
+                "Shape_Length": 26.84435944879204,
+                "Country": "Turkey"
             }
         }
     ]
